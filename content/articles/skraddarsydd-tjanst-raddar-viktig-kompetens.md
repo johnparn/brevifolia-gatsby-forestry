@@ -49,5 +49,11 @@ articles_teasers_2:
   content: ''
   image: ''
   image_caption: ''
+- template: article-teaser
+  label: Mira fick orken tillbaka på Gröna rehab
+  url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/mira-fick-orken-tillbaka-pa-grona-rehab/
+  content: ''
+  image: ''
+  image_caption: ''
 
 ---
