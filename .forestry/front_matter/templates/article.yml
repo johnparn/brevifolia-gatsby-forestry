@@ -70,5 +70,12 @@ fields:
   config:
     min: 
     max: 
+- name: content_type
+  type: text
+  config:
+    required: false
+  hidden: true
+  default: article
+  label: Content Type
 pages:
 - content/articles/skraddarsydd-tjanst-raddar-viktig-kompetens.md
