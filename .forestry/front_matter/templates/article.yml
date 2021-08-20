@@ -62,5 +62,13 @@ fields:
       file: 
       path: 
   label: Friskfaktorer
+- name: articles_teasers_2
+  type: blocks
+  label: Articles Teasers 2
+  template_types:
+  - article-teaser
+  config:
+    min: 
+    max: 
 pages:
 - content/articles/skraddarsydd-tjanst-raddar-viktig-kompetens.md
