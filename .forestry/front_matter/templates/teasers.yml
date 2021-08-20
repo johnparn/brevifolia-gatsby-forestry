@@ -1,4 +1,22 @@
 ---
 label: Teasers
 hide_body: false
-fields: []
+fields:
+- name: teasers-articles
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Teasers Articles
