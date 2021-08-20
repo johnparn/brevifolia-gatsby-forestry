@@ -62,8 +62,5 @@ fields:
       file: 
       path: 
   label: Friskfaktorer
-- name: teasers
-  type: include
-  config: {}
-  template: article-teaser
-  label: Teasers
+pages:
+- content/articles/skraddarsydd-tjanst-raddar-viktig-kompetens.md
