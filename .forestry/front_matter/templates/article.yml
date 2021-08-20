@@ -62,3 +62,8 @@ fields:
       file: 
       path: 
   label: Friskfaktorer
+- name: teasers
+  type: include
+  config: {}
+  template: article-teaser
+  label: Teasers
