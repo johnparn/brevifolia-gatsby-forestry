@@ -78,4 +78,5 @@ fields:
   default: article
   label: Content Type
 pages:
+- content/articles/annu-en-artikel-for-att-testa-content-type.md
 - content/articles/skraddarsydd-tjanst-raddar-viktig-kompetens.md
