@@ -39,7 +39,7 @@ content: |-
   Att ta en personlig tjänst var inte självklart, berättar hon.
 
   – Jag strävade emot först, eftersom det kändes som ett bakslag. Men när jag träffade min nuvarande chef kände jag mig helt trygg – och nu känns det jättebra! Här kan jag arbeta i eget tempo, planera mina egna dagar, och stänga min dörr om det är mycket ljud runtomkring.
-activity: Undersök
+activity: Kom igång
 url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
 label: Anpassa arbetet med Prehabguiden
 articles_teasers_2:
@@ -55,5 +55,6 @@ articles_teasers_2:
   content: ''
   image: ''
   image_caption: ''
+content_type: ''
 
 ---
