@@ -42,5 +42,12 @@ content: |-
 activity: Undersök
 url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
 label: Anpassa arbetet med Prehabguiden
+articles_teasers_2:
+- template: article-teaser
+  label: Anpassa arbetet med Prehabguiden
+  url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
+  content: ''
+  image: ''
+  image_caption: ''
 
 ---
