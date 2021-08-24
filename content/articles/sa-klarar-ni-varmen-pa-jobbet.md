@@ -14,9 +14,7 @@ När sommaren kommer är det viktigt att hålla koll på temperaturen på arbets
 
 Sommaren är här, och med den även den underbara sommarvärmen. Eller? För den som arbetar när det är som varmast kan känslan vara en annan.
 
-[![](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/200x220-Karin-lundgren-kownacki.jpg =200x220)](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/200x220-Karin-lundgren-kownacki.jpg "Karin Lundgren Kownacki")
-
-– Värmen påverkar både välmåendet och hälsan. Det kan ge lägre prestation och koncentration, och det kan göra att man blir tröttare, till exempel.
+– Värmen påverkar både välmåendet och hälsan. Det kan ge lägre prestation och koncentration, och det kan göra att man blir tröttare, till exempel.![Karin Lundgren Kownacki](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/200x220-Karin-lundgren-kownacki.jpg)
 
 Det säger Karin Lundgren Kownacki, analytiker inom klimatanpassning på SMHI. Hon har tidigare forskat på hur värmeexponering påverkar arbetsmiljön. Och nu under coronapandemin har hon tillsammans med tidigare kollegor undersökt risken för vårdpersonal i skyddsutrustning att utsättas för så kallad värmestress.
 
