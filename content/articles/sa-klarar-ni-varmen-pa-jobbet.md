@@ -16,7 +16,7 @@ Sommaren är här, och med den även den underbara sommarvärmen. Eller? För de
 
 – Värmen påverkar både välmåendet och hälsan. Det kan ge lägre prestation och koncentration, och det kan göra att man blir tröttare, till exempel.
 
-![](/content/images/200x220-karin-lundgren-kownacki.jpg)
+![Karin Lundgren Kownacki](/content/images/200x220-karin-lundgren-kownacki.jpg "Bild på Karin Lundgren Kownacki")
 
 Det säger Karin Lundgren Kownacki, analytiker inom klimatanpassning på SMHI. Hon har tidigare forskat på hur värmeexponering påverkar arbetsmiljön. Och nu under coronapandemin har hon tillsammans med tidigare kollegor undersökt risken för vårdpersonal i skyddsutrustning att utsättas för så kallad värmestress.
 
