@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
 
@@ -10,13 +13,20 @@ module.exports = {
     about: config.about,
     contact: config.contact,
     primaryColor: config.primary_color,
-    infoData: infoData
+    infoData: infoData,
+    siteUrl: process.env.SITE_URL,
   },
   plugins: [
     "gatsby-plugin-sass",
-    "gatsby-transformer-remark",
+    // "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-yaml",
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        excludes: [],
+      },
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -27,9 +37,16 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
+        name: "articles",
+        path: `${__dirname}/content/articles`,
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
         name: "posts",
-        path: `${__dirname}/content/posts`
-      }
+        path: `${__dirname}/content/posts`,
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
@@ -45,19 +62,37 @@ module.exports = {
         path: `${__dirname}/content/images`,
       },
     },
+    // `gatsby-plugin-image`,
     {
-      resolve: "gatsby-plugin-sharp", 
+      resolve: "gatsby-plugin-sharp",
       options: {
-        defaultQuality: 75
-      }
+        defaultQuality: 75,
+      },
     },
     `gatsby-transformer-sharp`,
+    // {
+    //   resolve: "gatsby-remark-images",
+    //   options: {
+    //     maxWidth: 1000,
+    //     linkImagesToOriginal: true,
+    //   },
+    // },
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           "gatsby-remark-relative-images",
           "gatsby-remark-normalize-paths",
+          // {
+          //   resolve: "gatsby-remark-normalize-paths",
+          //   options: {
+          //     pathFields: [
+          //       "images",
+          //       `${__dirname}/content/images`,
+          //       `/content/images`,
+          //     ],
+          //   },
+          // },
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -65,6 +100,8 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+          `gatsby-transformer-sharp`,
+          `gatsby-plugin-image`,
         ],
       },
     },

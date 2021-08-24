@@ -1,29 +1,38 @@
 import { graphql, useStaticQuery } from "gatsby"
 
-export default function useBlogData() {
+export default function useArticleData() {
   const data = useStaticQuery(graphql`
-    query getBlogData {
+    query getArticleData {
       allMarkdownRemark(
-        filter: { frontmatter: { content_type: { eq: "post" } } }
         sort: { order: DESC, fields: frontmatter___date }
+        filter: { frontmatter: { content_type: { eq: "article" } } }
       ) {
         edges {
           node {
             id
             frontmatter {
               date(formatString: "YYYY-MM-DD")
-              author
               title
-              # hero_image
-              hero_image {
+              content
+              activity
+              friskfaktorer
+              #image
+              # excerpt(pruneLength: 200)
+              image {
+                id
+                #   base
+                #   name
                 childImageSharp {
-                  fluid(maxWidth: 800) {
-                    ...GatsbyImageSharpFluid
+                  fluid {
+                    base64
+                    src
+                    srcSet
+                    aspectRatio
+                    sizes
                   }
                 }
               }
             }
-            excerpt(pruneLength: 200)
             fields {
               slug
             }
