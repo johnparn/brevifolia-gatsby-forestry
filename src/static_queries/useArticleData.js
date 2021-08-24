@@ -10,6 +10,7 @@ export default function useArticleData() {
         edges {
           node {
             id
+            excerpt(pruneLength: 200)
             frontmatter {
               date(formatString: "YYYY-MM-DD")
               title
@@ -17,7 +18,7 @@ export default function useArticleData() {
               activity
               friskfaktorer
               #image
-              # excerpt(pruneLength: 200)
+
               image {
                 id
                 #   base

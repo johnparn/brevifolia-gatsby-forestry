@@ -35,7 +35,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
-    "react-remark": "^2.0.3",
     "typescript": "^3.9.5",
     "webpack": "^4.43.0"
   },

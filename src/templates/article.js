@@ -1,12 +1,10 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import useArticleData from "../static_queries/useArticleData"
 import articleTemplateStyles from "../styles/templates/article.module.scss"
 //this component handles the blur img & fade-ins
 import Img from "gatsby-image"
-import { GatsbyImage } from "gatsby-plugin-image"
-import { Remark } from "react-remark"
 
 export default function Article(props) {
   const data = props.data.markdownRemark
@@ -28,6 +26,9 @@ export default function Article(props) {
   return (
     <Layout>
       <article className={articleTemplateStyles.blog}>
+        <section style={{ padding: "1rem", textAlign: "right" }}>
+          {data.frontmatter.friskfaktorer} {data.frontmatter.activity}
+        </section>
         <div className={articleTemplateStyles.blog__info}>
           <h1>{data.frontmatter.title}</h1>
           <p>{data.frontmatter.date}</p>
@@ -36,14 +37,13 @@ export default function Article(props) {
               <Img fluid={data.frontmatter.image.childImageSharp.fluid} />
             </div>
           )}
-          <Remark>{data.frontmatter.content}</Remark>
+          <section
+            dangerouslySetInnerHTML={{
+              __html: data.html,
+            }}
+          ></section>
         </div>
-        {/* <p>{JSON.stringify(data)}</p> */}
         <hr />
-        <p>
-          {JSON.stringify(data.frontmatter.friskfaktorer)}{" "}
-          {JSON.stringify(data.frontmatter.activity)}
-        </p>
       </article>
     </Layout>
   )
@@ -57,9 +57,12 @@ export const getArticleData = graphql`
       fields {
         slug
       }
+      html
       frontmatter {
         title
         content
+        friskfaktorer
+        activity
         # image
         image {
           base

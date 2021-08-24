@@ -18,7 +18,6 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-sass",
-    // "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-yaml",
     {
@@ -81,7 +80,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          "gatsby-remark-relative-images",
+          // "gatsby-remark-relative-images",
           "gatsby-remark-normalize-paths",
           // {
           //   resolve: "gatsby-remark-normalize-paths",
@@ -101,7 +100,7 @@ module.exports = {
             },
           },
           `gatsby-transformer-sharp`,
-          `gatsby-plugin-image`,
+          // `gatsby-plugin-image`,
         ],
       },
     },

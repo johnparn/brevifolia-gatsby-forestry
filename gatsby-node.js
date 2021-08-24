@@ -17,13 +17,11 @@ module.exports.onCreateNode = ({ node, actions, getNode }) => {
 
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  //dynamically create pages here
-  //get path to template
 
   const blogTemplate = path.resolve("./src/templates/blog.js")
   const articleTemplate = path.resolve("./src/templates/article.js")
 
-  //get slugs
+  // Get posts
   const posts = graphql(`
     query {
       allMarkdownRemark(
@@ -42,6 +40,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `).then(result => {
+    // Generate each post
     const allEdges = result.data.allMarkdownRemark.edges
 
     allEdges.forEach(edge => {
@@ -55,6 +54,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
+  // Get articles
   const articles = graphql(`
     query {
       allMarkdownRemark(
@@ -73,6 +73,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `).then(result => {
+    // Generate each article
     const allEdges = result.data.allMarkdownRemark.edges
 
     allEdges.forEach(edge => {
@@ -85,34 +86,6 @@ module.exports.createPages = async ({ graphql, actions }) => {
       })
     })
   })
-
-  // const articleTemplate = path.resolve("./src/templates/article.js")
-  // //get slugs
-  // const articles = graphql(`
-  //   query {
-  //     allMarkdownRemark {
-  //       edges {
-  //         node {
-  //           fields {
-  //             slug
-  //             collection
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // `).then(result => {
-  //   //create new pages with unique slug
-  //   result.data.allMarkdownRemark.edges.forEach(edge => {
-  //     createPage({
-  //       component: articleTemplate,
-  //       path: `/article/${edge.node.fields.slug}`,
-  //       context: {
-  //         slug: edge.node.fields.slug,
-  //       },
-  //     })
-  //   })
-  // })
 
   return Promise.all([posts, articles])
 }
