@@ -72,7 +72,7 @@ fields:
   type: blocks
   label: Teasers2
   template_types:
-  - teasers-list
+  - teasers
   config:
     min: 
     max: 
