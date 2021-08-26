@@ -68,9 +68,9 @@ fields:
   hidden: true
   default: article
   label: Content Type
-- name: teasers2
+- name: article-teasers-list
   type: blocks
-  label: Teasers2
+  label: Article Teasers List
   template_types:
   - article-teaser
   config:
