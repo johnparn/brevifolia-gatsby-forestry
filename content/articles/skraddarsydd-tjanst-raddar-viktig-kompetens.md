@@ -2,30 +2,42 @@
 friskfaktorer: Rehabilitering
 title: Skräddarsydd tjänst räddar viktig kompetens
 image: "/content/images/2000x1000-ingela-andersson-foto-mattias-andersson-maddoc-photography-940x520.jpg"
-image_caption:
-  Ingela Andersson har arbetat som sjuksköterska i många år i Region
+image_caption: Ingela Andersson har arbetat som sjuksköterska i många år i Region
   Kalmar län. Efter en hjärntumör som gav bestående hörselnedsättning har hon nu en
   personlig tjänst i regionens träningscenter.
-content: ""
+content: ''
 activity: Kom igång
 url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
 label: Anpassa arbetet med Prehabguiden
 articles_teasers_2:
-  - template: article-teaser
-    label: Anpassa arbetet med Prehabguiden
-    url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
-    content: ""
-    image: ""
-    image_caption: ""
-  - template: article-teaser
-    label: Mira fick orken tillbaka på Gröna rehab
-    url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/mira-fick-orken-tillbaka-pa-grona-rehab/
-    content: ""
-    image: ""
-    image_caption: ""
+- template: article-teaser
+  label: Anpassa arbetet med Prehabguiden
+  url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/anpassa-arbetet-med-prehabguiden/
+  content: ''
+  image: ''
+  image_caption: ''
+- template: article-teaser
+  label: Mira fick orken tillbaka på Gröna rehab
+  url: https://www.suntarbetsliv.se/artiklar/hallbar-rehabilitering/mira-fick-orken-tillbaka-pa-grona-rehab/
+  content: ''
+  image: ''
+  image_caption: ''
 content_type: article
----
+teasers2:
+- template: teasers-list
+  teasers:
+  - template: teasers
+    teasers-articles:
+    - title: Google
+      link: https://google.com
+- template: teasers-list
+  teasers:
+  - template: teasers
+    teasers-articles:
+    - title: "DuckDuckGo \U0001F423"
+      link: https://duckduckgo.com
 
+---
 – Genom det här fönstret ser jag rätt in i scenariorummet. Och genom det andra fönstret ser jag ut över hela Kalmar sund. På morgonen ser jag soluppgången över sundet – det är helt fantastiskt!
 
 Ingela Andersson visar runt i manöverrummet på Region Kalmar läns kliniska träningscenter. Till centret kommer vårdpersonal för att träna på sådant som de behöver kunna i sina arbeten. Här finns dockor och vårdutrustning – allt som behövs för att öva in rätt rörelser och rätt bemötande.
