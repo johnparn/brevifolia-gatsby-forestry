@@ -24,18 +24,18 @@ articles_teasers_2:
   image_caption: ''
 content_type: article
 teasers2:
-- template: teasers-list
-  teasers:
-  - template: teasers
-    teasers-articles:
-    - title: Google
-      link: https://google.com
-- template: teasers-list
-  teasers:
-  - template: teasers
-    teasers-articles:
-    - title: "DuckDuckGo \U0001F423"
-      link: https://duckduckgo.com
+- template: article-teaser
+  url: https://google.com
+  label: Google
+  content: ''
+  image: ''
+  image_caption: ''
+- template: article-teaser
+  url: https://mozilla.org
+  label: Mozilla
+  content: ''
+  image: ''
+  image_caption: ''
 
 ---
 – Genom det här fönstret ser jag rätt in i scenariorummet. Och genom det andra fönstret ser jag ut över hela Kalmar sund. På morgonen ser jag soluppgången över sundet – det är helt fantastiskt!
