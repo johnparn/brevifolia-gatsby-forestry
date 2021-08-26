@@ -1,4 +1,12 @@
 ---
 label: Teasers List
 hide_body: false
-fields: []
+fields:
+- name: teasers
+  type: blocks
+  label: Teasers
+  template_types:
+  - teasers
+  config:
+    min: 
+    max: 
