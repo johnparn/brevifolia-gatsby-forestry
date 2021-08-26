@@ -68,6 +68,14 @@ fields:
   hidden: true
   default: article
   label: Content Type
+- name: teasers2
+  type: blocks
+  label: Teasers2
+  template_types:
+  - teasers-list
+  config:
+    min: 
+    max: 
 pages:
 - content/articles/annu-en-artikel-for-att-testa-content-type.md
 - content/articles/sa-klarar-ni-varmen-pa-jobbet.md
