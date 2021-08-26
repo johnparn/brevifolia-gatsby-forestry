@@ -97,6 +97,8 @@ module.exports = {
             options: {
               maxWidth: 1000,
               linkImagesToOriginal: false,
+              wrapperStyle:
+                "border: 5px solid #000; margin-left: 0 !important; margin-right: 0 !important;",
             },
           },
           `gatsby-transformer-sharp`,
