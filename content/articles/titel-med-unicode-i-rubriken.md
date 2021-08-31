@@ -22,3 +22,7 @@ article-teasers-list:
 
 ---
 Här ryms massor av unicode-tecken 😀😃😄😁😆 😅😂🤣🥲☺️ 😩🥺😢😭😤
+
+![](/content/images/hackingcrazy.gif)
+
+Animerad GIF
