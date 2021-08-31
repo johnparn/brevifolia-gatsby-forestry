@@ -1,12 +1,12 @@
 ---
-friskfaktorer: ''
+friskfaktorer: Systematiskt arbetsmiljöarbete (SAM)
 content_type: article
 title: Så klarar ni värmen på jobbet
 image: "/content/images/2000x1000-varme-pa-jobbet-foto-depiction-ab-johner-1200x675.jpg"
 image_caption: När sommaren är här gäller det att se upp för värmen på jobbet - speciellt
   för dem som arbetar i varma lokaler eller i skyddsutrustning. Försök att ta pauser
   innan du har blivit alltför varm, är ett tips från forskare.
-activity: Undersök
+activity: Kom igång
 articles_teasers_2: []
 article-teasers-list: []
 
