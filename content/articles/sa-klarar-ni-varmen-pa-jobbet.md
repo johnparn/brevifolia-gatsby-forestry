@@ -8,6 +8,7 @@ image_caption: När sommaren är här gäller det att se upp för värmen på jo
   innan du har blivit alltför varm, är ett tips från forskare.
 activity: Undersök
 articles_teasers_2: []
+article-teasers-list: []
 
 ---
 När sommaren kommer är det viktigt att hålla koll på temperaturen på arbetsplatsen. Värmen kan nämligen påverka allt från hälsa och komfort till produktivitet och stressnivå.
@@ -16,7 +17,7 @@ Sommaren är här, och med den även den underbara sommarvärmen. Eller? För de
 
 – Värmen påverkar både välmåendet och hälsan. Det kan ge lägre prestation och koncentration, och det kan göra att man blir tröttare, till exempel.
 
-![Karin Lundgren Kownacki](/content/images/200x220-karin-lundgren-kownacki.jpg "Bild på Karin Lundgren Kownacki")
+![](/content/images/200x220-karin-lundgren-kownacki.jpg)
 
 Det säger Karin Lundgren Kownacki, analytiker inom klimatanpassning på SMHI. Hon har tidigare forskat på hur värmeexponering påverkar arbetsmiljön. Och nu under coronapandemin har hon tillsammans med tidigare kollegor undersökt risken för vårdpersonal i skyddsutrustning att utsättas för så kallad värmestress.
 
@@ -67,6 +68,8 @@ Ett enkelt tips är att kyla ner händer, fötter och nacke under arbetspasset, 
 
 ## Skapa en plan för värmeböljor
 
-![](/content/images/200x220-ida-knutsson.jpg)Ida Knutsson är utredare på Folkhälsomyndigheten, och hon betonar också vikten av att arbetsgivare tänker till vad gäller värmen. Både för patienter, brukare och andra som behöver vård eller omsorg – och för personalens skull.
+Ida Knutsson är utredare på Folkhälsomyndigheten, och hon betonar också vikten av att arbetsgivare tänker till vad gäller värmen. Både för patienter, brukare och andra som behöver vård eller omsorg – och för personalens skull.
+
+![](/content/images/200x220-ida-knutsson.jpg)
 
 – Arbetsgivaren behöver se till att det finns svalkande åtgärder, och det gäller att arbeta förebyggande. Det är viktigt att ha handlingsplaner på plats när värmeböljan väl kommer.
