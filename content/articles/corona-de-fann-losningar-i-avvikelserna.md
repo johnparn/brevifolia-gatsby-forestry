@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2020-11-17T12:14:28
-title: Corona de fann lösningar i avvikelserna
+date: 2020-11-17T12:14:28.000+00:00
+title: 'Corona: de fann lösningar i avvikelserna'
 original_id: 52222
 slug: corona-de-fann-losningar-i-avvikelserna
 image: "/content/images/2000x1000-avvikelser-3-foto-Fredrik-Sandberg.jpg"
-image_caption: Bättre kommunikation om corona med hjälpmedlet SBAR. Det blev vinsten när Malin Lohela Karlsson, Emelie Condén Mellgren och Arne Amundsen på Västmanland läns sjukhus systematiserade avvikelserna.
-friskfaktorer: ""
-activity: ""
+image_caption: Bättre kommunikation om corona med hjälpmedlet SBAR. Det blev vinsten
+  när Malin Lohela Karlsson, Emelie Condén Mellgren och Arne Amundsen på Västmanland
+  läns sjukhus systematiserade avvikelserna.
+friskfaktorer: ''
+activity: ''
 articles_teasers_2: []
 article-teasers-list: []
 author: Anna Wettergård
----
 
+---
 När coronapandemin härjade under våren ville Region Västmanland hitta ett sätt att snabbt kunna åtgärda problem som hade med viruset att göra. Lösningen var enkel – de började med regelbundna och centrala sökningar i avvikelsesystemet.
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-emelie-conden-foto-Fredrik-Sandberg.gif)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-emelie-conden-foto-Fredrik-Sandberg.gif)– I vanliga fall har verksamheter fyra veckor på sig att hantera avvikelser. Men när det är kris blir avvikelserna lätt liggande.
