@@ -25,6 +25,8 @@ Samtliga runt bordet har lång erfarenhet av äldreomsorg och ett starkt engagem
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-rose-marie-karlsson-foto-anna-rehnberg.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-rose-marie-karlsson-foto-anna-rehnberg.jpg)– De fungerar som en länk mellan mig och den dagliga verksamheten på avdelningarna. Jag skulle säga att de brinner lite extra för sitt arbete, förklarar Rose-Marie.
 
+![](/content/images/tangkjaer_940x450hb1.jpg)
+
 Personalen känner de boende och utvecklar en fingertoppskänsla för hur kunden får det så tryggt och bra som möjligt även på slutet av livet. Det kan vara små saker som vilken sida en person föredrar att ligga på, vilken filt kunden tycker om, vilken beröring som känns bra eller om hen vill vara ifred.
 
 –  Det är viktigt att vaket blir så lugnt och tryggt som möjligt för de berörda. Det handlar om värdighet, säger Karin Larsson med 36 års erfarenhet av vård- och omsorg.
