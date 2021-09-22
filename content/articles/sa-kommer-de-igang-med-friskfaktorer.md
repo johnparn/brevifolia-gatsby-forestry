@@ -4,9 +4,9 @@ date: 2021-08-24T10:55:25
 title: Så kommer de igång med friskfaktorer
 original_id: 58634
 slug: sa-kommer-de-igang-med-friskfaktorer
-image: "../images/2000x1000-Elin-Broling-foto-Pavel-Koubek.jpg"
-image_caption: Tandsköterskan Elin Broling på Folktandvården i Örebro rengör en lampa i undersökningsrummet. Nu tar hennes arbetsgivare hjälp av Suntarbetslivs resursteam för att sänka sjukfrånvaron i organisationen. 
-friskfaktorer: []
+image: "/content/images/2000x1000-Elin-Broling-foto-Pavel-Koubek.jpg"
+image_caption: Tandsköterskan Elin Broling på Folktandvården i Örebro rengör en lampa i undersökningsrummet. Nu tar hennes arbetsgivare hjälp av Suntarbetslivs resursteam för att sänka sjukfrånvaron i organisationen.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -60,4 +60,3 @@ Nästan ett år har gått sedan de inledande kontakterna togs mellan Folktandvå
 Regionens processledare Ida Elgström Danielsson är förväntansfull inför resultatet på sikt.
 
 – Vi går in med hull och hår och jobbar för att detta ska ge de effekter som vi hoppas på.
-

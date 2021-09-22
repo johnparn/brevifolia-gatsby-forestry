@@ -4,9 +4,9 @@ date: 2020-12-15T10:49:05
 title: Julfirande som lyser upp i coronavintern
 original_id: 53071
 slug: julfirande-som-lyser-upp-i-coronavintern
-image: "../images/2000x1000-hallstavik-foto-pontus-lundahl-tt.jpg"
+image: "/content/images/2000x1000-hallstavik-foto-pontus-lundahl-tt.jpg"
 image_caption: – Även den som har en demensdiagnos har sina sinnen och minnen kvar, och alla dessa sinnesintryck betyder mycket. Det gör jobbet lättare för personalen också, eftersom den som är glad faktiskt mår bättre. Det säger vårdbiträdet Carina Ufhäll på August Jansgården. Hon får medhåll av chefen Kejo Aho.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -80,4 +80,3 @@ Kejo Aho är inne på samma tanke:
 [![Två personer ur personalen pyntar ett fönster på ett äldreboende](https://www.suntarbetsliv.se/wp-content/uploads/2020/12/750X400-hallstavik-2-foto-pontus-lundahl-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/12/750X400-hallstavik-2-foto-pontus-lundahl-tt.jpg)
 
 _Kejo Aho fixar julfint i fönstren, tillsammans med vårdbiträdet Carina Ufhäll._
-

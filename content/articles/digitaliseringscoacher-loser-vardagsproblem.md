@@ -4,9 +4,9 @@ date: 2020-08-03T14:38:39
 title: Digitaliseringscoacher löser vardagsproblem
 original_id: 48845
 slug: digitaliseringscoacher-loser-vardagsproblem
-image: "../images/2000x1000-pernilla-boraie-foto-tt.jpg"
-image_caption: Pernilla Boraie är, förutom undersköterska, också digitaliseringscoach. Hon har drivit en mini-pilot, med digitala lås på dörrarna till tvättstugan i ett äldreboende. Låsen öppnas nyckelfritt med mobiltelefonen. 
-friskfaktorer: []
+image: "/content/images/2000x1000-pernilla-boraie-foto-tt.jpg"
+image_caption: Pernilla Boraie är, förutom undersköterska, också digitaliseringscoach. Hon har drivit en mini-pilot, med digitala lås på dörrarna till tvättstugan i ett äldreboende. Låsen öppnas nyckelfritt med mobiltelefonen.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -70,4 +70,3 @@ Och så måste cheferna bli utbildade i hur man leder i förändring.
 Både feedbacken från personalen, och intresset utifrån, tyder på att projektet har varit lyckat.
 
 – Vi har genomfört både intervjuer och enkäter, och 70 – 80 procent av medarbetarna tycker att det här har varit väldigt bra.  Även intresset utifrån har varit jättestort, med både studiebesök och inbjudningar till mässor och konferenser. Jag tycker att projektet har gått väldigt bra.
-

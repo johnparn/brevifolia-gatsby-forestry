@@ -4,9 +4,9 @@ date: 2021-04-13T13:54:08
 title: De skapar en trygg arbetsmiljö – tillsammans
 original_id: 56477
 slug: de-skapar-en-trygg-arbetsmiljo-tillsammans
-image: "../images/2000x1000-eskilstuna-2-foto-Fredrik-Sandberg-TT.jpg"
+image: "/content/images/2000x1000-eskilstuna-2-foto-Fredrik-Sandberg-TT.jpg"
 image_caption: Eskilstuna kommun är mitt i ett stort projekt för att förebygga hot och våld. Caroline Andersson och Jessica Andersson på ekonomiskt bistånd berättar att alla arbetar tillsammans för att förebygga problemet.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -74,4 +74,3 @@ Ett annat exempel är elektronisk biståndsansökan. Det införde man för att k
 Nyckeln är att medarbetarna hela tiden arbetar tillsammans för att komma fram till de bästa lösningarna för en trygg arbetsmiljö.
 
 – Jag är ju ansvarig, men jag förväntar mig att medarbetarna är delaktiga, intresserade och engagerade i de här frågorna. Det här är ingen punktinsats utan en naturlig del av verksamheten, avslutar enhetschefen Caroline Andersson.
-

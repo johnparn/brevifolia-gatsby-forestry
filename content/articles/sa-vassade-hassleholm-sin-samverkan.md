@@ -4,9 +4,9 @@ date: 2020-08-04T09:53:37
 title: Så vässade Hässleholm sin samverkan
 original_id: 48979
 slug: sa-vassade-hassleholm-sin-samverkan
-image: "../images/2000x1000-kristina-rauer-marie-soderqvist2-foto-rickard-nilsson-tt.jpg"
-image_caption: Utvecklar samverkan tillsammans. Kristina Rauer, Lärarförbundet och personalchefen Marie Söderqvist har varit med och tagit fram nya stöd för samverkansgrupperna i Hässleholm.     
-friskfaktorer: []
+image: "/content/images/2000x1000-kristina-rauer-marie-soderqvist2-foto-rickard-nilsson-tt.jpg"
+image_caption: Utvecklar samverkan tillsammans. Kristina Rauer, Lärarförbundet och personalchefen Marie Söderqvist har varit med och tagit fram nya stöd för samverkansgrupperna i Hässleholm.
+friskfaktorer:
 activity:
 author: Margareta Edling
 ---
@@ -43,13 +43,13 @@ Rutinerna beskriver att sjukfrånvaro, tillbud och arbetsskador med mera ska upp
 
 I rutinerna för arbetsplatsträffar (APT) ligger tonvikten på dialog. Det finns ett årshjul, med teman att ta upp:
 
-*   Mål och uppdrag
-*   Systematiskt arbetsmiljöarbete, inklusive organisatorisk och social arbetsmiljö
-*   Medarbetarundersökning
-*   Lönekriterier
-*   Jämställdhet och mångfald
-*   Medarbetar- och ledarpolicy
-*   övriga rutiner, instruktioner och spelregler
+- Mål och uppdrag
+- Systematiskt arbetsmiljöarbete, inklusive organisatorisk och social arbetsmiljö
+- Medarbetarundersökning
+- Lönekriterier
+- Jämställdhet och mångfald
+- Medarbetar- och ledarpolicy
+- övriga rutiner, instruktioner och spelregler
 
 Till varje tema finns stödmaterial för medarbetare och chefer.
 
@@ -90,4 +90,3 @@ Arbetet med att utveckla samverkansgruppernas arbete visade också att samverkan
 Än går det inte att se om utvecklingsarbetet leder till bättre arbetsmiljö, menar hon. Men medarbetarnas engagemang har ökat, enligt den senaste enkäten.
 
 – Ett av våra mål är att chefer och medarbetare ska se fram emot arbetsplatsträffarna. Där är vi inte än, men vi tycker att vi är på god väg.
-

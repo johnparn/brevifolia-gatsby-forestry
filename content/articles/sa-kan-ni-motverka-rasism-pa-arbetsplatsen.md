@@ -4,9 +4,9 @@ date: 2021-09-07T10:14:55
 title: Så kan ni motverka rasism på arbetsplatsen
 original_id: 58927
 slug: sa-kan-ni-motverka-rasism-pa-arbetsplatsen
-image: "../images/rasism-i-arbetslivet-foto-johner_Red_2000x1000.jpg"
+image: "/content/images/rasism-i-arbetslivet-foto-johner_Red_2000x1000.jpg"
 image_caption: För att motverka rasism på arbetsplatsen krävs bland annat kunskap. Därför har Länsstyrelsen skapat en utbildning och en serie webbinarier. Deltagarna får också chansen att diskutera och reflektera tillsammans.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -64,4 +64,3 @@ Inte minst eftersom det som händer inte alltid behöver handla om ett tydligt b
 Istället tycker han att man ska titta på hur arbetsplatsen jobbar med aktiva åtgärder mot diskriminering.
 
 – Se om det här kan vara en del av ett större problem. Finns det inte ett arbete med aktiva åtgärder på arbetsplatsen så är det där man måste börja.
-

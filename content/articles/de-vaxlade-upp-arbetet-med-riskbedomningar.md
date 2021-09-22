@@ -4,9 +4,9 @@ date: 2020-11-25T10:09:16
 title: De växlade upp arbetet med riskbedömningar
 original_id: 52633
 slug: de-vaxlade-upp-arbetet-med-riskbedomningar
-image: "../images/2000x1000-nygardsskolan-foto-bjorn-Larsson-Rosvall-tt.jpg"
-image_caption: På skolan agerade man snabbt när coronasmittan ökade igen. Rektor Marie Ahlén och skyddsombudet IdaLouise Wichmann har börjat träffas varje vecka för att gå igenom och följa upp riskbedömningar. 
-friskfaktorer: []
+image: "/content/images/2000x1000-nygardsskolan-foto-bjorn-Larsson-Rosvall-tt.jpg"
+image_caption: På skolan agerade man snabbt när coronasmittan ökade igen. Rektor Marie Ahlén och skyddsombudet IdaLouise Wichmann har börjat träffas varje vecka för att gå igenom och följa upp riskbedömningar.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -68,4 +68,3 @@ Hon vill avsluta med en eloge till sina lärare.
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-nygardsskolan-foto-bjorn-Larsson-Rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-nygardsskolan-foto-bjorn-Larsson-Rosvall-tt.jpg)
 
 _IdaLouise Wichmann säger att den nära samverkan med bland annat Marie Ahlén hjälper till i arbetsmiljöarbetet, vilket gör arbetsmiljön tryggare för lärarna._
-

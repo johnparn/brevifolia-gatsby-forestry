@@ -4,9 +4,9 @@ date: 2020-03-30T16:53:37
 title: Distansundervisning &#8211; så gjorde Celsiusskolan
 original_id: 45888
 slug: distansundervisning-sa-gjorde-celsiusskolan
-image: "../images/2000x1000-isabelle-mattlar2-foto-pontus-lundahl-tt.jpg"
-image_caption: Distansundervisning är inget nytt för läraren Isabelle Mattlar och hennes kollegor på idrottsgymnasiet Celsiusskolan. Så när Coronaviruset slog till och skolan stängdes fanns en beredskap för att arbeta digitalt. 
-friskfaktorer: []
+image: "/content/images/2000x1000-isabelle-mattlar2-foto-pontus-lundahl-tt.jpg"
+image_caption: Distansundervisning är inget nytt för läraren Isabelle Mattlar och hennes kollegor på idrottsgymnasiet Celsiusskolan. Så när Coronaviruset slog till och skolan stängdes fanns en beredskap för att arbeta digitalt.
+friskfaktorer:
 activity:
 author: Michael Nyhaga
 ---
@@ -80,4 +80,3 @@ Kommer den nuvarande situationen att bli ett argument för färre lärare i skol
 Det tror inte Jörgen Norman.
 
 – Vi kommer inte att lägga in mer distansundervisning för eleverna när det här är över. Men vi har lärt oss nya verktyg och att ge tydligare instruktioner till eleverna och det är bra, säger han.
-

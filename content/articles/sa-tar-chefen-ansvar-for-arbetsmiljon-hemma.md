@@ -4,9 +4,9 @@ date: 2020-11-30T09:49:29
 title: Så tar chefen ansvar för arbetsmiljön hemma
 original_id: 52762
 slug: sa-tar-chefen-ansvar-for-arbetsmiljon-hemma
-image: "../images/2000x1000-chefens-arbetsmiljoansvar-foto-Maskot-TT.jpg"
-image_caption: Med samarbete och dialog lägger chefen grunden till bra arbetsmiljö vid hemarbete. Men det ska också vara lätt för chefen att hitta riktlinjer och stöd i uppdraget. Där kan till exempel HR hjälpa till.  
-friskfaktorer: []
+image: "/content/images/2000x1000-chefens-arbetsmiljoansvar-foto-Maskot-TT.jpg"
+image_caption: Med samarbete och dialog lägger chefen grunden till bra arbetsmiljö vid hemarbete. Men det ska också vara lätt för chefen att hitta riktlinjer och stöd i uppdraget. Där kan till exempel HR hjälpa till.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -109,4 +109,3 @@ Han tipsar om att använda den tekniska utrustning som finns och att till exempe
 Chefen behöver också förutsättningar att kunna arbeta med arbetsmiljön, fortsätter Ulrich Stoetzer. Dels i form av tid, men det ska också finnas en tydlighet och struktur för rutiner och vägledningar.
 
 – Det ska vara lätt att hitta det man behöver som chef. I vanliga fall kan man gå i korridoren och fråga en kollega om var ett dokument finns eller vad som gäller i en fråga. Nu har det blivit lite svårare, och därför behöver cheferna instruktioner som är lätta att hitta och följa. Där kan till exempel HR hjälpa till.
-

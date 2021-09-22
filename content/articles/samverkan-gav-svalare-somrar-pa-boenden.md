@@ -4,9 +4,9 @@ date: 2020-06-16T08:55:42
 title: Samverkan gav svalare somrar på boenden
 original_id: 48393
 slug: samverkan-gav-svalare-somrar-pa-boenden
-image: "../images/1400x700_varme-och-aldreboenden.jpg"
+image: "/content/images/1400x700_varme-och-aldreboenden.jpg"
 image_caption: När äldreboenden i Vänersborg skulle byggas om önskade personalen inneslutna gårdar, så att boende kan gå in och ut som de vill. Pernilla Leckström och Jarmo Lahtinen är väldigt nöjda med processen.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -74,4 +74,3 @@ Pernilla Leckström tror inte att arbetssättet har inneburit någon merkostnad.
 Deras bästa tips till andra som ska bygga om är att tänka till ordentligt i förväg.
 
 – Tänk efter vilken verksamhet som ska bedrivas i huset. Var lyhörd och visa intresse för människors kompetens.
-

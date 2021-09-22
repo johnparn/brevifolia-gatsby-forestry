@@ -4,9 +4,9 @@ date: 2021-01-18T10:40:47
 title: Så fick de säkerhetstänket att genomsyra allt
 original_id: 53464
 slug: sa-fick-de-sakerhetstanket-att-genomsyra-allt
-image: "../images/2000x1000-sandviken-energi-foto.jpg"
+image: "/content/images/2000x1000-sandviken-energi-foto.jpg"
 image_caption: På Sandviken energi finns det många risker att hantera, och därför genomsyrar säkerhetstänket allt. Det berättar arbetsmiljöingenjör Ulrika Paulsen och skyddsombudet Sebastian Grönblad.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -82,4 +82,3 @@ Han tycker att de, genom flitig kommunikation, har lyckats skapa förståelse f�
 – Det gäller att säkerhetstänket kommer naturligt och inte känns påtvingat eller krystat. Och det känns som att vi har kommit dit nu, avslutar Ulrika Paulsen.
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/12/750x400-sandviken-energi-foto-Pernilla-Wahlman-TT.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/12/750x400-sandviken-energi-foto-Pernilla-Wahlman-TT.jpg)
-

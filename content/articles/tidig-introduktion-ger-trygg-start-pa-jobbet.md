@@ -4,10 +4,10 @@ date: 2021-04-13T13:57:52
 title: Tidig introduktion ger trygg start på jobbet
 original_id: 56424
 slug: tidig-introduktion-ger-trygg-start-pa-jobbet
-image: "../images/2000x1000-oresundskraft-filip-wiqvist-anton-larsson-foto-johan-nilsson-TT.jpg"
+image: "/content/images/2000x1000-oresundskraft-filip-wiqvist-anton-larsson-foto-johan-nilsson-TT.jpg"
 image_caption: Trygg start. På Öresundskraft kan anställningsintervjun ske i promenadform. Så gjorde chefen Filip Wiqvist och medarbetaren Anton Larsson. Dessutom drar introduktionen igång redan före första dagen på jobbet.
 
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -62,7 +62,7 @@ Att sätta ihop den listan var i sig ett ganska stort arbete, enligt chefen. Det
 
 Medan Filip beställde prylar och satte samman listan fick Anton, som blivande medarbetare, ett tiotal mejl med någon veckas mellanrum. De gav honom en introduktion till företaget och information som var bra att ha. Det kom till exempel filmer om Öresundskraft, information om förmåner och om hur de arbetar i flexkontor, och en introduktion om systematiskt arbetsmiljöarbete.
 
->  Jag kände mig välkommen och omhändertagen.
+> Jag kände mig välkommen och omhändertagen.
 
 Att få de här mejlen var en nyhet för Anton, precis som att de promenerade under anställningsintervjun.
 
@@ -97,4 +97,3 @@ Hon har hört positiva ord från de medarbetare som fått mejlen, och det har ä
 [![Porträtt på Angelica Grosser.](https://www.suntarbetsliv.se/wp-content/uploads/2021/04/200x220-angelica-grosser.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/04/200x220-angelica-grosser.jpg)– Det underlättar mycket för cheferna att mejlledes få påminnelser och struktur för vad de ska göra för att deras nya medarbetare ska få en bra introduktion.
 
 – Innan det här infördes hade cheferna mer att hålla reda på och det kunde vara svårt för dem att hålla i hela introduktionsplanen, säger skyddsombudet Angelica Grosser.
-

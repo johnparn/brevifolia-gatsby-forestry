@@ -4,9 +4,9 @@ date: 2020-10-12T13:16:48
 title: Så förebygger förskolan smitta och konflikter
 original_id: 51024
 slug: sa-forebygger-forskolan-smitta-och-konflikter
-image: "../images/2000x1000-hallongardens-forskola-foto-Pavel-Koubek-TT.jpg"
-image_caption: På förskolan Hallongården har man kunnat behålla goda relationer med föräldrar, även när man behövt skicka hem snuviga barn. Att kunna föräldrarnas språk hjälper mycket, säger förskolläraren Idil Maxamed. 
-friskfaktorer: []
+image: "/content/images/2000x1000-hallongardens-forskola-foto-Pavel-Koubek-TT.jpg"
+image_caption: På förskolan Hallongården har man kunnat behålla goda relationer med föräldrar, även när man behövt skicka hem snuviga barn. Att kunna föräldrarnas språk hjälper mycket, säger förskolläraren Idil Maxamed.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -84,4 +84,3 @@ Men förskollärarträffarna, som sker var fjärde vecka, de hålls istället ut
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/750x400-hallongardens-forskola-foto-Pavel-Koubek-TT.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/750x400-hallongardens-forskola-foto-Pavel-Koubek-TT.jpg)
 
 _På Hallongården sker det mesta utomhus, och leksakerna placeras på filtar i gräset. Det fungerar jättebra, berättar förskolläraren Pia Rizell._
-

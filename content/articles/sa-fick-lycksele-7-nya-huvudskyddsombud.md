@@ -4,9 +4,9 @@ date: 2021-02-08T16:30:40
 title: Så fick Lycksele 7 nya huvudskyddsombud
 original_id: 54626
 slug: sa-fick-lycksele-7-nya-huvudskyddsombud
-image: "../images/2000x1000-HSO-anna-karin-herrstrom-foto-andreas-jakobsson.jpg"
-image_caption: Huvudskyddsombudet Anna-Karin Herrström stöttar och samordnar skyddsombuden på äldreboenden i Lycksele. Själv arbetar hon som vårdbiträde på omsorgsboendet Ventilen. 
-friskfaktorer: []
+image: "/content/images/2000x1000-HSO-anna-karin-herrstrom-foto-andreas-jakobsson.jpg"
+image_caption: Huvudskyddsombudet Anna-Karin Herrström stöttar och samordnar skyddsombuden på äldreboenden i Lycksele. Själv arbetar hon som vårdbiträde på omsorgsboendet Ventilen.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -66,4 +66,3 @@ Efter den första träffen kom ombudsmannen Ann-Louise Åkerström tillbaka och 
 De kom fram till att de skulle vara tillsammans när de träffade skyddsombuden.
 
 – Då fick de stöd av varandra, det kan ju vara lite pirrigt. Och nu har det gått mer än ett år och de flesta är fortfarande kvar i rollen.
-

@@ -4,9 +4,9 @@ date: 2021-04-26T17:03:34
 title: Chefoskopet visar vägen till förändring i Umeå
 original_id: 56793
 slug: chefoskopet-visar-vagen-till-forandring-i-umea
-image: "../images/2000x1000-jenny-haggstrom2-foto-erik-abel.jpg"
-image_caption: Enhetschefen Jenny Häggström är en av äldreomsorgens stöttepelare i Umeå. Nu får hon och de andra enhetscheferna en bättre arbetsmiljö. Förändringen sker med stöd av Chefoskopet.    
-friskfaktorer: []
+image: "/content/images/2000x1000-jenny-haggstrom2-foto-erik-abel.jpg"
+image_caption: Enhetschefen Jenny Häggström är en av äldreomsorgens stöttepelare i Umeå. Nu får hon och de andra enhetscheferna en bättre arbetsmiljö. Förändringen sker med stöd av Chefoskopet.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -80,4 +80,3 @@ Vision är enhetschefernas fackförbund och i Umeå är Marie Sandström deras o
 Hon ifrågasätter förslaget i handlingsplanen om att upphandla vaktmästartjänster.
 
 – Vissa saker ska inte den enskilda förvaltningen behöva bära. Vaktmästarna skulle kunna anställas i tekniska förvaltningen och arbeta mot äldreomsorgen.
-

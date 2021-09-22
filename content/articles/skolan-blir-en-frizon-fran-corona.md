@@ -4,9 +4,9 @@ date: 2020-04-21T09:43:59
 title: Skolan blir en frizon från corona
 original_id: 46296
 slug: skolan-blir-en-frizon-fran-corona
-image: "../images/2000x1000-Nygardsskolan-foto-Kaisa-Bornius-Almqvist.jpg"
+image: "/content/images/2000x1000-Nygardsskolan-foto-Kaisa-Bornius-Almqvist.jpg"
 image_caption: Trots att coronapandemin har förändrat mycket så fungerar skolan ändå bra. Mycket beror på fungerande samverkan. Det tycker skyddsombudet IdaLouise Wichmann, fackombudet Juan Moya Rodriguez och rektor Marie Ahlén.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -74,4 +74,3 @@ Hon avslutar med sina två viktigaste lärdomar från den här tiden:
 – En viktig sak är förtroende; att vi litar på varandra inom personalgruppen. Vi har också förtroende från min chef, det vill säga chefen för utbildningsområdet.
 
 – Det är också viktigt att ha mod att tänka nytt. Det behövs för att kunna göra vårt bästa för våra elever, och samtidigt själva må så bra som möjligt.
-

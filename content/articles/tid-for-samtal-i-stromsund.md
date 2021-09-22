@@ -4,9 +4,9 @@ date: 2020-04-28T11:08:25
 title: Tid för samtal i Strömsund
 original_id: 45973
 slug: tid-for-samtal-i-stromsund
-image: "../images/2000x1000-Maria-Roos-Lotta-Wilhelmsson-Laila-Sandqvist-Camilla-Odelberg-Anneli-Palsson-apt1-foto.jpg"
-image_caption: Tid för samtal. Grevåkerskolan i Hammerdal utvecklar sina arbetsplatsträffar som en del av projektet Kasam 2.0. Från vänster lärarna Maria Roos, Lotta Wilhelmsson, Laila Sandqvist, Camilla Odelberg, Anneli Pålsson. 
-friskfaktorer: []
+image: "/content/images/2000x1000-Maria-Roos-Lotta-Wilhelmsson-Laila-Sandqvist-Camilla-Odelberg-Anneli-Palsson-apt1-foto.jpg"
+image_caption: Tid för samtal. Grevåkerskolan i Hammerdal utvecklar sina arbetsplatsträffar som en del av projektet Kasam 2.0. Från vänster lärarna Maria Roos, Lotta Wilhelmsson, Laila Sandqvist, Camilla Odelberg, Anneli Pålsson.
+friskfaktorer:
 activity:
 author: Margareta Edling
 ---
@@ -55,9 +55,9 @@ I inledningen av Kasam-projektet undersökte kommunen den organisatoriska och so
 
 Nu blir det gruppsamtal, och idag har lärarna prioriterat:
 
-*   Arbetsbelastning/återhämtning,
-*   möjlighet till stöd från arbetskamrater/ledning,
-*   känslan då man kommer till jobbet.
+- Arbetsbelastning/återhämtning,
+- möjlighet till stöd från arbetskamrater/ledning,
+- känslan då man kommer till jobbet.
 
 I ett grupprum samlas F-3-lärarna Camilla B. Odelberg, Laila Sandqvist, Anneli Pålsson och Lotta Wilhelmsson samt specialläraren Maria Roos.  I andra utrymmen sitter andra smågrupper och pratar om samma frågor.
 
@@ -86,4 +86,3 @@ Ord som genus, övergångar, gemensamt tänkande, respekt i klassrummen och ment
 Hon räknar med att det hälsofrämjande förhållningssättet har kommit för att stanna.
 
 [_Läs mer om projektet Kasam 2.0 i artikeln En känsla av sammanhang i Strömsund._](https://www.suntarbetsliv.se/artiklar/sam/en-kansla-av-sammanhang-i-stromsund/)
-

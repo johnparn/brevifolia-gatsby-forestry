@@ -4,9 +4,9 @@ date: 2020-10-20T10:45:02
 title: Luleås förskolor satsar på sina äldre anställda
 original_id: 51328
 slug: luleas-forskolor-satsar-pa-sina-aldre-anstallda
-image: "../images/2000x1000-asa-koren-ann-margreth-brandell-foto-susanne-lindholm-tt.jpg"
-image_caption: På förskolan Gnistan satsar de på IT-kompetens för både barn och vuxna. I Ipad-baren får de allra yngsta välja musik med hjälp av QR-koder. Ann-Margreth Brandell, IT-ansvarig (till höger), visar rektor Åsa Korén. 
-friskfaktorer: []
+image: "/content/images/2000x1000-asa-koren-ann-margreth-brandell-foto-susanne-lindholm-tt.jpg"
+image_caption: På förskolan Gnistan satsar de på IT-kompetens för både barn och vuxna. I Ipad-baren får de allra yngsta välja musik med hjälp av QR-koder. Ann-Margreth Brandell, IT-ansvarig (till höger), visar rektor Åsa Korén.
+friskfaktorer:
 activity:
 author: Teres Hallman
 ---
@@ -19,8 +19,8 @@ Projektet var en del i en större satsning för både gymnasie-, grund- och för
 
 För att hålla ihop projektet tog kommunen in Viktoria Mettävainio som är en extern projektledare. Hon berättar att den del av projektet som handlade om att behålla de äldre i förskolan började med två saker:
 
-*   att ta reda på enskilda individers upplevelse av att bli äldre i yrket
-*   att undersöka hur organisationen kan underlätta för äldre att stanna kvar i arbete
+- att ta reda på enskilda individers upplevelse av att bli äldre i yrket
+- att undersöka hur organisationen kan underlätta för äldre att stanna kvar i arbete
 
 ### Alla fick kunskap om åldrande
 
@@ -79,4 +79,3 @@ Projektperioden avrundades med en inspirationsföreläsning för alla anställda
 — Det som slog mig med hela den här satsningen är hur vi med fokus på de äldre, faktiskt gör att det blir bättre för alla, säger Viktoria Mettävainio.
 
 _Luleås satsning på äldre i förskolan följdes av en grupp forskare från IVL Svenska miljöinstitutet._ _[Läs mer här i artikeln Så fick de äldre medarbetare att stanna](https://www.suntarbetsliv.se/forskning/ledarskap-och-organisation/sa-fick-de-aldre-medarbetare-att-stanna/)._
-

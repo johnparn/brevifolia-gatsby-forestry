@@ -4,9 +4,9 @@ date: 2021-09-21T11:43:30
 title: Dialogen som bygger en bra arbetsmiljö
 original_id: 59147
 slug: dialogen-som-bygger-en-bra-arbetsmiljo
-image: "../images/JNX7451_Red_2000x1000.jpg"
-image_caption: Skyddsombud och chef som samverkar. Jenny Nilbecker och Staffan Olsson arbetar på Ölycke korttidsboende i Eslöv, och strävar efter att samverka varje vecka. Samverkansavtalet ger hjälp på traven. 
-friskfaktorer: []
+image: "/content/images/JNX7451_Red_2000x1000.jpg"
+image_caption: Skyddsombud och chef som samverkar. Jenny Nilbecker och Staffan Olsson arbetar på Ölycke korttidsboende i Eslöv, och strävar efter att samverka varje vecka. Samverkansavtalet ger hjälp på traven.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -36,9 +36,9 @@ De lyssnade på chefer och skyddsombud som hade bra arbetsplatsträffar, apt.
 
 Arbetsgruppen satte även ihop några frågor som de ställde i samtal med medarbetarna:
 
-*   Vad är arbetsmiljö för dig?
-*   Hur kan man prata om arbetsmiljö?
-*   Var kan man göra det?
+- Vad är arbetsmiljö för dig?
+- Hur kan man prata om arbetsmiljö?
+- Var kan man göra det?
 
 Svaren de fick blev ett diskussionsunderlag för arbetsgruppen, som summerade sina insikter och gjorde ett förslag till avtal.
 
@@ -108,4 +108,3 @@ För att få fram den känslan är lokal god samverkan och goda relationer väse
 – Vår arbetsmiljö sitter mycket i våra mänskliga relationer.
 
 [![Staffan Olsson och Jenny Nilbecker går utomhus.](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/JNX6818a_Red_750x400.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/JNX6818a_Red_750x400.jpg)
-

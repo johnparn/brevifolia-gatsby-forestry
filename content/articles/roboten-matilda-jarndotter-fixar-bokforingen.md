@@ -4,14 +4,14 @@ date: 2021-03-09T11:12:06
 title: Roboten Matilda Järndotter fixar bokföringen
 original_id: 55508
 slug: roboten-matilda-jarndotter-fixar-bokforingen
-image: "../images/2000x1000-madeleine-nilsson-christel-rehmark.jpg"
-image_caption: Arbetsplatsträffar, studiebesök hos andra och många samtal med Halmstads kommuns IT-avdelning — så tog de fram roboten Matilda Järndotter, berättar Madeleine Nilsson och hennes chef Christel Rehmark. 
-friskfaktorer: []
+image: "/content/images/2000x1000-madeleine-nilsson-christel-rehmark.jpg"
+image_caption: Arbetsplatsträffar, studiebesök hos andra och många samtal med Halmstads kommuns IT-avdelning — så tog de fram roboten Matilda Järndotter, berättar Madeleine Nilsson och hennes chef Christel Rehmark.
+friskfaktorer:
 activity:
 author: Teres Hallman
 ---
 
-Madeleine Nilsson har en ny drömkollega — hon gör alla tråkiga och enahanda arbetsuppgifter, och klagar aldrig. Roboten Matilda Järndotter är utvecklad av Halmstad kommuns IT-avdelning, i nära samarbete med Madeleine Nilsson och hennes arbetskamrater. 
+Madeleine Nilsson har en ny drömkollega — hon gör alla tråkiga och enahanda arbetsuppgifter, och klagar aldrig. Roboten Matilda Järndotter är utvecklad av Halmstad kommuns IT-avdelning, i nära samarbete med Madeleine Nilsson och hennes arbetskamrater.
 
 Runt om i Halmstads kommun finns flera kök inom äldreomsorgen där boende och gäster köper mat och fika varje dag. Och varje dag har ekonomen Madeleine Nilsson bokfört alla dessa inköp. Det arbetet handlar om att öppna mejl och gå in och hämta uppgifter ur olika system och dela upp betalningarna på olika konton där de hör hemma.
 
@@ -60,4 +60,3 @@ Nu när Matilda gör Madeleines uppgifter är hon och hennes kollegor sugna på 
 _Matilda Järndotter är kanske ett bekant namn för en del läsare – hon är från början en robot i den tecknade filmserien Doktor Snuggles, som sändes i svensk TV åren 1979 och 1981.  Halmstads kommun har lånat hennes namn._
 
 [Läs också: 8 tips för en bättre digital arbetsmiljö](https://www.suntarbetsliv.se/rapporterat/8-tips-for-battre-digital-arbetsmiljo/)
-

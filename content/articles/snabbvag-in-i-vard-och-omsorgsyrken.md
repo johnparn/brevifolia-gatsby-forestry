@@ -4,9 +4,9 @@ date: 2020-04-27T13:58:12
 title: Snabbväg in i vård- och omsorgsyrken
 original_id: 46479
 slug: snabbvag-in-i-vard-och-omsorgsyrken
-image: "../images/2000x1000-snabbutbildning-foto-maskot-tt.jpg"
-image_caption: Omsorg i coronatid. Nu finns en snabbutbildning för ny personal inom vård och omsorg, skapad av Socialstyrelsen och stiftelsen Ersta Sköndal Bräcke högskola tillsammans. 
-friskfaktorer: []
+image: "/content/images/2000x1000-snabbutbildning-foto-maskot-tt.jpg"
+image_caption: Omsorg i coronatid. Nu finns en snabbutbildning för ny personal inom vård och omsorg, skapad av Socialstyrelsen och stiftelsen Ersta Sköndal Bräcke högskola tillsammans.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -48,4 +48,3 @@ Därför bör personalen, så snart det är möjligt, komplettera sin kompetens 
 Utbildningen har bara varit igång sedan början av april, men har redan fått in ett stort antal deltagare till både del ett och del två.
 
 – Nu arbetar vi på att sprida informationen om den här utbildningen till alla som kan ha behov av den. Och den återkoppling som vi har fått hittills har varit väldigt positiv, avslutar Therese Hellman.
-

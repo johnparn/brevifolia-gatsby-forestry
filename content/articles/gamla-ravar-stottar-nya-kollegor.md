@@ -4,9 +4,9 @@ date: 2020-09-01T09:57:18
 title: Gamla rävar stöttar nya kollegor
 original_id: 49580
 slug: gamla-ravar-stottar-nya-kollegor
-image: "../images/2000x1000-hab-lidkoping2-foto-anna-rehnberg.jpg"
+image: "/content/images/2000x1000-hab-lidkoping2-foto-anna-rehnberg.jpg"
 image_caption: Ett team som har kul ihop! På Barn- och ungdomshabiliteringen i Lidköping tar man hand om varandra, och alldeles särskilt om de nyanställda. En bra introduktion är viktig för att kunna jobba bra ihop, menar de.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -80,4 +80,3 @@ Orden på Ylvas tavla dröjer sig kvar: ”Snäll, mod, tålamod” – just den
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/08/750x400-ylva-kjellen-foto-anna-rehnberg.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/08/750x400-ylva-kjellen-foto-anna-rehnberg.jpg)
 
 _Enhetschefen Ylva Kjellén utanför entrén till Barn- och ungdomshabiliteringen. Den som vill bli anställd här behöver vara snäll, både mot andra och sig själv._
-

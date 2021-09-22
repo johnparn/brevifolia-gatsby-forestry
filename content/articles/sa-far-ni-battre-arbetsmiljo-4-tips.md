@@ -4,9 +4,9 @@ date: 2021-04-27T14:10:47
 title: Så får ni bättre arbetsmiljö – 4 tips
 original_id: 56845
 slug: sa-far-ni-battre-arbetsmiljo-4-tips
-image: "../images/2000x1000-fyra-tips-for-bra-arbetsmiljo-foto-johner.jpg"
+image: "/content/images/2000x1000-fyra-tips-for-bra-arbetsmiljo-foto-johner.jpg"
 image_caption: Alla på jobbet har en viktig roll för att skapa en bra arbetsmiljö, men chefer och skyddsombud har ett särskilt ansvar. Arbetsmiljöutbildningen ger dem en gemensam bas för ett bra arbetsmiljöarbete.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -46,4 +46,3 @@ Under pandemin är det oerhört viktigt att chefen och skyddsombudet samarbetar 
 Han får medhåll av Caroline Olsson, chef för avdelningen för arbetsgivarpolitik på Sveriges Kommuner och Regioner, SKR. Hon säger att arbetsmiljöutbildningen ger möjligheten att skapa en sådan bra relation.[![Caroline Olsson](https://www.suntarbetsliv.se/wp-content/uploads/2021/04/200x220-caroline-olsson-skr-foto-hans-alm.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/04/200x220-caroline-olsson-skr-foto-hans-alm.jpg)
 
 – Nu, under och efter pandemin, är arbetsmiljöarbetet viktigare än någonsin, och det är en lärdom. Vi har sett att där samverkan fungerar väl har de klarat pandemiarbetet bättre, säger Caroline Olsson.
-

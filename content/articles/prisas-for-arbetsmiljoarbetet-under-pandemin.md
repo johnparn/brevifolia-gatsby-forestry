@@ -4,9 +4,9 @@ date: 2021-03-24T13:38:54
 title: Prisas för arbetsmiljöarbetet under pandemin
 original_id: 55802
 slug: prisas-for-arbetsmiljoarbetet-under-pandemin
-image: "../images/2000x1000-solrosenpriset-foto-Pavel-Koubek.jpg"
+image: "/content/images/2000x1000-solrosenpriset-foto-Pavel-Koubek.jpg"
 image_caption: Judith Jacobson och Milena Sundstedt tror att det är klinikens lagkänsla som har gjort att de har vunnit arbetsmiljöpriset Solrosen. "Vi är olika avdelningar, men ett team", säger Judith Jacobson.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -76,4 +76,3 @@ Milena Sundstedt tror att en annan hemlighet bakom framgångarna är synsättet 
 [![Chef och skyddsombud håller upp ett diplom](https://www.suntarbetsliv.se/wp-content/uploads/2021/03/750x400-solrosenpriset-foto-Pavel-Koubek.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/03/750x400-solrosenpriset-foto-Pavel-Koubek.jpg)
 
 _Milena Sundstedt och Judith Jacobson berättar att de ska använda prispengarna till en personalfest, så fort det är möjligt att genomföra._
-

@@ -4,9 +4,9 @@ date: 2021-08-24T10:55:52
 title: Här leder undersköterskorna arbetet
 original_id: 58682
 slug: har-leder-underskoterskorna-arbetet
-image: "../images/2000x1000-marie-louise-jonsson-lotta-martensson-ann-christin-eriksson-foto2-anna-rehnberg.jpg"
-image_caption: Inflytande skapar trygghet, menar skyddsombudet Marie-Louise Jonsson på äldreboendet Strandgården. Lotta Mårtensson, i mitten, är samordnare på sin avdelning.  Systemet avlastar också chefen Ann-Christin Eriksson. 
-friskfaktorer: []
+image: "/content/images/2000x1000-marie-louise-jonsson-lotta-martensson-ann-christin-eriksson-foto2-anna-rehnberg.jpg"
+image_caption: Inflytande skapar trygghet, menar skyddsombudet Marie-Louise Jonsson på äldreboendet Strandgården. Lotta Mårtensson, i mitten, är samordnare på sin avdelning.  Systemet avlastar också chefen Ann-Christin Eriksson.
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -84,4 +84,3 @@ Med det utökade ansvaret följer också en högre lön för de undersköterskor
 – Vi är stolta över att ha skapat en ny karriärmöjlighet för undersköterskor, avslutar Ann-Christin Eriksson.
 
 [![tre leende kvinnor i ett kök på ett äldreboende, i färd med att ploca ur diskmaskinen och öppna kylskåpsdörren. ](https://www.suntarbetsliv.se/wp-content/uploads/2021/08/750x450-marie-louise-jonsson-ann-christin-eriksson-lotta-martensson-foto3-anna-rehnberg.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/08/750x450-marie-louise-jonsson-ann-christin-eriksson-lotta-martensson-foto3-anna-rehnberg.jpg)
-

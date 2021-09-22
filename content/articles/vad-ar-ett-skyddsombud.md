@@ -4,9 +4,9 @@ date: 2021-03-30T11:54:48
 title: Vad är ett skyddsombud?
 original_id: 56079
 slug: vad-ar-ett-skyddsombud
-image: "../images/2000x1000-vad-ar-ett-skyddsombud-foto-maskot-johner-bildbyra.jpg"
-image_caption: Skyddsombudet är medarbetarnas representant i frågor om arbetsmiljö. Arbetsplatsträffen och personalmötet är bra tillfällen att prata om arbetsmiljön, det är en fråga som genomsyrar det mesta.   
-friskfaktorer: []
+image: "/content/images/2000x1000-vad-ar-ett-skyddsombud-foto-maskot-johner-bildbyra.jpg"
+image_caption: Skyddsombudet är medarbetarnas representant i frågor om arbetsmiljö. Arbetsplatsträffen och personalmötet är bra tillfällen att prata om arbetsmiljön, det är en fråga som genomsyrar det mesta.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -27,11 +27,11 @@ Skyddsombudet håller koll på arbetsmiljön inom sitt skyddsområde. Ett skydds
 
 Arbetsmiljölagen är den lag som styr skyddsombudets roll och rättigheter. För att klara uppdraget och kunna företräda arbetstagarna har skyddsombudet rätt att
 
-*   ta del av sådant som rör arbetsmiljön inom sitt skyddsområde
-*   bli underrättad om förändringar av betydelse för arbetsmiljöförhållandena
-*   delta vid planering av nya eller ändrade lokaler, anordningar, arbetsprocesser, arbetsmetoder och av arbetsorganisationen
-*   delta vid planering av användning av ämnen som kan medföra ohälsa eller olycksfall
-*   delta vid upprättande av handlingsplaner.
+- ta del av sådant som rör arbetsmiljön inom sitt skyddsområde
+- bli underrättad om förändringar av betydelse för arbetsmiljöförhållandena
+- delta vid planering av nya eller ändrade lokaler, anordningar, arbetsprocesser, arbetsmetoder och av arbetsorganisationen
+- delta vid planering av användning av ämnen som kan medföra ohälsa eller olycksfall
+- delta vid upprättande av handlingsplaner.
 
 Skyddsombudet har även rätt att stoppa arbetet, så kallat skyddsstopp. Men det gäller bara om det finns omedelbar och allvarlig fara för liv och hälsa.
 
@@ -67,8 +67,7 @@ Skyddsombudet utses av de fackliga organisationer som har kollektivavtal på arb
 
 Det är viktigt att skyddsombudet utses på rätt sätt, för att få det rättsskydd som lagen ger.
 
-*   Skyddsombudet väljs av en facklig organisation på ett årsmöte eller ett medlemsmöte, eller av den fackliga organisationens styrelse. Den fackliga organisationen ska ha kollektivavtal på den aktuella arbetsplatsen.
-*   Namnet på den som är vald till skyddsombud ska stå med i fackets mötesprotokoll. Även adress, mandattid och vilket skyddsområde det gäller ska stå med. Detta ska man sedan meddela arbetsgivaren.
-*   Om det inte finns något kollektivavtal är det arbetstagarna som väljer vem som ska vara skyddsombud, och meddelar det till arbetsgivaren.
-*   Skyddsombud utses för en tid av tre år, men det kan göras undantag beroende på omständigheter.
-
+- Skyddsombudet väljs av en facklig organisation på ett årsmöte eller ett medlemsmöte, eller av den fackliga organisationens styrelse. Den fackliga organisationen ska ha kollektivavtal på den aktuella arbetsplatsen.
+- Namnet på den som är vald till skyddsombud ska stå med i fackets mötesprotokoll. Även adress, mandattid och vilket skyddsområde det gäller ska stå med. Detta ska man sedan meddela arbetsgivaren.
+- Om det inte finns något kollektivavtal är det arbetstagarna som väljer vem som ska vara skyddsombud, och meddelar det till arbetsgivaren.
+- Skyddsombud utses för en tid av tre år, men det kan göras undantag beroende på omständigheter.

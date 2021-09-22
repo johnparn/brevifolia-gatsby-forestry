@@ -4,9 +4,9 @@ date: 2020-10-06T13:59:12
 title: Så får ni en företagshälsa som fyller behoven
 original_id: 50867
 slug: sa-far-ni-en-foretagshalsa-som-fyller-behoven
-image: "../images/2000x1000-foretagsalsovard-foto-Scandinav-TT.jpg"
-image_caption: Dialog och samverkan redan från start vid upphandling av företagshälsovård. Det är receptet för att få en företagshälsovård som fyller behoven, stöttar och arbetar förebyggande.        
-friskfaktorer: []
+image: "/content/images/2000x1000-foretagsalsovard-foto-Scandinav-TT.jpg"
+image_caption: Dialog och samverkan redan från start vid upphandling av företagshälsovård. Det är receptet för att få en företagshälsovård som fyller behoven, stöttar och arbetar förebyggande.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -43,17 +43,17 @@ Med hjälp av öppna frågor, som det inte går att svara enbart ja eller nej p�
 
 En region har många olika verksamheter, och det präglade också utmaningarna. Det här är några exempel på de utmaningar som cheferna tog upp:
 
-*   Tunga lyft, hot och våld på telefon, K-märkta lokaler som inte får byggas om, damm, buller och vibrationer.
-*   Upplevd stresskultur, överbelastning, konflikter, upprepad korttidsfrånvaro.
-*   Förväntan att alla ska kunna arbeta med dator, telefon- och mejlkultur, upplever inget stöd i IT-frågor.
-*   Medarbetargrupper med sviktande hälsa och livsstil.
+- Tunga lyft, hot och våld på telefon, K-märkta lokaler som inte får byggas om, damm, buller och vibrationer.
+- Upplevd stresskultur, överbelastning, konflikter, upprepad korttidsfrånvaro.
+- Förväntan att alla ska kunna arbeta med dator, telefon- och mejlkultur, upplever inget stöd i IT-frågor.
+- Medarbetargrupper med sviktande hälsa och livsstil.
 
 Utmaningarna sorterade projektgruppen därefter in i fyra områden:
 
-*   fysisk arbetsmiljö
-*   psykosocial arbetsmiljö
-*   digital arbetsmiljö
-*   övriga områden
+- fysisk arbetsmiljö
+- psykosocial arbetsmiljö
+- digital arbetsmiljö
+- övriga områden
 
 ### Formulera behov och mål
 
@@ -84,4 +84,3 @@ När man har ett välfungerande systematiskt arbetsmiljöarbete blir det också 
 – Upphandla inte för att någon ska göra det här åt er utan för att ni ska göra det här tillsammans.
 
 _Fotot på Peter Munck är taget av Juliana Wiklund._
-

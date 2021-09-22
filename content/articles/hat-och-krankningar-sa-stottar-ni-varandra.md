@@ -4,9 +4,9 @@ date: 2021-04-13T13:54:30
 title: Hat och kränkningar – så stöttar ni varandra
 original_id: 56417
 slug: hat-och-krankningar-sa-stottar-ni-varandra
-image: "../images/2000x1000-hat-och-krankningar-prata-foto-johner.jpg"
-image_caption: Blir ni utsatta för hat och kränkningar på jobbet? Ta det på allvar – prata med varandra, men kom ihåg att alla är olika och människor kan reagera på olika sätt vid konfliktfyllda situationer. 
-friskfaktorer: []
+image: "/content/images/2000x1000-hat-och-krankningar-prata-foto-johner.jpg"
+image_caption: Blir ni utsatta för hat och kränkningar på jobbet? Ta det på allvar – prata med varandra, men kom ihåg att alla är olika och människor kan reagera på olika sätt vid konfliktfyllda situationer.
+friskfaktorer:
 activity:
 author: Åsa Hammar
 ---
@@ -94,4 +94,3 @@ Skapa en handlingsplan utifrån det ni kommer fram till.
 – Håll det levande hur ni mår när ni möter hat och kränkningar. Följ upp och utvärdera handlingsplanen på era arbetsplatsträffar.
 
 Sen måste det ju ofta till agerande av en högsta ledning, av politiker och i resten av samhället för att få till riktiga förändringar, påminner Philippa Borgh.
-

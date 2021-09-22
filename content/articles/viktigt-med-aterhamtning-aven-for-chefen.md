@@ -4,9 +4,9 @@ date: 2021-06-08T10:58:00
 title: Viktigt med återhämtning – även för chefen
 original_id: 57865
 slug: viktigt-med-aterhamtning-aven-for-chefen
-image: "../images/2000x1000-resiliens-foto-depiction-johner.jpg"
+image: "/content/images/2000x1000-resiliens-foto-depiction-johner.jpg"
 image_caption: Vårdpersonal har haft en tuff tid och behöver återhämtning nu. Det gäller både chefer och medarbetare. Utrymme för reflektion kan vara ett av flera sätt att orka.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -27,14 +27,14 @@ Det finns både riskfaktorer och varningssignaler att vara observant på, berät
 
 Riskfaktorer:
 
-*   Etisk och moralisk stress
-*   Att vara ung och oerfaren i yrket
-*   Brist på socialt och kollegialt stöd
+- Etisk och moralisk stress
+- Att vara ung och oerfaren i yrket
+- Brist på socialt och kollegialt stöd
 
 Varningssignaler:
 
-*   Reaktioner som tex långvarigt och kvarstående stresspåslag, eller att man känner att man hanterat uppgiften dåligt
-*   Tecken på arbetsrelaterad ohälsa som till exempel magbesvär, sömnsvårigheter, spänningar och värk
+- Reaktioner som tex långvarigt och kvarstående stresspåslag, eller att man känner att man hanterat uppgiften dåligt
+- Tecken på arbetsrelaterad ohälsa som till exempel magbesvär, sömnsvårigheter, spänningar och värk
 
 ### Behöver både mikro- och makroåterhämtning
 
@@ -54,14 +54,14 @@ Charlotte Therup Svedenlöf har därför samlat ihop ett antal råd för att fr�
 
 För organisationen:
 
-*   Se till att chefen har reflektionsutrymme. Det är viktigt att få reflektera både med kollegor och med högre chefer. Chefen måste få chans att klaga lite också.
+- Se till att chefen har reflektionsutrymme. Det är viktigt att få reflektera både med kollegor och med högre chefer. Chefen måste få chans att klaga lite också.
 
 För chefen själv:
 
-*   Acceptera att du som chef själv kommer att bli berörd när du ska leda och vara med om påfrestande situationer.
-*   Arbeta med självempati och självmedkänsla. Kom att ihåg att du som chef inte behöver vara perfekt – det räcker med bra nog. Medarbetarna tycker om att se att chefen är mänsklig.
-*   Skapa återhämtning för dig själv. Ta regelbundna pauser, undvika att arbeta för mycket övertid.
-*   Ta hand om dig. Motionera regelbundet och försök ha det så bra som möjligt hemma. Ät och sov ordentligt.
+- Acceptera att du som chef själv kommer att bli berörd när du ska leda och vara med om påfrestande situationer.
+- Arbeta med självempati och självmedkänsla. Kom att ihåg att du som chef inte behöver vara perfekt – det räcker med bra nog. Medarbetarna tycker om att se att chefen är mänsklig.
+- Skapa återhämtning för dig själv. Ta regelbundna pauser, undvika att arbeta för mycket övertid.
+- Ta hand om dig. Motionera regelbundet och försök ha det så bra som möjligt hemma. Ät och sov ordentligt.
 
 ### Kan ta hand även om medarbetarna
 
@@ -70,4 +70,3 @@ En chef som tar hand om sig själv har också bättre förutsättningar att skap
 Det är viktigt att tankarna om återhämtning, och en god arbetsmiljö genomsyrar hela organisationen, säger Charlotte Therup Svedenlöf. Hon tycker att man måste se återhämtning och en god arbetsmiljö som investeringar.
 
 – Det är en medmänsklig, humanitär men också en laglig rättighet. Och det lönar sig i längden. Den som skapar en bra arbetsmiljö kommer att få medarbetare som blir kvar på arbetsplatsen och håller i längden.
-

@@ -4,9 +4,9 @@ date: 2021-01-11T17:28:01
 title: Alkohol vid hemmajobb &#8211; så stöttar ni i tid
 original_id: 53702
 slug: alkohol-vid-hemmajobb-sa-stottar-ni-i-tid
-image: "../images/2000x1000-alkohol-hemarbete-foto-lisa-wikstrand-johner.jpg"
+image: "/content/images/2000x1000-alkohol-hemarbete-foto-lisa-wikstrand-johner.jpg"
 image_caption: Håll kontakten! Det är ett av råden från Alna till chefer, för att stötta personer med missbruksrisk när de jobbar hemifrån. En engagerad chef kan göra stor skillnad.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Birgita Klepke
 ---
@@ -29,9 +29,9 @@ Många chefer som kontaktar Alna undrar vad de ska säga och göra. Ingela Eriks
 
 Chefen bör ta upp:
 
-*   Noterade konsekvenser för arbetet
-*   Oro över medarbetarens beteende/agerande
-*   Om det har hänt något i arbetet
+- Noterade konsekvenser för arbetet
+- Oro över medarbetarens beteende/agerande
+- Om det har hänt något i arbetet
 
 ### Dokumentera och följ upp
 
@@ -47,10 +47,10 @@ Ingela Eriksson betonar också vikten av att tydligt tala om för alla att de re
 
 Chefen kan göra det lättare för medarbetare som jobbar hemma att skapa goda rutiner genom att:
 
-*   Stämma av läget varje dag.
-*   Göra en arbetsplan för varje ny vecka.
-*   Sätta tydliga gränser för när arbetet börjar och slutar.
-*   Tillhandahålla det som behövs för att hemarbetet ska fungera så bra som möjligt_._
+- Stämma av läget varje dag.
+- Göra en arbetsplan för varje ny vecka.
+- Sätta tydliga gränser för när arbetet börjar och slutar.
+- Tillhandahålla det som behövs för att hemarbetet ska fungera så bra som möjligt*.*
 
 ### Skyddsombud behöver också stöd
 
@@ -59,4 +59,3 @@ Ingela Eriksson uppmanar också skyddsombuden att vara extra uppmärksamma. Blan
 Hon välkomnar fler skyddsombud att kontakta Alna för att få stöd. Många organisationer – till exempel Vision, Lärarförbundet och Vårdförbundet – har avtal som ger deras förtroendevalda rätt till gratis rådgivning per telefon.
 
 _Läs också Suntarbetslivs artikel [Därför behövs en alkoholpolicy.](https://www.suntarbetsliv.se/rapporterat/darfor-behovs-en-alkoholpolicy/)_
-

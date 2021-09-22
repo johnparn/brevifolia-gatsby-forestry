@@ -4,9 +4,9 @@ date: 2021-03-02T14:32:14
 title: Digital arbetsmiljöutbildning – här är receptet
 original_id: 55351
 slug: digital-arbetsmiljoutbildning-har-ar-receptet
-image: "../images/2000x1000-daniel-carlsson-regionhalsan-foto-mats-andersson.jpg"
-image_caption: Enklare än man kan tro. I Region Västernorrland har Daniel Carlsson på Regionhälsan och en kollega gjort små digitala anpassningar av Suntarbetslivs arbetsmiljöutbildning. 
-friskfaktorer: []
+image: "/content/images/2000x1000-daniel-carlsson-regionhalsan-foto-mats-andersson.jpg"
+image_caption: Enklare än man kan tro. I Region Västernorrland har Daniel Carlsson på Regionhälsan och en kollega gjort små digitala anpassningar av Suntarbetslivs arbetsmiljöutbildning.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -110,4 +110,3 @@ Och så var det arbetsplatsträffarna, APT, som de nu har genomfört digitalt ti
 Hans Söderblom har inte bara fått högre digital kompetens tack vare att arbetsmiljöutbildningen var på distans. Han har även upptäckt var de kan hämta påfyllning för arbetsplatsträffar och samverkan.
 
 – När jag klickar på ordet Verktyg på Suntarbetslivs hemsida finns det massor av användbart att läsa och göra tillsammans. Det var en aha-upplevelse.
-

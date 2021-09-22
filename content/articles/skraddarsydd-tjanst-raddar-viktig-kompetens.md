@@ -4,9 +4,9 @@ date: 2021-08-16T10:36:29
 title: Skräddarsydd tjänst räddar viktig kompetens
 original_id: 58338
 slug: skraddarsydd-tjanst-raddar-viktig-kompetens
-image: "../images/2000x1000-ingela-andersson-foto-mattias-andersson-maddoc-photography.jpg"
+image: "/content/images/2000x1000-ingela-andersson-foto-mattias-andersson-maddoc-photography.jpg"
 image_caption: Ingela Andersson har arbetat som sjuksköterska i många år i Region Kalmar län. Efter en hjärntumör som gav bestående hörselnedsättning har hon nu en personlig tjänst i regionens träningscenter.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -45,7 +45,7 @@ Att ta en personlig tjänst var inte självklart, berättar hon.
 
 ![Två kvinnor på sjukhuskontor står med ryggarna mot varandra och sträcker sig efter något.](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/750x400-ingela-andersson-personlig-tjanst-foto-mattias-andersson-maddoc-photography.jpg)
 
-_Ingela Andersson trivs med sin personliga tjänst på Länssjukhuset i Kalmar__._ _Till höger kollegan Maria Andersson. Foto: Mattias Johansson/Maddoc Photography_
+_Ingela Andersson trivs med sin personliga tjänst på Länssjukhuset i Kalmar\_\_._ _Till höger kollegan Maria Andersson. Foto: Mattias Johansson/Maddoc Photography_
 
 Träningscentrets chef, Marie Åberg Petersson, tycker att Ingela Andersson är ett mycket välkommet tillskott.
 
@@ -68,4 +68,3 @@ Den personliga tjänsten finansieras helt av regionen. Det är något som skilje
 Det varierar vad som ingår i de anpassade tjänsterna, men många av uppgifterna är enkla. Det kan handla om att hjälpa till med konferensrum eller i kök. Det kan också vara service och administrativa tjänster.
 
 – Jag kommer tidigare från Samhall, så det ligger mig varmt om hjärtat att tillvarata människors arbetsförmåga. Jag tycker att det här är en fantastisk möjlighet för människor att slippa tvingas avsluta sitt yrkesliv i förtid, avslutar Vala Helgadóttir Lindén.
-

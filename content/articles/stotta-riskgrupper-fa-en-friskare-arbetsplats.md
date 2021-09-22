@@ -4,9 +4,9 @@ date: 2021-04-07T14:26:14
 title: Stötta riskgrupper &#8211; få en friskare arbetsplats
 original_id: 56331
 slug: stotta-riskgrupper-fa-en-friskare-arbetsplats
-image: "../images/2000x1000-jobba-med-sjukfranvaro-foto-johner.jpg"
+image: "/content/images/2000x1000-jobba-med-sjukfranvaro-foto-johner.jpg"
 image_caption: Ett sätt att motverka sjukskrivningar är att stötta arbetsplatser med många korttidssjukskrivna. HR kan gå in och kartlägga arbetsmiljön - genom till exempel intervjuer - för att hitta riskfaktorer att arbeta vidare med.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -31,10 +31,10 @@ Arbetssättet går alltså ut på att fånga upp medarbetare och arbetsplatser m
 
 SKR har identifierat fyra grupper som ligger i riskzonen. De två första är på arbetsplatsnivå, och de två sista på individnivå:
 
-*   **arbetsplatser** som det senaste året haft en hög och ökande sjukfrånvaro – jämfört med tidigare, och jämfört med andra arbetsplatser inom organisationen.
-*   **arbetsplatser** som har många medarbetare med upprepad korttidssjukfrånvaro.
-*   **medarbetare** med upprepad korttidssjukfrånvaro – det kan räcka med tre korta sjukskrivningar per år.
-*   **medarbetare** som har kommit tillbaka i arbete efter sjukskrivning.
+- **arbetsplatser** som det senaste året haft en hög och ökande sjukfrånvaro – jämfört med tidigare, och jämfört med andra arbetsplatser inom organisationen.
+- **arbetsplatser** som har många medarbetare med upprepad korttidssjukfrånvaro.
+- **medarbetare** med upprepad korttidssjukfrånvaro – det kan räcka med tre korta sjukskrivningar per år.
+- **medarbetare** som har kommit tillbaka i arbete efter sjukskrivning.
 
 När riskgrupperna väl har identifierats gäller det att agera.
 
@@ -50,10 +50,10 @@ Metoderna och verktygen finns på olika håll. Det mesta finns att hämta hos SK
 
 Några exempel på stöd och verktyg, på olika nivåer, är:
 
-*   _Organisationsnivå:_ SKR tillhandahåller Excelmodeller som går att koppla ihop med organisationens eget lönesystem, för att till exempel hitta riskarbetsplatser – och för att kunna räkna ut vad sjukskrivningarna kostar.
-*   _Arbetsplatsnivå:_ SKR tillhandahåller underlag och verktyg för att göra en kartläggning av arbetsmiljön på en arbetsplats, för att identifiera risk- och friskfaktorer.
-*   _Medarbetarnivå:_ SKR tillhandahåller inspiration och underlag för chefer som ska ta en första kontakt med medarbetare i risk för sjukfrånvaro.
-*   _Alla nivåer:_ Suntarbetsliv tillhandahåller en rad verktyg för att jobba med de olika nivåerna. Till exempel Prehabguiden, som bland annat har [ett test för att skatta sin förmåga i förhållande till kraven på arbetet](https://prehabguiden.suntarbetsliv.se/sjalvskattning).
+- _Organisationsnivå:_ SKR tillhandahåller Excelmodeller som går att koppla ihop med organisationens eget lönesystem, för att till exempel hitta riskarbetsplatser – och för att kunna räkna ut vad sjukskrivningarna kostar.
+- _Arbetsplatsnivå:_ SKR tillhandahåller underlag och verktyg för att göra en kartläggning av arbetsmiljön på en arbetsplats, för att identifiera risk- och friskfaktorer.
+- _Medarbetarnivå:_ SKR tillhandahåller inspiration och underlag för chefer som ska ta en första kontakt med medarbetare i risk för sjukfrånvaro.
+- _Alla nivåer:_ Suntarbetsliv tillhandahåller en rad verktyg för att jobba med de olika nivåerna. Till exempel Prehabguiden, som bland annat har [ett test för att skatta sin förmåga i förhållande till kraven på arbetet](https://prehabguiden.suntarbetsliv.se/sjalvskattning).
 
 ### Fungerar även under corona
 
@@ -62,4 +62,3 @@ Nu under coronapandemin kan det vara svårt att titta på siffrorna för sjukfr�
 – Man kan titta tillbaka på hur det såg ut innan corona. Men man kan även titta på hur det ser ut just nu, och se om det är samma arbetsplatser som tidigare som har problem. Många av våra stöd kan fungera bra även ifall problemen är relaterade till corona.
 
 _[Klicka här för att läsa om hur Botkyrka kommun har arbetat med metoden!](https://www.suntarbetsliv.se/artiklar/sam/tidiga-insatser-ger-friskare-medarbetare/)_
-

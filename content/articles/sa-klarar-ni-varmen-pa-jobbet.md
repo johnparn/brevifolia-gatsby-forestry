@@ -4,9 +4,9 @@ date: 2021-06-22T10:33:31
 title: Så klarar ni värmen på jobbet
 original_id: 58194
 slug: sa-klarar-ni-varmen-pa-jobbet
-image: "../images/2000x1000-varme-pa-jobbet-foto-Depiction-AB-johner.jpg"
-image_caption: När sommaren är här gäller det att se upp för värmen på jobbet - speciellt för dem som arbetar i varma lokaler eller i skyddsutrustning. Försök att ta pauser innan du har blivit alltför varm, är ett tips från forskare. 
-friskfaktorer: []
+image: "/content/images/2000x1000-varme-pa-jobbet-foto-Depiction-AB-johner.jpg"
+image_caption: När sommaren är här gäller det att se upp för värmen på jobbet - speciellt för dem som arbetar i varma lokaler eller i skyddsutrustning. Försök att ta pauser innan du har blivit alltför varm, är ett tips från forskare.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -37,12 +37,12 @@ Men det är inte bara värmestress som spelar roll, utan även det som kallas f�
 
 De är, till exempel:
 
-*   temperatur
-*   luftfuktighet
-*   luftrörelse, det vill säga hur mycket luften rör på sig
-*   skyddsutrustning
-*   strålningsvärme från till exempel solen eller från en ugn
-*   personlig aktivitet, det vill säga hur mycket man rör på sig
+- temperatur
+- luftfuktighet
+- luftrörelse, det vill säga hur mycket luften rör på sig
+- skyddsutrustning
+- strålningsvärme från till exempel solen eller från en ugn
+- personlig aktivitet, det vill säga hur mycket man rör på sig
 
 Och det är när vi känner oss obekvämt varma som vi börjar tappa koncentrationsförmågan och prestera sämre. Man riskerar också att bli uttorkad på sikt.
 
@@ -69,4 +69,3 @@ Ett enkelt tips är att kyla ner händer, fötter och nacke under arbetspasset, 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/200x220-ida-knutsson.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/06/200x220-ida-knutsson.jpg)Ida Knutsson är utredare på Folkhälsomyndigheten, och hon betonar också vikten av att arbetsgivare tänker till vad gäller värmen. Både för patienter, brukare och andra som behöver vård eller omsorg – och för personalens skull.
 
 – Arbetsgivaren behöver se till att det finns svalkande åtgärder, och det gäller att arbeta förebyggande. Det är viktigt att ha handlingsplaner på plats när värmeböljan väl kommer.
-

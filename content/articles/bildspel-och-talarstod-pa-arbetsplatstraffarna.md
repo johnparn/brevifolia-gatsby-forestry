@@ -4,9 +4,9 @@ date: 2020-05-25T18:47:40
 title: Bildspel och talarstöd på arbetsplatsträffarna
 original_id: 47300
 slug: bildspel-och-talarstod-pa-arbetsplatstraffarna
-image: "../images/2000x1000-josefine-lindell-foto-bjorn-larsson-rosvall-tt.jpg"
-image_caption: APT-kit ger kunskap om arbetsmiljö och samverkan, och lägger grunden till engagemang hos medarbetarna. Det tycker Josefine Lindell, förskolechef för tre förskolor i Nässjö, som använder kiten ofta. 
-friskfaktorer: []
+image: "/content/images/2000x1000-josefine-lindell-foto-bjorn-larsson-rosvall-tt.jpg"
+image_caption: APT-kit ger kunskap om arbetsmiljö och samverkan, och lägger grunden till engagemang hos medarbetarna. Det tycker Josefine Lindell, förskolechef för tre förskolor i Nässjö, som använder kiten ofta.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -88,4 +88,3 @@ De har oftast arbetsplatsträffar alla tre förskolor tillsammans. Men det behö
 – Vi kan sakna lite att rektorn inte har kontoret hos oss, och vi tycker att det är värt mycket när Josefine kommer ut till oss.
 
 _Alla foton: Björn Larsson Rosvall / TT_
-

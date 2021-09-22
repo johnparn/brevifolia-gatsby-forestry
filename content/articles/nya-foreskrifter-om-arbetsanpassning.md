@@ -4,9 +4,9 @@ date: 2021-05-18T09:43:05
 title: Nya föreskrifter om arbetsanpassning
 original_id: 57335
 slug: nya-foreskrifter-om-arbetsanpassning
-image: "../images/2000x1000-nya-foreskrifter-arbetsanpassning-foto-johner.jpg"
+image: "/content/images/2000x1000-nya-foreskrifter-arbetsanpassning-foto-johner.jpg"
 image_caption: Arbetsanpassning kan bestå av många olika saker. Korta pauser, ett anpassat schema, tekniska hjälpmedel är några av dem. Ta hjälp av Suntarbetslivs verktyg Prehabguiden för att få tips och stöd för anpassning!
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Åsa Hammar
 ---
@@ -21,10 +21,10 @@ Arbetsanpassningen ska ske i dialog med den arbetstagare som behöver anpassning
 
 Om någon arbetstagare behöver få sitt arbete anpassat, ska arbetsgivaren så snart som möjligt
 
-*   utreda och ta ställning till hur anpassningen ska utformas
-*   genomföra anpassningen
-*   fortlöpande följa upp och kontrollera att anpassningen fungerar
-*   vid behov justera anpassningen.
+- utreda och ta ställning till hur anpassningen ska utformas
+- genomföra anpassningen
+- fortlöpande följa upp och kontrollera att anpassningen fungerar
+- vid behov justera anpassningen.
 
 ### Behövde göras om
 
@@ -93,4 +93,3 @@ I samband med att den nya föreskriften börjar gälla den 1 juni, kommer också
 – Där hoppas vi få fler svar, säger Katarina Bergström.
 
 [Här finns nu vägledningen på Arbetsmiljöverkets sida.](https://www.av.se/halsa-och-sakerhet/vagledning-om-arbetsanpassning/)
-

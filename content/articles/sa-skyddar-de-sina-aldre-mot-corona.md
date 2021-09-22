@@ -4,9 +4,9 @@ date: 2021-01-26T10:00:31
 title: Så skyddar de sina äldre mot corona
 original_id: 54052
 slug: sa-skyddar-de-sina-aldre-mot-corona
-image: "../images/2000x1000-nadia-axelsson-maria-lundin2-foto-anna-rehnberg.jpg"
+image: "/content/images/2000x1000-nadia-axelsson-maria-lundin2-foto-anna-rehnberg.jpg"
 image_caption: Handsprit och smittspårningslista för besökare - några sätt att begränsa smittan på Tre Stiftelser. Lika viktigt är att utbilda och informera personalen, berättar cheferna Maria Lundin och Nadia Axelsson.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -76,4 +76,3 @@ Lika försiktig är man när nya hyresgäster ska flytta in. De provtas senast 3
 – Tack vare provtagningen behöver vi inte hålla folk i karantän i onödan. Bara för att man bor på ett äldreboende ska man inte bli berövad rätten till sitt liv, säger Maria Lundin.
 
 – Vi ser fram emot när pandemin är över så klart, men vi är inte rädda. Det känns som om vi vet vad vi ska göra, säger Nadia Axelsson.
-

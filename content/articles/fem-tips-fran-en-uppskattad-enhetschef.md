@@ -4,9 +4,9 @@ date: 2021-04-07T13:35:56
 title: Fem tips från en uppskattad enhetschef
 original_id: 56249
 slug: fem-tips-fran-en-uppskattad-enhetschef
-image: "../images/2000x1000-fargelanda-anna-maria-bonskog-foto-kent-eng-1.jpg"
+image: "/content/images/2000x1000-fargelanda-anna-maria-bonskog-foto-kent-eng-1.jpg"
 image_caption: Uppskattad enhetschef i Färgelanda. Skyddsombudet Anna Johansson har nominerat Anna-Maria Bonskog till Årets chef i fokus. Här med David Berg, sjuksköterska och Katarina Gustafsson, arbetsterapeut.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -21,7 +21,7 @@ Det säger Anna Johansson som är medicinsk sekreterare och Visions skyddsombud 
 
 Det gör att de har blivit en tryggare arbetsgrupp som kan lägga fokus på det som är viktigt, och det får även patienterna del av, menar hon.
 
->  Vi har fått mycket bättre struktur med mer ordning och reda
+> Vi har fått mycket bättre struktur med mer ordning och reda
 
 Den nominerade chefen Anna-Maria Bonskog har tolv års erfarenhet som chef inom flera kommuner och en region. Enhetschef för hemsjukvården och rehab i Färgelanda har hon varit i ett och ett halvt år.
 
@@ -94,4 +94,3 @@ _Hur känns det?_
 – Jag blev chockad och förvånad, men jag känner mig också hedrad. Det är jätteroligt!
 
 Vinnaren tillkännages i Chefen i fokus nr 3 som kommer ut i september 2021.
-

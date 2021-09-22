@@ -4,9 +4,9 @@ date: 2021-09-14T11:23:13
 title: Så stöttar de utlånad covid-personal
 original_id: 59101
 slug: sa-stottar-de-utlanad-covid-personal
-image: "../images/avlastning-vardpersonal-foto-kent-eng_Red_2000x1000.jpg"
+image: "/content/images/avlastning-vardpersonal-foto-kent-eng_Red_2000x1000.jpg"
 image_caption: Skönt att vara tillbaka från arbetet på IVA, men bra att få stöd för att komma in i gruppen igen. Ambulansenhetens chef Karin Salomonsson har stöttat utlånade ambulanssjuksköterskan Pernilla Lundahl.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Marika Sivertsson
 ---
@@ -74,4 +74,3 @@ Karin Salomonsson såg till att personalen fick scheman med så små förändrin
 För Pernilla Dahlund var det en skön känsla att få komma tillbaka till sin ordinarie arbetsplats.
 
 – Mest av allt var det så tydligt att mina kollegor var glada att se mig – ”vad skönt att du är tillbaka, blir du kvar hos oss nu?”. Och att vi utlånade blev så lyfta av Karin. Hon berättade för alla att vi från ambulansen hade varit väldigt uppskattade på IVA, att kollegorna där tyckte att vi hade gjort ett väldigt bra jobb med patienterna och i personalgruppen. Det gjorde mycket för självkänslan.
-

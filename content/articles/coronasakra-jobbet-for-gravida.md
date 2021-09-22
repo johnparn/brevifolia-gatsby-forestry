@@ -4,9 +4,9 @@ date: 2021-06-01T11:03:28
 title: Coronasäkra jobbet för gravida
 original_id: 57688
 slug: coronasakra-jobbet-for-gravida
-image: "../images/2000x1000-gravid-stod-foto-maria-annas-tt.jpg"
+image: "/content/images/2000x1000-gravid-stod-foto-maria-annas-tt.jpg"
 image_caption: Har ni en medarbetare som är gravid och som riskerar att smittas av corona i jobbet? Då kan det vara läge att omplacera till andra arbetsuppgifter. På Suntarbetsliv finns det ett nytt dialogstöd som kan hjälpa till!
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -21,9 +21,9 @@ Nu finns ett dialogstöd på Suntarbetslivs hemsida, som hjälper till med detta
 
 Bland punkterna står det att arbetsgivaren ska vända på alla stenar och vara kreativ för att hitta den bästa lösningen för både den gravida och verksamheten. Situationen för varje enskild gravid arbetstagare är unik, men det som gäller generellt är:
 
-*   Anpassa arbetet
-*   Omplacera till andra arbetsuppgifter
-*   Som sista utväg kan arbetsgivaren förbjuda den gravida att arbeta och då kan den gravida själv söka graviditetspenning.
+- Anpassa arbetet
+- Omplacera till andra arbetsuppgifter
+- Som sista utväg kan arbetsgivaren förbjuda den gravida att arbeta och då kan den gravida själv söka graviditetspenning.
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-Ann-Charlotte-Rand.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-Ann-Charlotte-Rand.jpg)– Vi såg att det fanns ett behov av stöd till arbetsgivarna, vad gäller hur de ska hantera gravida under pandemin.
 
@@ -52,4 +52,3 @@ Han fortsätter:
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-susanne-bjorkman.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-susanne-bjorkman.jpg)Ett annat fackförbund som har varit med i arbetet är Vårdförbundet, där Susanne Björkman är förbundsombudsman.  Även om dialogstödet är relativt kortfattat så ger det en bra grund för att komma igång med diskussionen ute på arbetsplatsen, menar hon.
 
 – Dessutom finns det ju mer detaljerad information i andra stöd från Suntarbetsliv. I Prehabguiden finns det till exempel information om arbetsanpassning, och så finns det en sida med checklistor för riskbedömning i olika situationer.
-

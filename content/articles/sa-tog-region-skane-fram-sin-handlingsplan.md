@@ -4,9 +4,9 @@ date: 2020-06-15T20:44:10
 title: Så tog Region Skåne fram sin handlingsplan
 original_id: 48428
 slug: sa-tog-region-skane-fram-sin-handlingsplan
-image: "../images/2000x1000-Mariela-Ferre-Hofman-Moa-Elfstrom-Louise-Sylvan-foto-helene-holmqvist-skanes-univsjukhus.jpg"
+image: "/content/images/2000x1000-Mariela-Ferre-Hofman-Moa-Elfstrom-Louise-Sylvan-foto-helene-holmqvist-skanes-univsjukhus.jpg"
 image_caption: Snabb och korrekt information - det har varit en av de viktigaste åtgärderna i handlingsplanen, tycker huvudskyddsombudet Mariela Ferré-Hofman och HR-strategerna Moa Elfström och Louise Sylvan på SUS.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Birgita Klepke
 ---
@@ -88,4 +88,3 @@ Riskbedömning ett utmärkt verktyg för att stävja oro, menar de båda HR-stra
 Både hon och Moa Elfström påpekar också att det som Region Skåne gör just nu, egentligen ”bara” är ett klassiskt arbetsmiljöarbete.
 
 – Vi följer de riktlinjer och arbetssätt som redan fanns och förhoppningsvis har vi lyckats ”avskräckifiera” riskarbetet för all framtid.
-

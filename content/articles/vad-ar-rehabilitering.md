@@ -4,9 +4,9 @@ date: 2020-10-01T01:19:00
 title: Vad är rehabilitering?
 original_id: 15766
 slug: vad-ar-rehabilitering
-image: "../images/2000x1000-vad-ar-rehab-foto-maskot-tt.jpg"
-image_caption: Forskning visar att det finns ett tydligt samband mellan friska arbetsplatser, och ett aktivt arbete med arbetsanpassning och rehabilitering. 
-friskfaktorer: []
+image: "/content/images/2000x1000-vad-ar-rehab-foto-maskot-tt.jpg"
+image_caption: Forskning visar att det finns ett tydligt samband mellan friska arbetsplatser, och ett aktivt arbete med arbetsanpassning och rehabilitering.
+friskfaktorer:
 activity:
 author: Åsa Hammar
 ---
@@ -17,8 +17,8 @@ Det systematiska arbetsmiljöarbetet är grunden för att förebygga ohälsa och
 
 Men ibland räcker inte det. Då behöver arbetsgivaren anpassa arbetet för enskilda medarbetare. Anpassningarna kan gälla för
 
-*   en medarbetare som riskerar att drabbas av ohälsa och bli sjukskriven – det kallas arbetsanpassning
-*   en medarbetare som har varit sjukskriven och nu ska börja arbeta igen – det kallas arbetslivsinriktad rehabilitering
+- en medarbetare som riskerar att drabbas av ohälsa och bli sjukskriven – det kallas arbetsanpassning
+- en medarbetare som har varit sjukskriven och nu ska börja arbeta igen – det kallas arbetslivsinriktad rehabilitering
 
 Arbetsgivarens ansvar för detta finns reglerat i Arbetsmiljöverkets föreskrifter om anpassning och rehabilitering från 1994.
 
@@ -52,11 +52,11 @@ En plan för återgång i arbete kan också vara ett underlag för Försäkrings
 
 Arbetsanpassning och arbetslivsinriktad kan man göra på flera olika sätt i en organisation:
 
-*   Organisatoriskt
-*   Socialt
-*   Kognitivt
-*   Fysiskt
-*   Psykiskt
+- Organisatoriskt
+- Socialt
+- Kognitivt
+- Fysiskt
+- Psykiskt
 
 ### Genomför med omsorg om alla
 
@@ -64,13 +64,13 @@ Möjlighet till arbetsanpassning gäller alla på arbetsplatsen, och alla behöv
 
 Arbetsanpassningar kan till exempel handla om:
 
-*   En socialsekreterare som under en period arbetar mer med utvecklingsfrågor för att minska mängden klientkontakter.
-*   En lärare som under en period inte är mentor.
-*   En administratör som får arbeta hemifrån.
-*   En handläggare som får ergonomiska hjälpmedel som exempelvis en ståmatta eller ett underarmsstöd.
-*   En bussförare som får en ergonomiskt utformad och anpassningsbar förarstol.
-*   En undersköterska som får annat schema för att undvika långa pass.
-*   Ett sjukvårdsbiträde som inte behöver utföra tunga lyft.
+- En socialsekreterare som under en period arbetar mer med utvecklingsfrågor för att minska mängden klientkontakter.
+- En lärare som under en period inte är mentor.
+- En administratör som får arbeta hemifrån.
+- En handläggare som får ergonomiska hjälpmedel som exempelvis en ståmatta eller ett underarmsstöd.
+- En bussförare som får en ergonomiskt utformad och anpassningsbar förarstol.
+- En undersköterska som får annat schema för att undvika långa pass.
+- Ett sjukvårdsbiträde som inte behöver utföra tunga lyft.
 
 ### Friska arbetsplatser har bra rutiner
 
@@ -78,12 +78,11 @@ Forskning visar ett samband mellan friska arbetsplatser och ett aktivt arbete me
 
 Det här är framgångsfaktorer för ett sådant arbete:
 
-*   Agera på tidiga signaler
-*   Ha tydliga och etablerade rutiner
-*   Ha regelbunden kontakt när någon är sjukfrånvarande
-*   Ha rutiner för samarbete med andra aktörer
-*   Lär av erfarenheter
+- Agera på tidiga signaler
+- Ha tydliga och etablerade rutiner
+- Ha regelbunden kontakt när någon är sjukfrånvarande
+- Ha rutiner för samarbete med andra aktörer
+- Lär av erfarenheter
 
 _[Här hittar du Arbetsmiljöverkets nuvarande föreskrifter om anpassning och rehabilitering.](https://www.av.se/halsa-och-sakerhet/arbetsanpassning-och-rehabilitering)  
-__[Här hittar du Försäkringskassans information om arbetslivsinriktad rehabilitering.](https://www.forsakringskassan.se/!ut/p/z0/hYoxDoMwDADf0iEjSqpu3VDVD7QLYkEOscBNcCLHpN8HqQ_odqc7O9rBjgyNFlDKDOn04Ttv9wK6muutN-6RWZH1_ZxeWEvmSg2Nq589NpDwo5A340A8ak3UKrFQVAid4AqeEikK8WKc7P4s3d_TlthfDuXo4Oc!/)_
-
+\_\_[Här hittar du Försäkringskassans information om arbetslivsinriktad rehabilitering.](https://www.forsakringskassan.se/!ut/p/z0/hYoxDoMwDADf0iEjSqpu3VDVD7QLYkEOscBNcCLHpN8HqQ_odqc7O9rBjgyNFlDKDOn04Ttv9wK6muutN-6RWZH1_ZxeWEvmSg2Nq589NpDwo5A340A8ak3UKrFQVAid4AqeEikK8WKc7P4s3d_TlthfDuXo4Oc!/)_

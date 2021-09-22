@@ -4,9 +4,9 @@ date: 2020-09-14T14:39:39
 title: Det handlar om delaktighet på riktigt
 original_id: 50120
 slug: det-handlar-om-delaktighet-pa-riktigt
-image: "../images/2000x1000-strangnas-skola-foto-Pontus-lundah.jpg"
+image: "/content/images/2000x1000-strangnas-skola-foto-Pontus-lundah.jpg"
 image_caption: Förändringar måste komma från medarbetarna själva, och inte från ledningen. Det säger Carina Tinker, Anna Lindgren och Daniel Nygren Hårdstedt på Finningeskolan.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---

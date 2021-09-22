@@ -4,9 +4,9 @@ date: 2020-09-22T15:23:06
 title: Samsyn gör det lättare att vara rektor
 original_id: 50354
 slug: samsyn-gor-det-lattare-att-vara-rektor
-image: "../images/2000x1000-thomas-stenseke-larsson-linda-davidsson-foto-bjorn-larsson-rosvall.jpg"
-image_caption: Rektorsteam. Thomas Stenseke Larsson och Linda Davidsson är rektorer på Gullhögskolan i Vårgårda. Med stöd av Chefoskopet har de fått bättre organisatoriska förutsättningar att leda sin skola.    
-friskfaktorer: []
+image: "/content/images/2000x1000-thomas-stenseke-larsson-linda-davidsson-foto-bjorn-larsson-rosvall.jpg"
+image_caption: Rektorsteam. Thomas Stenseke Larsson och Linda Davidsson är rektorer på Gullhögskolan i Vårgårda. Med stöd av Chefoskopet har de fått bättre organisatoriska förutsättningar att leda sin skola.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -85,4 +85,3 @@ När de här två rektorerna hösten 2019 gick in i Chefoskopet så hade de med 
 
 – Men vi fick tid att tänka. Nu efteråt kan vi backa tillbaka och fiska upp vad vi kom fram till. Vad var det vi sa då? Hur kan vi använda det nu?  
 _Det här är den andra artikeln om hur Vårgårda arbetar med Chefoskopet. Den första är [Rektorerna i Vårgårda tar hjälp av Chefoskopet](https://www.suntarbetsliv.se/artiklar/ledarskap-och-organisation/rektorerna-i-vargarda-tar-hjalp-av-chefoskopet/)._
-

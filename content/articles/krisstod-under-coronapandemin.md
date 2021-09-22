@@ -4,9 +4,9 @@ date: 2020-04-14T15:28:06
 title: Krisstöd under coronapandemin
 original_id: 46151
 slug: krisstod-under-coronapandemin
-image: "../images/2000x1000-krisstod-foto-Mikael-Fritzon-TT.jpg"
+image: "/content/images/2000x1000-krisstod-foto-Mikael-Fritzon-TT.jpg"
 image_caption: Försök att alltid jobba två och två. Sociala relationer och stöd är viktigt i tider av extrem stress. Det är två av huvudbudskapen ifrån häftet om krisstöd under coronapandemin.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -80,4 +80,3 @@ Sara Johansson och hennes kollega Emma Holmgren arbetade under två intensiva ve
 – Jag kände att det här var så pass viktigt att jag ville göra det. Det här är mitt sätt att bidra, säger Sara Johansson.
 
 _Bilden på Sara Johansson är tagen av Mia Carlsson/Natur & Kultur._
-

@@ -4,9 +4,9 @@ date: 2020-10-27T14:26:14
 title: Suntarbetslivs resursteam breddar utbudet
 original_id: 51642
 slug: suntarbetslivs-resursteam-breddar-utbudet
-image: "../images/2000x1000-petra-bollvik-foto-malin-berggren.jpg"
+image: "/content/images/2000x1000-petra-bollvik-foto-malin-berggren.jpg"
 image_caption: Stöd i digital form. Suntarbetslivs resursteam har breddat sitt utbud och bjuder in till digitala workshops om friskfaktorer i arbetslivet – som här med verksamhetsutvecklare Petra Bollvik.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -74,4 +74,3 @@ Upplägget kan till exempel bli att stödet från Resursteamet riktas till en sp
 Framöver kommer ytterligare webinarier på olika teman där man kan få mer kunskap om friskfaktorer. Räkna med medverkan från forskare, att få ta del av goda exempel och föra dialog om hur den egna verksamheten kan utvecklas.
 
 Dessutom finns planer på att rikta stöd och utbildningsinsatser till HR och skyddsombud om friskfaktorer. Mer information om det kommer i början av 2021.
-

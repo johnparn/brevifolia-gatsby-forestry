@@ -4,9 +4,9 @@ date: 2021-08-31T10:44:30
 title: Så jobbar Vännäs för respektfullt bemötande
 original_id: 58785
 slug: sa-jobbar-vannas-for-respektfullt-bemotande
-image: "../images/krankande-sarbehandling-vannas-foto-sandra-lundberg-lupin-foto_Red_2000x1000.jpg"
+image: "/content/images/krankande-sarbehandling-vannas-foto-sandra-lundberg-lupin-foto_Red_2000x1000.jpg"
 image_caption: I Vännäs arbetar kommunen aktivt mot kränkande särbehandling, bland annat genom att trycka upp informationsblad med tydliga riktlinjer. Det berättar Karin Eriksson och Elena Jakobsson.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -88,4 +88,3 @@ Karin Eriksson tror att några framgångsfaktorer har varit viktiga i arbetet. D
 Och dessutom har arbetsmarknadens olika parter arbetat tillsammans hela vägen – både lokalt och kommunövergripande. På hr-avdelningen har man bland annat samarbetat med Kommunals sektionsordförande Åsa Jansson Lindberg.
 
 – Vi har ett bra samtalsklimat och kan ofta lösa saker genom att prata med varandra. Det är aldrig långt till kontakten med arbetsgivaren. Vi har ju samma mål: en god och säker arbetsmiljö med nolltolerans mot mobbing, avslutar Åsa Jansson Lindberg.
-

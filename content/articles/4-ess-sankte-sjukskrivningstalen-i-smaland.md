@@ -4,9 +4,9 @@ date: 2020-08-04T09:39:46
 title: 4 Ess sänkte sjukskrivningstalen i Småland
 original_id: 48699
 slug: 4-ess-sankte-sjukskrivningstalen-i-smaland
-image: "../images/2000x1000-torsas-tre.jpg"
+image: "/content/images/2000x1000-torsas-tre.jpg"
 image_caption: Mathilda Rainford, HR-specialist i Torsås, och Git Nilsson, rehabkoordinator vid hälsocentralen, var aktiva i projektet 4 Ess. De är överens om att projektet har bidragit stort till de minskade sjukskrivningstalen.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -84,4 +84,3 @@ Men det finns fortfarande fast avsatta tider, en förmiddag varje vecka, där ko
 Hon är glad över att arbetssättet nu fortsätter i kommunen.
 
 – Jag är väldigt stolt över att Torsås har valt att fortsätta med samma arbetssätt även efter att projektet har tagit slut. Det gynnar våra medlemmar väldigt mycket.
-

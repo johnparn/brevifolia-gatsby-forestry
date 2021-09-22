@@ -4,9 +4,9 @@ date: 2021-03-01T02:31:00
 title: FIRO-modellen gör gruppens samspel tydligt
 original_id: 15752
 slug: firo-modellen-olika-faser-i-gruppens-liv
-image: "../images/2000x1000-firo-modellen-foto-johner-1.jpg"
-image_caption: FIRO-modellen används ofta på arbetsplatser för att skapa väl fungerande arbetsgrupper. Den kan synliggöra hur samspelet i gruppen fungerar. 
-friskfaktorer: []
+image: "/content/images/2000x1000-firo-modellen-foto-johner-1.jpg"
+image_caption: FIRO-modellen används ofta på arbetsplatser för att skapa väl fungerande arbetsgrupper. Den kan synliggöra hur samspelet i gruppen fungerar.
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -48,4 +48,3 @@ För den som vill förstå hur en grupp kan fungera som mest effektivt, och samt
 Det handlar om att börja från grunden och skapa en bra organisatorisk och social arbetsmiljö.
 
 – Man måste reda ut att vi har förstått arbetsuppgiften likadant, och sedan lösa hur vi ska arbeta med den tillsammans. När frågorna ”varför, vad och hur” är lösta i en grupp så fungerar gruppen.
-

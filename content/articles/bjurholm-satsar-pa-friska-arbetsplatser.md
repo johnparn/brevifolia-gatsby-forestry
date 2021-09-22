@@ -4,9 +4,9 @@ date: 2021-06-01T14:17:53
 title: Bjurholm satsar på friska arbetsplatser
 original_id: 57713
 slug: bjurholm-satsar-pa-friska-arbetsplatser
-image: "../images/2000x1000-bjurholm-gunilla-falk-helena-eriksson-foto-evelina-ronnback.jpg"
-image_caption: Sätter fart på friskfaktorer. Rektorn Gunilla Falk och skyddsombudet Helena Eriksson på Castorskolan i Bjurholm har i samverkan börjat införa friskfaktorer för att främja hälsa och förebygga ohälsa.  
-friskfaktorer: []
+image: "/content/images/2000x1000-bjurholm-gunilla-falk-helena-eriksson-foto-evelina-ronnback.jpg"
+image_caption: Sätter fart på friskfaktorer. Rektorn Gunilla Falk och skyddsombudet Helena Eriksson på Castorskolan i Bjurholm har i samverkan börjat införa friskfaktorer för att främja hälsa och förebygga ohälsa.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -33,8 +33,8 @@ Som kommunchef är Jimmy Johansson kommunens högsta tjänsteman. Men som i alla
 
 Först fick politikerna lära sig mer om de åtta friskfaktorerna. De valde två friskfaktorer som Bjurholm ska börja med:
 
-*   Ett närvarande, tillitsfullt och engagerat ledarskap
-*   Delaktighet och påverkansmöjligheter
+- Ett närvarande, tillitsfullt och engagerat ledarskap
+- Delaktighet och påverkansmöjligheter
 
 Ledarskap kan stärkas på olika sätt. Dels genom att förändra själva organisationen, så att chefer får bättre förutsättningar att leda arbetet, till exempel att cheferna får ett rimligt antal medarbetare att leda. Det kan också handla om att som chef bli medveten om sina egna beteenden och förändra dem om det behövs för att få en friskare arbetsplats.
 
@@ -110,4 +110,3 @@ I Bjurholm satsar friskt ingår även att utveckla organisationen. Här har de h
 – Bjurholm har gjort alla rätt utifrån min horisont som verksamhetutvecklare i resursteamet. Självklart finns det alltid olika lärdomar att göra och olika behov som inte kunnat tillgodoses, men de har all anledning att vara stolta över sitt engagemang och att det finns ett ägarskap från högsta ledning till alla chefer och skyddsombud, säger Ann-Charlotte Laurell, verksamhetsutvecklare på Suntarbetsliv.
 
 _Fotot på Monica Jonsson är taget av Johan Gunséus._
-

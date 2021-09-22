@@ -4,9 +4,9 @@ date: 2020-10-20T17:52:29
 title: Nu kan ni få Bättre möten
 original_id: 51263
 slug: nu-kan-ni-fa-battre-moten
-image: "../images/2000x1000-Battre-moten-Suntarbetsliv.png"
+image: "/content/images/2000x1000-Battre-moten-Suntarbetsliv.png"
 image_caption: Verktyget Bättre möten går ut på att lära sig om - och träna på att använda - fem olika perspektiv i varje möte. I verktyget är perspektiven representerade av fem olika personer.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -37,11 +37,11 @@ Det säger Mia Busk, projektledare för Bättre Möten. Hon berättar att det ä
 
 Verktyget går ut på att man ska lära sig om, och träna på att använda, fem olika perspektiv – som alla behöver samspela för att ett möte ska bli så bra som möjligt. Perspektiven är:
 
-*   Det positiva perspektivet – ger ett positivt samtalsklimat som gynnar samarbetet
-*   Det utforskande perspektivet – ger utrymme för utforskande frågor
-*   Det berättande perspektivet – gör att all kunskap kommer fram
-*   Inifrånperspektivet – stärker gruppen genom fokus på egna resurser och tillgångar
-*   Utifrånperspektivet – för in hur omvärlden påverkar och påverkas
+- Det positiva perspektivet – ger ett positivt samtalsklimat som gynnar samarbetet
+- Det utforskande perspektivet – ger utrymme för utforskande frågor
+- Det berättande perspektivet – gör att all kunskap kommer fram
+- Inifrånperspektivet – stärker gruppen genom fokus på egna resurser och tillgångar
+- Utifrånperspektivet – för in hur omvärlden påverkar och påverkas
 
 ### Även digitala möten
 
@@ -68,4 +68,3 @@ Birgitta Södergren påminner om att möten inte bara är en del av, utan också
 [![Elisabet Mossberg](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/200x220-elisabet-mossberg.png)](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/200x220-elisabet-mossberg.png)Hon får medhåll av Elisabet Mossberg, ombudsman på Lärarförbundet som är en annan av Suntarbetslivs parter.
 
 – Om man inte kommunicerar kan saker bli otydliga, och det mår ingen bra av. Mycket oro kan lyftas från medarbetares axlar med hjälp av god kommunikation. Det är lätt att säga att kommunikation är viktig men det kan vara svårt att göra något åt det – och då är det bra att ta hjälp av Bättre möten.
-

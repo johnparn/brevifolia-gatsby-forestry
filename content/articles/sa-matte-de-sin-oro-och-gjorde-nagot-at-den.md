@@ -4,9 +4,9 @@ date: 2021-01-18T17:19:09
 title: Så mätte de sin oro – och gjorde något åt den
 original_id: 53814
 slug: sa-matte-de-sin-oro-och-gjorde-nagot-at-den
-image: "../images/2000x1000-hanna-back-mohamed-sadik-foto-jessica-gow-tt.jpg"
+image: "/content/images/2000x1000-hanna-back-mohamed-sadik-foto-jessica-gow-tt.jpg"
 image_caption: De mätte oron för coronasmitta och dess konsekvenser på sin arbetsplats. Nu samarbetar enhetschefen Hanna Bäck och skyddsombudet Mohamed-Bile Sadik, för att hitta lösningarna.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -21,9 +21,9 @@ När pandemin bröt ut våren 2020 fick alla enhetschefer inom socialtjänsten e
 
 Det här är några av de reflektionsfrågorna:
 
-*   Vilka har varit de största utmaningarna?
-*   Vad behöver gruppen och du som medarbetare för att må bra?
-*   Hur kan vi förbereda oss för en eventuell andra våg eller nästa kris?
+- Vilka har varit de största utmaningarna?
+- Vad behöver gruppen och du som medarbetare för att må bra?
+- Hur kan vi förbereda oss för en eventuell andra våg eller nästa kris?
 
 Senare, under hösten 2020, fick medarbetarna även svara på en enkät med cirka tio frågor och fasta svarsalternativ. Enkäten hade ett tydligt fokus på den fysiska och psykosociala arbetsmiljön under pandemin. Den innehöll även frågor där medarbetarna kunde svara med egna ord.
 
@@ -92,4 +92,3 @@ Frågan är hur de sedan följer upp om deras åtgärder fungerar.
 – Våra veckovisa avstämningar visar hur det går och om vi behöver ändra något. Mohamed och jag har även planer på någon form av pulsmätning senare i vår. Då kan vi få veta mer om hur medarbetarna ser på sin situation och de insatser vi har gjort hittills.
 
 Uppföljningen av enkäten resulterade även i flera handlingsplaner som medarbetarna tog fram.
-

@@ -4,9 +4,9 @@ date: 2021-01-11T12:43:47
 title: De screenar personalen med försvarets metod
 original_id: 53516
 slug: de-screenar-personalen-med-forsvarets-metod
-image: "../images/2000x1000-hakan-kalzen-foto-Pontus-Lundahl-tt.jpg"
+image: "/content/images/2000x1000-hakan-kalzen-foto-Pontus-Lundahl-tt.jpg"
 image_caption: På intensivvårdsmottagningen är pandemitopparna utmattande för personalen. Därför har de blivit screenade för psykisk ohälsa, berättar enhetschef Håkan Kalzén.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -80,4 +80,3 @@ På Södertälje sjukhus tog man hjälp utifrån, av personer med erfarenhet fr�
 Han rekommenderar flera att göra samma sak.
 
 – Det gäller att som arbetsgivare måna om den personal man har. Mår de bra och har laddade batterier kan de ge mycket mer. Och sjukvården blir inte bättre än den personal vi har.
-

@@ -4,9 +4,9 @@ date: 2021-01-05T11:27:06
 title: Årets skyddsombud värnar om ambulansen
 original_id: 53425
 slug: arets-skyddsombud-varnar-om-ambulansen
-image: "../images/2000x1000-marie-johansson-ambulansen-foto-johan-nilsson-tt-1.jpg"
-image_caption: Gå en gemensam arbetsmiljöutbildning, jobba strukturerat med stöd av årshjul och gör täta risk- och konsekvensanalyser, tipsar Marie Johansson. Hon är årets skyddsombud i Vårdförbundet Skåne.  
-friskfaktorer: []
+image: "/content/images/2000x1000-marie-johansson-ambulansen-foto-johan-nilsson-tt-1.jpg"
+image_caption: Gå en gemensam arbetsmiljöutbildning, jobba strukturerat med stöd av årshjul och gör täta risk- och konsekvensanalyser, tipsar Marie Johansson. Hon är årets skyddsombud i Vårdförbundet Skåne.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -87,4 +87,3 @@ För att få till sådana lyft för arbetsmiljön gäller det att även omge sig
 – Som skyddsombud och chef kan man aldrig själva ha grepp om alla frågor och lösningar.
 
 Utnämningen till årets skyddsombud i Skåne delar Marie Johansson med Christina Källman, skyddsombud vid hemsjukvården Arenan i Malmö stad.
-

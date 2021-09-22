@@ -4,9 +4,9 @@ date: 2021-09-14T11:00:04
 title: De avlastar pandemitrött vårdpersonal
 original_id: 59064
 slug: de-avlastar-pandemitrott-vardpersonal
-image: "../images/2000x1000-paulina-valdes-evelina-andersson-foto-anna-rehnberg.jpg"
+image: "/content/images/2000x1000-paulina-valdes-evelina-andersson-foto-anna-rehnberg.jpg"
 image_caption: Avlastning. Paulina Valdes Montecino ser till att det är rent och snyggt i personalköket på IVA. Undersköterskan Evelina Andersson hittar vad hon söker i kylskåpet, eftersom Paulina fyllt på med  varor.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -88,4 +88,3 @@ I Trollhättan och Uddevalla finns sedan tidigare vårdnära service på sjukhus
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/BorasSAS05_Red_750x400.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/BorasSAS05_Red_750x400.jpg)
 
 _Slutstäd av ett patientrum på barnavdelningen. ”Jag känner mig uppskattad, vi gör ett viktigt jobb och vårdpersonalen kan göra det de är bäst på”, säger Caroline Tihinen._
-

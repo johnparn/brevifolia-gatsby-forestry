@@ -4,9 +4,9 @@ date: 2020-08-25T13:56:27
 title: Karlstad tar täten för mer digital hemtjänst
 original_id: 49388
 slug: karlstad-tar-taten-for-mer-digital-hemtjanst
-image: "../images/2000x1000-modellkommun-foto-Scandinav-TT.jpg"
-image_caption: Rätt välfärdsteknik kan minska individens behov av hemtjänst. Nu är tio kommuner utsedda till modellkommuner för äldreomsorgens digitalisering. 
-friskfaktorer: []
+image: "/content/images/2000x1000-modellkommun-foto-Scandinav-TT.jpg"
+image_caption: Rätt välfärdsteknik kan minska individens behov av hemtjänst. Nu är tio kommuner utsedda till modellkommuner för äldreomsorgens digitalisering.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -21,7 +21,7 @@ Idén till att testa spol- och torktoaletter föddes när hemtjänstgruppen i st
 
 I projektet hade de fokusgrupper som pratade om vilka arbetsuppgifter de tyckte var svåra ur arbetsmiljöperspektiv.
 
-– Då kom toabesöken upp, säger Luziane Portugal Höög. 
+– Då kom toabesöken upp, säger Luziane Portugal Höög.
 
 Några brukare var också med i egna fokusgrupper där de lade fram på vilket sätt de skulle vilja vara självständiga.
 
@@ -113,4 +113,3 @@ Nu har alltså Karlstad utsetts till en av tio modellkommuner. I den rollen ska 
 
 _Foto på toaletten: Eric Lindgren_  
 _Foto på Marie Johansson och Ann-Sophie Gustafsson: Linda Eklind_
-

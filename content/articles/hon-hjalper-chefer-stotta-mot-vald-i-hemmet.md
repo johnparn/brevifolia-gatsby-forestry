@@ -4,9 +4,9 @@ date: 2020-12-15T15:53:36
 title: Hon hjälper chefer stötta mot våld i hemmet
 original_id: 53100
 slug: hon-hjalper-chefer-stotta-mot-vald-i-hemmet
-image: "../images/2000x1000-gerd-eriksson-holmgren-foto-joachim-nywall-tt.jpg"
-image_caption: Eldsjäl. Gerd Eriksson Holmgren är chef för enheten mot våld i nära relationer i Trollhättans stad. Enheten stöttar bland annat kommunens chefer att hjälpa medarbetare som utsätts för våld hemma. 
-friskfaktorer: []
+image: "/content/images/2000x1000-gerd-eriksson-holmgren-foto-joachim-nywall-tt.jpg"
+image_caption: Eldsjäl. Gerd Eriksson Holmgren är chef för enheten mot våld i nära relationer i Trollhättans stad. Enheten stöttar bland annat kommunens chefer att hjälpa medarbetare som utsätts för våld hemma.
+friskfaktorer:
 activity:
 author: Birgita Klepke
 ---
@@ -29,9 +29,9 @@ Enligt stadens riktlinje ska alla chefer varje år gå en obligatorisk utbildnin
 
 Vid varje utvecklingssamtal ska de fråga:
 
-*   Känner du dig på något sätt otrygg hemma?
-*   Har du någon gång blivit illa behandlad, psykiskt eller fysiskt hemma?
-*   Uppvisar du något beteende som du ser att andra inte mår bra av?
+- Känner du dig på något sätt otrygg hemma?
+- Har du någon gång blivit illa behandlad, psykiskt eller fysiskt hemma?
+- Uppvisar du något beteende som du ser att andra inte mår bra av?
 
 Alla chefer ska också informera om våld i nära relationer på minst en arbetsplatsträff (APT) per år.
 
@@ -68,4 +68,3 @@ Hos enhetschef Andreas Ekholm sitter rutinerna ”i ryggmärgen” men han minns
 Ett av dem är Björn Gunnarsson från Kommunal som arbetar på boendet Furulundsvägen 5 och 9.
 
 – Vi håller koll och om vi misstänker att något är fel går vi vidare till cheferna, säger han.
-

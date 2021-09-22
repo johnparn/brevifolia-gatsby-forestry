@@ -4,9 +4,9 @@ date: 2020-04-07T09:12:59
 title: Råd till skyddsombud på distans
 original_id: 46004
 slug: rad-till-skyddsombud-pa-distans
-image: "../images/2000x1000-skyddsombud-pa-distans-foto-pontus-lundahl-tt.jpg"
-image_caption: Håll kontakten. Risken för smittspridning gör att många skyddsombud, chefer och arbetskamrater arbetar på olika platser utan att träffas. Arbetsmiljöarbetet kan rulla på ändå, och arbetsplatsträffarna köras digitalt. 
-friskfaktorer: []
+image: "/content/images/2000x1000-skyddsombud-pa-distans-foto-pontus-lundahl-tt.jpg"
+image_caption: Håll kontakten. Risken för smittspridning gör att många skyddsombud, chefer och arbetskamrater arbetar på olika platser utan att träffas. Arbetsmiljöarbetet kan rulla på ändå, och arbetsplatsträffarna köras digitalt.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -25,7 +25,7 @@ Därför är det viktigt att man har ersättare, enligt Maria Steinberg.
 
 Men om skyddsombudet enbart arbetar på distans, till exempel hemifrån, och fortfarande hör till samma arbetsställe, så är hen fortfarande skyddsombud.
 
-– Det här är viktigt att hålla reda på eftersom skyddsombudet annars inte har laglig rätt att utöva uppdraget. 
+– Det här är viktigt att hålla reda på eftersom skyddsombudet annars inte har laglig rätt att utöva uppdraget.
 
 ### Håll kontakten med chefen och fortsätt samverka
 
@@ -92,4 +92,3 @@ Skyddsombudet kan även föreslå för chefen att påminna om att de som jobbar 
 Påminn även om att det går att anmäla arbetsskador precis som vanligt om det händer något när man arbetar hemma, manar hon.
 
 _Foto Maria Steinberg: Michael Steinberg_
-

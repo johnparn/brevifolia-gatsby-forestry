@@ -4,9 +4,9 @@ date: 2021-02-16T12:08:47
 title: Här ger friskfaktorer bättre arbetsmiljö
 original_id: 54909
 slug: har-ger-friskfaktorer-battre-arbetsmiljo
-image: "../images/2000x1000-ingela-lundstrom-foto-erik-abel.jpg"
-image_caption: Sjuksköterskorna Tobias Ångqvist och Dennis Kallin är på väg till sina patienter inom äldreomsorgen i Umeå. Deras chef Ingela Lundström har med hjälp av Suntarbetslivs resursteam fått mer kunskaper om hur hon kan vara närvarande som chef.      
-friskfaktorer: []
+image: "/content/images/2000x1000-ingela-lundstrom-foto-erik-abel.jpg"
+image_caption: Sjuksköterskorna Tobias Ångqvist och Dennis Kallin är på väg till sina patienter inom äldreomsorgen i Umeå. Deras chef Ingela Lundström har med hjälp av Suntarbetslivs resursteam fått mer kunskaper om hur hon kan vara närvarande som chef.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -21,8 +21,8 @@ Först fick cheferna i workshops med resursteamet lära sig om friskfaktorer och
 
 Äldreomsorgen i Umeå valde att börja med att stärka de här två friskfaktorerna:
 
-*   Ett närvarande, tillitsfullt och engagerat ledarskap
-*   Kompetensutveckling hela karriären
+- Ett närvarande, tillitsfullt och engagerat ledarskap
+- Kompetensutveckling hela karriären
 
 ### Mer medveten om beteenden
 
@@ -60,9 +60,9 @@ När projektet med Suntarbetslivs resursteam var klart fortsatte förvaltningen 
 
 Det har lett till en ny rehabprocess ”Aktiv rehabilitering”, som nu införs steg för steg i förvaltningen. Det är en plan för hur cheferna och medarbetarna ska göra vid sjukdom:
 
-*   Medarbetaren ska ringa till sin chef första dagen vid sjukfrånvaro.
-*   Nästa dag ringer chefen till medarbetaren, och dag 14 ringer chefen igen för ett uppföljningssamtal.
-*   Dag 30 startar en rehabplan.
+- Medarbetaren ska ringa till sin chef första dagen vid sjukfrånvaro.
+- Nästa dag ringer chefen till medarbetaren, och dag 14 ringer chefen igen för ett uppföljningssamtal.
+- Dag 30 startar en rehabplan.
 
 ### Ringer sina sjuka medarbetare
 
@@ -93,4 +93,3 @@ Malin Berggren från Suntarbetslivs resursteam märkte redan under projektet hur
 Cheferna ändrade också sin syn på kompetensutveckling, enligt Malin Berggren.
 
 – De gick från synen att kompetensutveckling är lika med att skicka medarbetare på kurs, till att se allt vad man kan göra internt för att utveckla kunskap. De såg att erfarna medarbetare kan bli mentorer, att man kan skugga varandra, byta mellan boenden och ta upp frågan på arbetsplatsträffen – det blev en otrolig kreativitet.
-

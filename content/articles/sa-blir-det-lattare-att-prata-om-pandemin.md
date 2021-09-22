@@ -4,9 +4,9 @@ date: 2021-02-02T11:16:35
 title: Så blir det lättare att prata om pandemin
 original_id: 54388
 slug: sa-blir-det-lattare-att-prata-om-pandemin
-image: "../images/2000x1000-sabbatsbergs-sjukhus-foto-Anders-Wiklund-TT.jpg"
+image: "/content/images/2000x1000-sabbatsbergs-sjukhus-foto-Anders-Wiklund-TT.jpg"
 image_caption: Claudia Chaves Martins, Ylva Kruse, Emilia Goodwill Keller och Gunilla Kvist tycker alla att reflektionskorten har hjälpt dem att ta upp och hantera allt det som coronapandemin har inneburit för deras arbetsmiljö.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -76,4 +76,3 @@ Hon tyckte att korten gjorde att diskussionen inte spretade så mycket.
 Båda avdelningarna kommer att använda korten igen, och rekommenderar även andra att göra det.
 
 – Det tog 40 minuter totalt, och det var oerhört väl investerad tid, avslutar Gunilla Kvist.
-

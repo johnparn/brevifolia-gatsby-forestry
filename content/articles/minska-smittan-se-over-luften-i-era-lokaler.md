@@ -4,9 +4,9 @@ date: 2020-11-23T11:53:09
 title: Minska smittan &#8211; se över luften i era lokaler
 original_id: 52482
 slug: minska-smittan-se-over-luften-i-era-lokaler
-image: "../images/2000x1000-ventilation-foto-Alamy-Stock-Photo-tt.jpg"
+image: "/content/images/2000x1000-ventilation-foto-Alamy-Stock-Photo-tt.jpg"
 image_caption: Det är viktigt att se till att det finns frisk luft på arbetsplatsen, för att minska risken för smittspridning. Se över ventilationen och vädra ofta, är två av Arbetsmiljöverkets råd.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -56,4 +56,3 @@ Har man problem med dålig luftkvalitet på arbetsplatsen bör man vända sig ti
 Om inget görs kan skyddsombudet kontakta Arbetsmiljöverket. Är arbetsplatsen en skola eller förskola kan skyddsombudet istället kontakta sitt lokala miljö- och hälsoskyddskontor. Både Arbetsmiljöverket och miljö- och hälsoskyddskontoret kan inspektera och ställa krav att arbetsgivaren, alternativt den som driver verksamheten, utreder och åtgärdar problemen.
 
 – Det är egentligen enkelt: lyssna på människor. Om en medarbetare klagar på luften i ett rum så måste det tas på allvar.
-

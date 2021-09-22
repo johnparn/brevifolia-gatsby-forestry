@@ -4,9 +4,9 @@ date: 2021-01-05T10:29:19
 title: Vad är en arbetsplatsträff?
 original_id: 53443
 slug: vad-ar-en-arbetsplatstraff
-image: "../images/2000x1000-vad-ar-arbetsplatstraff-foto-maskot-TT.jpg"
-image_caption: Dialogen har huvudrollen på arbetsplatsträffen. Förbered er genom att se till att rätt personer deltar, rätt frågor tas upp – och att alla hänger med och kommer till tals.  
-friskfaktorer: []
+image: "/content/images/2000x1000-vad-ar-arbetsplatstraff-foto-maskot-TT.jpg"
+image_caption: Dialogen har huvudrollen på arbetsplatsträffen. Förbered er genom att se till att rätt personer deltar, rätt frågor tas upp – och att alla hänger med och kommer till tals.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -37,13 +37,13 @@ Chefen är ansvarig för att det skrivs minnesanteckningar. Men man kan turas om
 
 Det här är exempel på frågor som passar att ta upp på APT:
 
-*   Verksamhetsfrågor, till exempel mål och uppföljning.
-*   Arbetsmiljö och hälsa, till exempel att identifiera och förebygga risker.
-*   Jämställdhet och mångfald.
-*   Utveckling, planering och förändring.
-*   Ekonomi och budget.
-*   Facklig information vid behov.
-*   Fyll på med kunskap
+- Verksamhetsfrågor, till exempel mål och uppföljning.
+- Arbetsmiljö och hälsa, till exempel att identifiera och förebygga risker.
+- Jämställdhet och mångfald.
+- Utveckling, planering och förändring.
+- Ekonomi och budget.
+- Facklig information vid behov.
+- Fyll på med kunskap
 
 Arbetsplatsträffen kan också vara ett tillfälle för gruppen att tillsammans lära sig mer om sådant som kan utveckla verksamheten och arbetsmiljön. När chefen och medarbetarna har kunskaper om arbetsmiljön lägger det en grund för att tillsammans lättare till exempel kunna hitta och förebygga risker. Kunskap gör det också lättare att föra en dialog om vad som behöver utvecklas.
 
@@ -56,4 +56,3 @@ I [Arbetsmiljöverkets föreskrift om systematiskt arbetsmiljöarbete](https://w
 Det finns även kollektivavtal som tar upp vad som gäller för arbetsplatsträffen. Inom kommuner, regioner och kommunala företag har de fackliga organisationerna och arbetsgivarorganisationerna SKR och Sobona tecknat [Avtal om samverkan och arbetsmiljö](https://skr.se/arbetsgivarekollektivavtal/kollektivavtal/ovrigakollektivavtal/samverkansavtal.154.html).
 
 Många arbetsgivare har även egna lokala kollektivavtal om samverkan. I det lokala samverkansavtalet finns ofta mer att läsa mer om hur arbetsplatsträffarna ska gå till hos just den arbetsgivaren.
-

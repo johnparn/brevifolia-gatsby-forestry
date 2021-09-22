@@ -4,9 +4,9 @@ date: 2021-01-26T14:20:10
 title: De dansar för att ge hopp under pandemin
 original_id: 54160
 slug: de-dansar-for-att-ge-hopp-under-pandemin
-image: "../images/2000x1000-vardcentral-va-jerusalema-2.jpg"
+image: "/content/images/2000x1000-vardcentral-va-jerusalema-2.jpg"
 image_caption: Glädjespridare. Vårdcentralen i Vä är en av många arbetsplatser som hakat på trenden att göra en egen dansvideo till en sydafrikansk låt. Dans och musik ger återhämtning, säger vårdcentralens hälsoinspiratör.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -80,4 +80,3 @@ _Klicka på bilden för att starta filmen._
 [**Nu har även Ale kommun gjort en egen klippning av nattpatrullens film**](https://www.facebook.com/alekommun/videos/465137354650991) och lagt ut på kommunens sida på Facebook.
 
 – De visar lite uppskattning för vårt arbete och det är kul – fast vår egen film, originalet, är ju bäst såklart.
-

@@ -4,9 +4,9 @@ date: 2020-04-28T10:48:51
 title: En känsla av sammanhang i Strömsund
 original_id: 46581
 slug: en-kansla-av-sammanhang-i-stromsund
-image: "../images/2000x1000-jennie-andersson-monica-asen-thomas-sandberg-perry-ekholm-foto-anneli-asen-carlsson.jpg"
+image: "/content/images/2000x1000-jennie-andersson-monica-asen-thomas-sandberg-perry-ekholm-foto-anneli-asen-carlsson.jpg"
 image_caption: Arbetsplatsträff i skolan. Meningsfulla arbetsplatsträffar är ett av målen med projektet Kasam 2.0 i Strömsund. På bild lärarna Jennie Andersson, Monica Åsén, Thomas Sandberg och Perry Ekholm.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Margareta Edling
 ---
@@ -88,4 +88,3 @@ För en kommun av Strömsunds storlek är detta en stor satsning, som varit omö
 – Vi tvekade inte när vi fick chansen. Arbetsmiljön är en het fråga och för kompetensförsörjningen är det jätteviktigt att vi är en attraktiv arbetsgivare, säger hon.
 
 [_Läs mer om projektet Kasam 2.0 i artikeln Tid för samtal i Strömsund._](https://www.suntarbetsliv.se/artiklar/sam/tid-for-samtal-i-stromsund/)
-

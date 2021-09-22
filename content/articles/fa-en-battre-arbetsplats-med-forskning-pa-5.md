@@ -4,9 +4,9 @@ date: 2020-09-07T14:44:01
 title: Få bättre arbetsplats med Forskning på 5
 original_id: 49676
 slug: fa-en-battre-arbetsplats-med-forskning-pa-5
-image: "../images/2000x1000-forskning-pa-5.jpg"
+image: "/content/images/2000x1000-forskning-pa-5.jpg"
 image_caption: Med hjälp av Forskning på 5 kan man på arbetsplatser snabbt och lätt ta del av det viktigaste från forskningen om arbetsmiljö - bland annat om teamets betydelse.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -25,9 +25,9 @@ Det säger Mats Stenberg, utredare på SKR. Han har suttit med i arbetsgruppen s
 
 Femmorna är utformade för att kunna användas på till exempel en arbetsplatsträff eller ett ledningsgruppsmöte. De består av tre delar:
 
-*   en faktadel med en **film** på ungefär fem minuter, som berättar om forskningen och om hur den kan vara till nytta ute i verksamheter. Här finns även en kort text om vad forskningen har kommit fram till.
-*   en aktivitetsdel, med frågor eller påståenden som ska sätta igång **reflektion** och **dialog**. Tanken är att gå från att lära sig om forskningen till att kunna **använda** sig av den.
-*   Tips på **fördjupning**, för den som vill arbeta mer med frågan. Det kan vara artiklar med djupare intervjuer med forskaren, eller verktyg som passar bra att jobba vidare med.
+- en faktadel med en **film** på ungefär fem minuter, som berättar om forskningen och om hur den kan vara till nytta ute i verksamheter. Här finns även en kort text om vad forskningen har kommit fram till.
+- en aktivitetsdel, med frågor eller påståenden som ska sätta igång **reflektion** och **dialog**. Tanken är att gå från att lära sig om forskningen till att kunna **använda** sig av den.
+- Tips på **fördjupning**, för den som vill arbeta mer med frågan. Det kan vara artiklar med djupare intervjuer med forskaren, eller verktyg som passar bra att jobba vidare med.
 
 ### Skillnad mot tidigare verktyg
 
@@ -50,4 +50,3 @@ I arbetet med att välja ut och tillgängliggöra forskningen samarbetar arbetsm
 Det säger Alicia Lycke, chef på Vårdförbundet. Hon har också suttit med i arbetsgruppen bakom Forskning på 5, och tycker att det är viktigt att det här verktyget kommer ut i verksamheterna.
 
 – Det finns ett enormt intresse och behov av forskningsresultat som kan bidra till bra förebyggande arbetsmiljöarbete.  Forskning på 5 gör det lätt att sätta sig in i och omsätta de senaste rönen just där man finns, tillsammans med kollegor. De här frågorna kan grupper diskutera själva, i arbetets vardag, där allt viktigt arbete görs och kunskapen om verksamheten finns.
-

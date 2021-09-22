@@ -4,9 +4,9 @@ date: 2021-01-05T10:22:23
 title: Filmer ska stärka samverkan i Lycksele
 original_id: 53380
 slug: filmer-ska-starka-samverkan-i-lycksele
-image: "../images/2000x1000-lycksele-samverkan-foto-andreas-jakobsson-3fabriken.jpg"
+image: "/content/images/2000x1000-lycksele-samverkan-foto-andreas-jakobsson-3fabriken.jpg"
 image_caption: Lyckseles manusförfattare. Från vänster: Maria Öberg, HR-specialist, Charlie Persson, Vision, Helena Lindblom, HR-administratör, Camilla Persson, HR-specialist, Shara Sjögren, HR-chef, Erika Hasselvik, Kommunal och Lena Axelsson Westergren, Lärarförbundet.  
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -64,4 +64,3 @@ I arbetet med filmerna har de fått en del inspiration från Skellefteå kommun.
 Hon ser fram emot att börja använda filmerna på arbetsplatsträffarna med sina 22 medarbetare.
 
 – Att få igång samverkan på arbetsplatsen är ett av mina huvuduppdrag som chef. Det handlar om att låta alla komma till tals och att jag som chef gör hela arbetsgruppen delaktig i besluten.
-

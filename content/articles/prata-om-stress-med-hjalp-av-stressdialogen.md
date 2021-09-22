@@ -4,9 +4,9 @@ date: 2020-05-18T10:00:40
 title: Prata om stress med hjälp av Stressdialogen
 original_id: 47588
 slug: prata-om-stress-med-hjalp-av-stressdialogen
-image: "../images/2000x1000-Stressdialogen-2.jpg"
+image: "/content/images/2000x1000-Stressdialogen-2.jpg"
 image_caption: Stress på arbetsplatsen ses ofta som ett individproblem. I Stressdialogen får arbetsgruppen istället fokusera på hur de tillsammans kan förebygga stress genom att ändra på hur arbetet organiseras.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -43,10 +43,10 @@ Stress på arbetsplatsen ses ofta som ett individproblem, som beror på att viss
 
 I verktyget finns det en kunskapsdel, där var och en kan lära sig mer om stress. Och så finns det fyra olika gruppaktiviteter:
 
-*   Så fungerar stress – skapa en gemensam kunskapsbas om stress
-*   Tidiga signaler på osund stress – lär er känna igen tidiga signaler på stress och hur ni vill agera på dem.
-*   Orsaker till stress – när ni tar reda på orsaken till stress kan ni lösa rätt problem
-*   Förebygg osund stress – identifiera skyddsfaktorerna i er arbetsgrupp, och ta reda på om några saknas.
+- Så fungerar stress – skapa en gemensam kunskapsbas om stress
+- Tidiga signaler på osund stress – lär er känna igen tidiga signaler på stress och hur ni vill agera på dem.
+- Orsaker till stress – när ni tar reda på orsaken till stress kan ni lösa rätt problem
+- Förebygg osund stress – identifiera skyddsfaktorerna i er arbetsgrupp, och ta reda på om några saknas.
 
 Var och en av aktiviteterna tar mellan 10 och 40 minuter att genomföra – alltså lagom för en arbetsplatsträff. Det finns ingen rätt eller fel ordning, eller krav på att gå igenom alla fyra. Men rekommendationen är att börja med aktiviteten som heter ”så fungerar stress”.
 
@@ -65,4 +65,3 @@ Vad hinner man då göra på de här 10 – 40 minuterna?
 Tanken är att Stressdialogen också ska fungera som en portal in till Suntarbetslivs andra verktyg. Man kan till exempel jobba vidare med Digi-ronden för att förbättra den digitala arbetsmiljön. Eller arbeta med OSA-kollen, där man får lära sig mer om att skapa balans mellan krav och resurser.
 
 – I och med aktiviteten är man inte klar, men det är en bra början, avslutar Stina Ellerfelt Sköld.
-

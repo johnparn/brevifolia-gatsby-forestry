@@ -4,9 +4,9 @@ date: 2020-04-21T14:26:12
 title: Så kan projektet bli av trots pandemi
 original_id: 46384
 slug: sa-kan-projektet-bli-av-trots-pandemi
-image: "../images/2000x1000-tranemo-foro-johanna-sander-svenljunga-kommun.jpg"
-image_caption: Promenadmöte. I Thilanderska parken i Svenljunga möts Madde Lind, Karin Rehnström och Ulla Lundberg. De är engagerade i MedKänsla, ett projekt som på kort tid ställt om till digitalt genomförande i första hand.  
-friskfaktorer: []
+image: "/content/images/2000x1000-tranemo-foro-johanna-sander-svenljunga-kommun.jpg"
+image_caption: Promenadmöte. I Thilanderska parken i Svenljunga möts Madde Lind, Karin Rehnström och Ulla Lundberg. De är engagerade i MedKänsla, ett projekt som på kort tid ställt om till digitalt genomförande i första hand.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -82,4 +82,3 @@ Nästa steg för projektgruppen blir att informera, skapa intresse och bygga eng
 – Projektet är väl förankrat och cheferna är peppade, för vi har pratat om de här frågorna länge. Men vi måste vara mer följsamma nu, det får inte bli en belastning utan något som stödjer dem.
 
 Den här intervjun genomfördes som videomöte på Teams. Madde Lind och Karin Rehnström satt på kontoren på två olika platser medan Ulla Lundberg var med hemifrån, precis som journalisten som skrivit artikeln.
-

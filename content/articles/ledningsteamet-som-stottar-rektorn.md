@@ -4,9 +4,9 @@ date: 2021-09-06T15:08:29
 title: Ledningsteamet som stöttar rektorn
 original_id: 58906
 slug: ledningsteamet-som-stottar-rektorn
-image: "../images/2000x1000-ameli-nygren-malin-videkorp-pernilla-kristoffersson-foto-johan-nilsson-tt.jpg"
-image_caption: Ett team som kompletterar varandra. På bilden Amelie Nygren, kvalitetsutvecklare, Malin Videkorp, rektor, och Pernilla Kristoffersson, biträdande rektor. Intendent Marielle Ekdahl är den fjärde i ledningsteamet. 
-friskfaktorer: []
+image: "/content/images/2000x1000-ameli-nygren-malin-videkorp-pernilla-kristoffersson-foto-johan-nilsson-tt.jpg"
+image_caption: Ett team som kompletterar varandra. På bilden Amelie Nygren, kvalitetsutvecklare, Malin Videkorp, rektor, och Pernilla Kristoffersson, biträdande rektor. Intendent Marielle Ekdahl är den fjärde i ledningsteamet.
+friskfaktorer:
 activity:
 author: Marika Sivertsson
 ---
@@ -72,4 +72,3 @@ Utmaningen med inbördes information ser även Malin Videkorp: När något oför
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/JNX5777_Red_750x400.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/09/JNX5777_Red_750x400.jpg)
 
 _Det är bra att ledningsteamet har sina arbetsplatser ute på förskolorna, tycker skyddsombudet Annika Ågren och platsansvariga Olivia Nordström-Tostes på Landborgens förskola._
-

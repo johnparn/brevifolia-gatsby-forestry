@@ -4,9 +4,9 @@ date: 2021-06-15T12:52:41
 title: Tips för trygg återgång efter pandemin
 original_id: 58065
 slug: tips-for-trygg-atergang-efter-pandemin
-image: "../images/2000x1000-eskilstuna-biblioteksbuss-foto-jonas-bilberg.jpg"
-image_caption: Tryggt i bokbussen. Skyddsombudet Anna Palm Kåberg och bibliotekschefen Birgitta Edvardsson har gjort täta riskbedömningar under corona. Nu har de nya checklistor och frågor att använda i samverkan. 
-friskfaktorer: []
+image: "/content/images/2000x1000-eskilstuna-biblioteksbuss-foto-jonas-bilberg.jpg"
+image_caption: Tryggt i bokbussen. Skyddsombudet Anna Palm Kåberg och bibliotekschefen Birgitta Edvardsson har gjort täta riskbedömningar under corona. Nu har de nya checklistor och frågor att använda i samverkan.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -30,8 +30,8 @@ I Eskilstuna skapade de en arbetsgrupp med förvaltningschefer och HR. Som ett l
 
 Resultatet är bland annat två stöd till verksamheterna:
 
-*   Checklista för återgång. Stöd för chef och skyddsombud på arbetsplats.
-*   Frågor och förberedelser att jobba igenom i arbetsgruppen.
+- Checklista för återgång. Stöd för chef och skyddsombud på arbetsplats.
+- Frågor och förberedelser att jobba igenom i arbetsgruppen.
 
 Att planera återgången är enligt Ulrika Emmoth ett sätt att skapa trygghet för medarbetarna, och åstadkomma en arbetsmiljö där man inte smittar varandra och kan hålla ut i det arbetet.
 
@@ -102,4 +102,3 @@ Och de har ett tips till alla som nu planerar för återgång:
 Tänk på att alla inte är bekväma med att prata på arbetsplatsträffar och stormöten. Påminn därför om att man alltid kan prata med skyddsombudet eller chefen inför riskbedömningar och andra möten om arbetsmiljön.
 
 – Det är viktigt att alla kan känna sig trygga på jobbet. Därför är dialogen viktig, säger Anna Palm Kåberg.
-

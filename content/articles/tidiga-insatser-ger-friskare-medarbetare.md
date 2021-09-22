@@ -4,9 +4,9 @@ date: 2021-04-07T14:14:38
 title: Tidiga insatser ger friskare medarbetare
 original_id: 56262
 slug: tidiga-insatser-ger-friskare-medarbetare
-image: "../images/2000x1000-forskola-botkyrka-2-foto-janerik-henriksson-tt.jpg"
+image: "/content/images/2000x1000-forskola-botkyrka-2-foto-janerik-henriksson-tt.jpg"
 image_caption: Therese Ekman, rektor på Örtagårdens förskola i Botkyrka, har fått hjälp av kommunens chefsstöd för att kartlägga förskolans arbetsmiljö och förebygga sjukfrånvaro. "Jättelyxigt", tycker hon om stödet.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -84,4 +84,3 @@ Marinella Spiroska, barnskötare på förskolan, är glad över att ha fått del
 Hon ser redan idag konkreta effekter av projektet i sin vardag. Nu fungerar samarbetet mycket bättre, och de tre småbarnsavdelningarna på förskolan arbetar som ett enda arbetslag.
 
 – Vi jobbar tätare med varandra och pratar mer; ber om hjälp och vågar säga till varandra om något inte känns bra. Det har blivit ett öppnare klimat och en bättre stämning. Nu tänker vi på varandra och vet att det påverkar andra om vi är hemma.
-

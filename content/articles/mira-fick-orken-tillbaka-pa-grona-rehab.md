@@ -4,9 +4,9 @@ date: 2020-11-30T19:56:39
 title: Mira fick orken tillbaka på Gröna rehab
 original_id: 52724
 slug: mira-fick-orken-tillbaka-pa-grona-rehab
-image: "../images/2000x1000-Mira-Vanhatapio1-foto-anna-rehnberg.jpg"
-image_caption: Rehabilitering i eget tempo. Mira Vanhatapio har fått hjälp att läka i sin egen takt, med stöd av den rofyllda miljön i Gröna Rehabs trädgård och skogen intill. Snart tar hon sina första steg tillbaka till arbetslivet. 
-friskfaktorer: []
+image: "/content/images/2000x1000-Mira-Vanhatapio1-foto-anna-rehnberg.jpg"
+image_caption: Rehabilitering i eget tempo. Mira Vanhatapio har fått hjälp att läka i sin egen takt, med stöd av den rofyllda miljön i Gröna Rehabs trädgård och skogen intill. Snart tar hon sina första steg tillbaka till arbetslivet.
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -106,4 +106,3 @@ Hon har lärt sig att det inte räcker att sova ikapp på helgen eller återhäm
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-ortsalt-grona-rehab-foto-anna-rehnberg-1.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-ortsalt-grona-rehab-foto-anna-rehnberg-1.jpg)
 
 _Samtliga bilder utom porträttet på Ida Eklöf: Anna Rehnberg_
-

@@ -4,9 +4,9 @@ date: 2020-09-01T15:30:00
 title: Vad är systematiskt arbetsmiljöarbete?
 original_id: 15741
 slug: vad-ar-systematiskt-arbetsmiljoarbete
-image: "../images/2000x1000-vad-ar-sam-foto-kristofer-samuelsson.jpg"
-image_caption: Systematiskt arbetsmiljöarbete, SAM, handlar om att tillsammans undersöka arbetsmiljön och bedöma riskerna. När riskerna är åtgärdade börjar arbetet om igen.  
-friskfaktorer: []
+image: "/content/images/2000x1000-vad-ar-sam-foto-kristofer-samuelsson.jpg"
+image_caption: Systematiskt arbetsmiljöarbete, SAM, handlar om att tillsammans undersöka arbetsmiljön och bedöma riskerna. När riskerna är åtgärdade börjar arbetet om igen.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -37,12 +37,12 @@ Samverkansavtal handlar om hur samverkan ska gå till i praktiken. De beskriver 
 
 Det finns flera viktiga roller i det systematiska arbetsmiljöarbetet:
 
-*   Arbetsgivaren
-*   Medarbetaren
-*   Chefen
-*   Skyddsombudet
-*   Samverkansgruppen
-*   Företagshälsovården
+- Arbetsgivaren
+- Medarbetaren
+- Chefen
+- Skyddsombudet
+- Samverkansgruppen
+- Företagshälsovården
 
 ### Arbetsgivaren har huvudansvaret
 
@@ -65,4 +65,3 @@ Företagshälsovården är en expertresurs som bland annat kan anlitas vid under
 ### Personalavdelningar
 
 Även personalavdelningar, HR, kan vara ett stöd i det systematiska arbetsmiljöarbetet. Det finns HR-avdelningar som stöttar verksamheterna på olika sätt inför till exempel den årliga uppföljningen av systematiskt arbetsmiljöarbete, SAM. Stödet kan också bestå av till exempel material till arbetsplatsträffar.
-

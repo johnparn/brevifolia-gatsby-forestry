@@ -4,9 +4,9 @@ date: 2021-02-25T14:22:50
 title: Förskolan blomstrar med hjälp av friskfaktorer
 original_id: 55163
 slug: forskolan-blomstrar-med-hjalp-av-friskfaktorer
-image: "../images/2000x1000-svedala-foto-johan-nilsson-tt.jpg"
+image: "/content/images/2000x1000-svedala-foto-johan-nilsson-tt.jpg"
 image_caption: Hälsoinspiratören Lotta Nilsson och rektor Annika Aveling på Klöverstugans förskola i Svedala samarbetar mycket kring friskfaktorer. De är överens om att delaktighet är viktigt för att få medarbetarna att trivas.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -70,4 +70,3 @@ Nu ska lärdomarna från piloten användas för att förbättra hela kommunens f
 [![Förskolepersonal och barn på förskolegården](https://www.suntarbetsliv.se/wp-content/uploads/2021/02/750x400-svedala-foto-johan-nilsson-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2021/02/750x400-svedala-foto-johan-nilsson-tt.jpg)[](https://www.suntarbetsliv.se/wp-content/uploads/2021/02/750x400-svedala-foto-johan-nilsson-tt.jpg)
 
 _Rektor Anna Aveling och hälsoinspiratören Lotta Nilsson är glada och stolta över det arbete som förskolan har gjort för att få nöjdare och friskare medarbetare._
-

@@ -4,9 +4,9 @@ date: 2020-04-07T12:29:17
 title: Förskolorna tog in en arbetsmiljösamordnare
 original_id: 46041
 slug: forskolorna-tog-in-en-arbetsmiljosamordnare
-image: "../images/2000x1000-vivalla-forskolor-3.jpg"
+image: "/content/images/2000x1000-vivalla-forskolor-3.jpg"
 image_caption: I Vivalla gick fyra rektorer ihop och anställde en arbetsmiljösamordnare. Och resultaten har varit tydliga, säger skyddsombudet Pia Rizell, rektorn Anna Lundqvist och arbetsmiljösamordnaren Mikael Axelsson.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -70,4 +70,3 @@ De tio åtgärderna har gjort stor skillnad, inte minst på sjukfrånvaron ­–
 Hon tycker också att det finns i en vinst att ha en person med ett helikopterperspektiv över alla nio förskolor.
 
 – Han kan ju se mönster på andra sätt än vad en enskild chef kan göra. Han blir också en sammanhållande faktor för alla nio förskolor, och nu håller vi ihop i arbetsmiljöarbetet. Idag är det roligt att vara skyddsombud, när vi har tid att fokusera på det positiva också!
-

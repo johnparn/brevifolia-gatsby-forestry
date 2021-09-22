@@ -4,9 +4,9 @@ date: 2020-11-16T17:07:40
 title: Anpassa arbetet med Prehabguiden
 original_id: 52213
 slug: anpassa-arbetet-med-prehabguiden
-image: "../images/2000x1000-prehab-lansering-foto-kristofer-samuelsson.jpg"
-image_caption: Suntarbetslivs verktyg Prehabguiden innehåller vägledning för arbetsanpassning och rehabilitering på arbetsplatsen. Här finns bland annat stöd för en dialog i arbetsgruppen, om synen på hälsa och ohälsa. 
-friskfaktorer: []
+image: "/content/images/2000x1000-prehab-lansering-foto-kristofer-samuelsson.jpg"
+image_caption: Suntarbetslivs verktyg Prehabguiden innehåller vägledning för arbetsanpassning och rehabilitering på arbetsplatsen. Här finns bland annat stöd för en dialog i arbetsgruppen, om synen på hälsa och ohälsa.
+friskfaktorer:
 activity:
 author: Åsa Hammar
 ---
@@ -35,9 +35,9 @@ Det är arbetsgivarens ansvar att anpassa arbetet till var och ens förutsättni
 
 Prehabguiden är uppdelad i tre faser:
 
-*   Att förebygga sjukfrånvaro
-*   Att vara mitt i sjukskrivning
-*   Att planera för en hållbar återgång
+- Att förebygga sjukfrånvaro
+- Att vara mitt i sjukskrivning
+- Att planera för en hållbar återgång
 
 – Stödet i processen är en stor och viktig del i Prehabguiden, säger Susann Jansson.
 
@@ -72,4 +72,3 @@ Prehabguiden är utvecklad på uppdrag av arbetsmarknadens parter inom kommun- o
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-anders-westlund-foto-skl.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-anders-westlund-foto-skl.jpg)Anders Westlund, utredare på Sveriges Kommuner och Regioner, är också nöjd.
 
 – Jag tycker det har blivit ett jättebra verktyg, inte minst att det finns så mycket stöd för att arbeta förebyggande. Med hjälp av det kan många medarbetare slippa hamna i sjukskrivning och rehabilitering, säger han.
-

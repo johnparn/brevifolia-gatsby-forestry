@@ -4,9 +4,9 @@ date: 2021-05-04T11:16:07
 title: Tryggare på jobbet med kollegial handledning
 original_id: 56909
 slug: tryggare-pa-jobbet-med-kollegial-handledning
-image: "../images/2000x1000-helsingborg-foto-johan-nilsson-tt-1.jpg"
+image: "/content/images/2000x1000-helsingborg-foto-johan-nilsson-tt-1.jpg"
 image_caption: Ewa Albertsson, Ulf Envall och David Schutsander är nöjda med den kollegiala handledningen i Helsingborg. De har blivit öppnare och har delat värdefulla erfarenheter med varandra, berättar de.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -79,4 +79,3 @@ Nu kommer arbetet att fortsätta framåt, och handledningstillfällena fortsätt
 
 _På fritidsgården fick man genom reflektionerna syn på sådant som inte är acceptabelt, men som medarbetarna ändå vant sig vid. Nu har man blivit bättre på att sätta ner foten, berättar skyddsombudet David Schutsander._[  
 ](https://www.suntarbetsliv.se/wp-content/uploads/2021/04/750x400-helsingborg-2-foto-johan-nilsson-tt.jpg)
-

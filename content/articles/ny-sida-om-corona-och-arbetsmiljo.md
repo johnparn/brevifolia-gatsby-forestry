@@ -4,9 +4,9 @@ date: 2020-05-08T11:37:31
 title: Ny sida om corona och arbetsmiljö
 original_id: 46949
 slug: ny-sida-om-corona-och-arbetsmiljo
-image: "../images/2000x1000_Corona_roller_ansvar.jpg"
+image: "/content/images/2000x1000_Corona_roller_ansvar.jpg"
 image_caption: Coronapandemin ställer höga krav på alla, och samverkan är viktigare än någonsin. På den nya sidan hittar du – bland mycket annat – information om roller och ansvar i arbetsmiljöarbetet.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -19,12 +19,12 @@ På den nya sidan kommer Suntarbetsliv att samla information som kan vara använ
 
 Det sex områdena är:
 
-*   Riskbedömning
-*   Kris och oro
-*   Ansvar och roller
-*   Arbetsbelastning
-*   Jobba på nya sätt
-*   Resursteamet
+- Riskbedömning
+- Kris och oro
+- Ansvar och roller
+- Arbetsbelastning
+- Jobba på nya sätt
+- Resursteamet
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-peter-larsson.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-peter-larsson.jpg)– Det handlar om hur man ska hantera coronasmittan ute på arbetsplatser, med sådant som riskbedömningar, krishantering, kommunikation och uppföljning. Det kan till exempel handla om arbetsuppgifter som blir extra ansträngande, eller om hur man ska jobba i miljöer där någon är smittad. Det säger Peter Larsson, förbundsombudsman på Kommunal.
 
@@ -59,4 +59,3 @@ Bakom sidan står den partsorganisation som ligger till grund för allt som Sunt
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-Ann-Charlotte-Rand.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/200x220-Ann-Charlotte-Rand.jpg)Han får medhåll av Ann-Charlotte Rand, arbetsmiljöstrateg på Sobona.
 
 – Suntarbetsliv knyter ihop alla parter, på neutral mark, och visar på styrkan i samverkan. Med den här sidan vill vi ge en signal om vikten av att behålla det vardagliga arbetsmiljöarbetet, även i en kaotisk situation.
-

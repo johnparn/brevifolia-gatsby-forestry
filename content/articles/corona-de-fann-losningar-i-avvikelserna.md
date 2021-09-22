@@ -4,9 +4,9 @@ date: 2020-11-17T12:14:28
 title: Corona de fann lösningar i avvikelserna
 original_id: 52222
 slug: corona-de-fann-losningar-i-avvikelserna
-image: "../images/2000x1000-avvikelser-3-foto-Fredrik-Sandberg.jpg"
+image: "/content/images/2000x1000-avvikelser-3-foto-Fredrik-Sandberg.jpg"
 image_caption: Bättre kommunikation om corona med hjälpmedlet SBAR. Det blev vinsten när Malin Lohela Karlsson, Emelie Condén Mellgren och Arne Amundsen på Västmanland läns sjukhus systematiserade avvikelserna.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---

@@ -4,9 +4,9 @@ date: 2020-04-21T18:30:00
 title: Så rustar de för att möta smittan
 original_id: 46342
 slug: sa-rustar-de-for-att-mota-smittan
-image: "../images/2000x1000-carina-jallrud-monika-rivas2-foto-pontus-lundahl.jpg"
-image_caption: På äldreboendet Sandelska huset har ingen boende ännu fått covid-19. Under tiden förbereder de sig. Det har gjort oron hanterbar, menar verksamhetschefen Carina Jällrud, här med medarbetaren Monika Rivas. 
-friskfaktorer: []
+image: "/content/images/2000x1000-carina-jallrud-monika-rivas2-foto-pontus-lundahl.jpg"
+image_caption: På äldreboendet Sandelska huset har ingen boende ännu fått covid-19. Under tiden förbereder de sig. Det har gjort oron hanterbar, menar verksamhetschefen Carina Jällrud, här med medarbetaren Monika Rivas.
+friskfaktorer:
 activity:
 author: Michael Nyhaga
 ---
@@ -82,4 +82,3 @@ Det finns en oro bland personalen att föra in coronasmittan på boendet. Men at
 Hon betonar att det tidigt kom ut mycket information från regionens smittskyddsenhet, kommunen och företaget som äldreboendet tillhör. Carina Jällrud har också skickat ut flera brev till anhöriga om hur de hanterar situationen och pratar regelbundet om den på personalmöten.
 
 – Information är extremt viktigt. Vi pratar med varandra hela tiden. Inför det man pratar om och planerar praktiskt för minskar oron, säger hon.
-

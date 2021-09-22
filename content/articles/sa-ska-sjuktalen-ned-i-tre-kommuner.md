@@ -4,9 +4,9 @@ date: 2020-10-13T14:22:29
 title: Så ska sjuktalen ned i tre kommuner
 original_id: 51094
 slug: sa-ska-sjuktalen-ned-i-tre-kommuner
-image: "../images/2000x1000-vindeln-therese-berg-foto-maria-hoglund-vindeln.jpg"
-image_caption: Vindelns kommundirektör Therese Berg och kommunstyrelsens ordförande Mathias Haglund står helhjärtat bakom satsningen på att införa friskfaktorer. Här är de på promenad med företagslotsen Angelica Johansson.   
-friskfaktorer: []
+image: "/content/images/2000x1000-vindeln-therese-berg-foto-maria-hoglund-vindeln.jpg"
+image_caption: Vindelns kommundirektör Therese Berg och kommunstyrelsens ordförande Mathias Haglund står helhjärtat bakom satsningen på att införa friskfaktorer. Här är de på promenad med företagslotsen Angelica Johansson.
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -78,4 +78,3 @@ I workshoparna fick de bland annat se filmer som skapar igenkänning med en humo
 [![Porträtt på Jennie Johansson](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/200x220-jennie-johansson.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/10/200x220-jennie-johansson.jpg)HR-specialisten Jennie Johansson är processledare för att införa friskfaktorer i Orust.
 
 – Resursteamet har varit väldigt inspirerande! Filmerna de visade satte igång bra samtal, och vi har även fått användbara modeller för hur vi kan arbeta vidare. Det är en unik möjlighet – och den är gratis!
-

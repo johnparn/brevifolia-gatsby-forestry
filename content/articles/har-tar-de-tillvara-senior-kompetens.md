@@ -4,9 +4,9 @@ date: 2021-06-08T10:58:40
 title: Här tar de tillvara senior kompetens
 original_id: 57813
 slug: har-tar-de-tillvara-senior-kompetens
-image: "../images/2000x1000-mikaela-siver-eva-axelsson-foto-kent-eng.jpg"
-image_caption: Skönt med stöd från en erfaren kollega. Mikaela Siver, sittande, provar synen på en patient på ögonmottagningen vid Uddevalla sjukhus. Mentorn Eva Axelsson stöttar. 
-friskfaktorer: []
+image: "/content/images/2000x1000-mikaela-siver-eva-axelsson-foto-kent-eng.jpg"
+image_caption: Skönt med stöd från en erfaren kollega. Mikaela Siver, sittande, provar synen på en patient på ögonmottagningen vid Uddevalla sjukhus. Mentorn Eva Axelsson stöttar.
+friskfaktorer:
 activity:
 author: Teres Hallman
 ---
@@ -72,4 +72,3 @@ Mikaela Siver tycker att det har varit väldigt positivt att få möjlighet till
 — Jag ställer många frågor till mina handledare. Men det är oftast korta snabba frågor för att komma vidare med en undersökning av en patient. Däremot är det svårt att hinna med att diskutera djupare kring saker man funderar på. Det har mentorsträffarna gett tid till.
 
 [Här kan du läsa om en pågående studie om projektet.](https://www.suntarbetsliv.se/forskning/organisatorisk-och-social-arbetsmiljo/mentorskap-med-ovantad-vinst/)
-

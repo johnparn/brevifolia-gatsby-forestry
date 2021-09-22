@@ -4,9 +4,9 @@ date: 2021-09-21T11:43:17
 title: Vad är samverkan?
 original_id: 59204
 slug: vad-ar-samverkan
-image: "../images/masma65349_Red_2000x1000.jpg"
+image: "/content/images/masma65349_Red_2000x1000.jpg"
 image_caption: Samverkan börjar i dialogen mellan medarbetare och chef. Även arbetsplatsträffarna är en del av samverkan. Målet är att få till en god arbetsmiljö och verksamhet.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Norrby
 ---
@@ -25,9 +25,9 @@ Lokala samverkansavtal är anpassade till den egna organisationen och uppdraget.
 
 Samverkan sker på flera nivåer som kan beskrivas så här:
 
-*   Direkt samverkan
-*   Representativ samverkan
-*   Representativ samverkan på högre nivåer
+- Direkt samverkan
+- Representativ samverkan
+- Representativ samverkan på högre nivåer
 
 ### Samverkan mellan medarbetare och chef
 
@@ -37,9 +37,9 @@ Arbetsplatsträffen eller personalmötet är också en viktig del av samverkan. 
 
 Det här är några exempel på frågor som passar att ta upp på arbetsplatsträffen:
 
-*   Arbetsbelastning
-*   Fysisk arbetsmiljö
-*   Planering av verksamheten
+- Arbetsbelastning
+- Fysisk arbetsmiljö
+- Planering av verksamheten
 
 Det finns också frågor som inte hör hemma inom samverkan på arbetsplatsträffen. Dit hör till exempel frågor om enskilda medarbetares behov av rehabilitering och arbetsanpassning.
 
@@ -60,4 +60,3 @@ Förutom samverkan på arbetsplatsen finns samverkan på högre nivåer i organi
 Samverkansgruppen på förvaltningsnivå tar upp frågor som rör hela förvaltningen. Hit kan skyddsombud lyfta frågor som inte gått att lösa på arbetsplatsen.
 
 Dessutom finns en central samverkansgrupp. I den centrala samverkansgruppen ingår representanter för arbetsgivaren, till exempel personalchefen, och fackligt förtroendevalda. Även huvudskyddsombud brukar vara med i centrala samverkansgrupper.
-

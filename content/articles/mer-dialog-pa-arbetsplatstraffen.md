@@ -4,9 +4,9 @@ date: 2021-09-14T10:58:04
 title: Mer dialog på arbetsplatsträffen
 original_id: 59040
 slug: mer-dialog-pa-arbetsplatstraffen
-image: "../images/apt-med-dialog-foto-johner_Red_2000x1000.jpg"
+image: "/content/images/apt-med-dialog-foto-johner_Red_2000x1000.jpg"
 image_caption: Arbetplatsträffar där alla medarbetare kommer till tals och där dialogen hålls levande; det är målet för de flesta arbetsplatser som har APT. Tyvärr ser inte verkligheten ut så överallt – men det går att förändra!
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -76,4 +76,3 @@ Den andra nyckeln, säger hon, är att hela tiden uppmuntra till delaktighet und
 Ylva Kruse håller med, och kommer med några sista tips till andra som behöver en nystart för sina möten.
 
 – Ha inte för långa möten. Prata ihop er i grupper om hur ni faktiskt vill ha era arbetsplatsträffar. Och visa gärna små korta filmer under mötena – det brukar vara mycket uppskattat.
-

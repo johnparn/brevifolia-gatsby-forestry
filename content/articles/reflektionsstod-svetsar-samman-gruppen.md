@@ -4,9 +4,9 @@ date: 2020-06-08T10:56:10
 title: Reflektionsstöd svetsar samman gruppen
 original_id: 47967
 slug: reflektionsstod-svetsar-samman-gruppen
-image: "../images/2000x1000-reflektionsmall.jpg"
+image: "/content/images/2000x1000-reflektionsmall.jpg"
 image_caption: När avdelning 27 gjordes om till pandemiavdelning behövde man ett sätt att svetsa samman gruppen. Då blev reflektionsstödet ett viktigt verktyg, berättar Lina Hansson och Elisabet Carlgren.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -62,4 +62,3 @@ Det var också ett sätt att samla ihop gruppen vid dagens slut.
 Även om pandemiavdelningen nu är ett minne blott, och öron-näsa-halsavdelningen snart är tillbaka, planerar vårdenhetschefen Lina Hansson att fortsätta med reflektionsmötena.
 
 – Jag har åtta sommarvikarier som ska in här, och det här är ett bra sätt att snabbt svetsa samman gruppen. Man lär känna sitt team och får svar på alla frågor man har.
-

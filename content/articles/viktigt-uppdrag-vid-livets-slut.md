@@ -4,9 +4,9 @@ date: 2020-11-02T17:12:23
 title: Viktigt uppdrag vid livets slut
 original_id: 51838
 slug: viktigt-uppdrag-vid-livets-slut
-image: "../images/2000x1000-jennifer-johansson-axen-ingela-karlsson-foto-anna-rehnberg.jpg"
+image: "/content/images/2000x1000-jennifer-johansson-axen-ingela-karlsson-foto-anna-rehnberg.jpg"
 image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat med nystrukna lakan och ordnat med ljus och blommor.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Rehnberg
 ---
@@ -94,4 +94,3 @@ Hittills har varken personal eller boende på Oskarström drabbats av covid-19. 
 Det är kanske inte så stora förändringar som skett på Oskarström. Men det frivilliga vakteamet och de tydliga rutinerna har medfört en klar förbättring för alla berörda. Kanske handlar det om meningsfullhet. Eller som Ingela uttrycker det:
 
 – Det är en ynnest att få hålla en boende i handen när hon eller han drar sitt sista andetag och veta att man gjort den stunden så fin som möjligt. Det låter kanske märkligt men det skapar faktiskt arbetsglädje.
-

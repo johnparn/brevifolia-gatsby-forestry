@@ -4,9 +4,9 @@ date: 2020-05-18T13:57:59
 title: Så håller sig bussförarna friska i Luleå
 original_id: 47639
 slug: sa-haller-sig-bussforarna-friska-i-lulea
-image: "../images/2000x1000-friska-busschaufforer-foto-Susanne-Lindholm.jpg"
+image: "/content/images/2000x1000-friska-busschaufforer-foto-Susanne-Lindholm.jpg"
 image_caption: Dick Sandberg, skyddsombud på Luleå Lokaltrafik, säger att samverkan har fungerat bra under coronapandemin: "Jag har fått medhåll från arbetsledningen i det jag har föreslagit. Det gör jobbet roligt".
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -70,4 +70,3 @@ Och så är det viktigt med fungerande samverkan mellan chef och skyddsombud.
 – Vår samverkan var bra redan innan, men den har blivit ännu tätare nu. Det är något som vi kommer att ta med oss framåt. Vi har ju samma målbild: att se till att förarna har en så bra arbetsmiljö som möjligt, avslutar Ulf Nordin.
 
 [![Bussförare](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/750x400-friska-busschaufforer-foto-Susanne-Lindholm.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/05/750x400-friska-busschaufforer-foto-Susanne-Lindholm.jpg)
-

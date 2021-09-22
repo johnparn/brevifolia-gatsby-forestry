@@ -4,9 +4,9 @@ date: 2020-04-28T15:22:52
 title: Ny vårdutbildning togs fram på tre veckor
 original_id: 46638
 slug: ny-vardutbildning-togs-fram-pa-tre-veckor
-image: "../images/2000x1000-snabbutbildning-magnus-foto-kalle-tt.jpg"
+image: "/content/images/2000x1000-snabbutbildning-magnus-foto-kalle-tt.jpg"
 image_caption: Snabbutbildning. Magnus Björk, enhetschef på Socialförvaltningen, pratar med de första eleverna på region Gotlands nya snabbutbildning för personal till vård och omsorg.
-friskfaktorer: []
+friskfaktorer:
 activity:
 author: Anna Wettergård
 ---
@@ -54,4 +54,3 @@ Karin Hanaeus är väldigt glad över Socialstyrelsens utbildning.
 Magnus Björk håller med.
 
 – Att göra allt det här själv hade tagit lång tid och stor ansträngning, speciellt för oss som liten kommun.
-
