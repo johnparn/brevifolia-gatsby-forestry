@@ -98,7 +98,7 @@ fields:
     time_format: 
     display_utc: false
   hidden: false
-  default: now
+  default: '2021-09-22T07:25:41Z'
 - name: original_id
   type: number
   label: Original Id
