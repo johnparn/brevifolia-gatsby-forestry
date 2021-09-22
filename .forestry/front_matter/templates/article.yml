@@ -115,5 +115,3 @@ fields:
   config:
     required: false
   label: Slug
-pages:
-- content/articles/testartikel.md

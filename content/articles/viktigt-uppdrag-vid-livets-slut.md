@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2020-11-02T17:12:23
+date: 2020-11-02T17:12:23.000+00:00
 title: Viktigt uppdrag vid livets slut
 original_id: 51838
 slug: viktigt-uppdrag-vid-livets-slut
 image: "/content/images/2000x1000-jennifer-johansson-axen-ingela-karlsson-foto-anna-rehnberg.jpg"
-image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat med nystrukna lakan och ordnat med ljus och blommor.
-friskfaktorer: ""
-activity: ""
+image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att
+  en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat
+  med nystrukna lakan och ordnat med ljus och blommor.
+friskfaktorer: Rehabilitering
+activity: Undersök
 articles_teasers_2: []
 article-teasers-list: []
-author: Anna Rehnberg
----
+author: ''
 
+---
 På Oskarströms äldreboende i Halmstad har man skapat ett välfungerande system för vak vid livets slut. Det ger ökad trygghet för de boende, de anhöriga och personalen.
 
 Den kyliga höstvinden rycker med sig ett och annat gyllene löv som sakta singlar till marken.
@@ -22,6 +24,8 @@ Inne på Oskarströms äldreboende har enhetschefen Rose-Marie Karlsson tänt ka
 Samtliga runt bordet har lång erfarenhet av äldreomsorg och ett starkt engagemang för att skapa bästa tänkbara vård för de boende. De tre undersköterskorna är tre av fyra kvalitetsansvariga på Oskarström.
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-rose-marie-karlsson-foto-anna-rehnberg.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/200x220-rose-marie-karlsson-foto-anna-rehnberg.jpg)– De fungerar som en länk mellan mig och den dagliga verksamheten på avdelningarna. Jag skulle säga att de brinner lite extra för sitt arbete, förklarar Rose-Marie.
+
+![](/content/images/tangkjaer_940x450hb1.jpg)
 
 Personalen känner de boende och utvecklar en fingertoppskänsla för hur kunden får det så tryggt och bra som möjligt även på slutet av livet. Det kan vara små saker som vilken sida en person föredrar att ligga på, vilken filt kunden tycker om, vilken beröring som känns bra eller om hen vill vara ifred.
 
