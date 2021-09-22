@@ -1,11 +1,13 @@
 ---
 content_type: article
-date: 2020-01-07T12:45:28
-title: '&#8220;Vi fick syn på vårt eget arbetsmiljöarbete&#8221;'
+date: 2020-01-07T12:45:28.000+00:00
+title: "“Vi fick syn på vårt eget arbetsmiljöarbete”"
 original_id: 43649
 slug: vi-fick-syn-pa-vart-eget-arbetsmiljoarbete
 image: "../images/2000x1000-stenungsund-forskola3-foto-bjorn-larsson-rosvall-tt.jpg"
-image_caption: 'Förskolan Bergsvägen i Stenungsund fick besök av Arbetsmiljöverket. Stefan Nilsson, förskollärare och HSO, och rektorn Filippa Körner fick mycket att stå i - även om ansvaret för arbetsmiljön ligger på politikerna.  '
+image_caption: 'Förskolan Bergsvägen i Stenungsund fick besök av Arbetsmiljöverket.
+  Stefan Nilsson, förskollärare och HSO, och rektorn Filippa Körner fick mycket att
+  stå i - även om ansvaret för arbetsmiljön ligger på politikerna.  '
 author: Anna Norrby
 friskfaktorer: ''
 activity: ''
@@ -13,7 +15,6 @@ articles_teasers_2: []
 article-teasers-list: []
 
 ---
-
 Hur ser arbetsmiljön ut i Sveriges kommuner? Nu inspekterar Arbetsmiljöverket dem alla i en stor tillsynsinsats som pågår under hela 2020. Stenungsund har redan fått besök.
 
 “Arbetsmiljöverket inspekterar kommunens årliga uppföljning av det systematiska arbetsmiljöarbetet.” Det var rubriken på ett brev som damp ned i Stenungsund just som höstterminen skulle dra igång. Samma brev landar i alla kommuner under 2020, och det är förskolorna som får särskild uppmärksamhet.
@@ -99,4 +100,3 @@ Men Arbetsmiljöverket förtydligade att det är politikerna som har ansvar för
 — Och det var nog en ögonöppnare för de som var med. För mig var det lite av en befrielse att det är de folkvalda som har ansvaret, säger Stefan Nilsson.
 
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/125x70-inspektion-kommunpolitiker-foto-maskot-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/125x70-inspektion-kommunpolitiker-foto-maskot-tt.jpg)[**Läs även:** Få koll på arbetsmiljöansvaret](https://www.suntarbetsliv.se/artiklar/sam/fa-koll-pa-arbetsmiljoansvaret/)
-
