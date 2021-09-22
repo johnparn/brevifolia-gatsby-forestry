@@ -7,6 +7,7 @@ image_caption: Taggig buske i ökenlandskap
 activity: ''
 articles_teasers_2: []
 article-teasers-list: []
+author: John Parnefjord
 
 ---
 Brödtext
