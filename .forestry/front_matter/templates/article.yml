@@ -88,5 +88,31 @@ fields:
       file: content/data/authors.yaml
       path: authors
   label: Author
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+  hidden: false
+  default: now
+- name: original_id
+  type: number
+  label: Original Id
+  description: The original wordpress id
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
 pages:
 - content/articles/testartikel.md
