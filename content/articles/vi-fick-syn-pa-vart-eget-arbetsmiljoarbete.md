@@ -21,7 +21,9 @@ Hur ser arbetsmiljön ut i Sveriges kommuner? Nu inspekterar Arbetsmiljöverket 
 
 Tillsynen började med ett möte som Arbetsmiljöverket hade med representanter för kommunledningen. Syftet var att höja politikernas medvetenhet om sitt ansvar för arbetsmiljön i verksamheterna, och att de ska följa upp det systematiska arbetsmiljöarbetet. Efter den första träffen fortsatte inspektionen med besök på fyra av kommunens 15 förskolor.
 
-[![Porträtt på Filippa Körner](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-filippa-korner-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-filippa-korner-foto-bjorn-larsson-rosvall-tt.jpg)— Det var en föranmäld inspektion som framför allt handlade om systematiken i hur vi säkerställer att vi gör det vi ska under året, säger Filippa Körner som är rektor för en av de fyra förskolorna.
+[![Porträtt på Filippa Körner](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-filippa-korner-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-filippa-korner-foto-bjorn-larsson-rosvall-tt.jpg)
+
+— Det var en föranmäld inspektion som framför allt handlade om systematiken i hur vi säkerställer att vi gör det vi ska under året, säger Filippa Körner som är rektor för en av de fyra förskolorna.
 
 Förskolan Bergsvägen har 90 barn och ungefär 20 anställda, och ligger på en kulle med egen kantarellskog mitt inne i centrala Stenungsund. En onsdagsmorgon i mitten av september kom Arbetsmiljöverket hit.
 
