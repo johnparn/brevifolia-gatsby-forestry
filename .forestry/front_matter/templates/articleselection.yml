@@ -1,4 +1,12 @@
 ---
 label: ArticleSelection
 hide_body: true
-fields: []
+fields:
+- name: related_articles
+  type: blocks
+  template_types:
+  - articlelink
+  config:
+    min: 
+    max: 
+  label: Related articles
