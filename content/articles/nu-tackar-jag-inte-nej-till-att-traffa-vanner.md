@@ -1,7 +1,7 @@
 ---
 content_type: article
 date: 2020-06-02T09:58:16
-title: &#8220;Nu tackar jag inte nej till att träffa vänner&#8221;
+title: Nu tackar jag inte nej till att träffa vänner
 original_id: 47950
 slug: nu-tackar-jag-inte-nej-till-att-traffa-vanner
 image: "../images/2000x1000-marika-holmefalk-foto-bjorn-larsson-roswall-tt.jpg"
@@ -69,4 +69,3 @@ Två grupper av nyexaminerade sjuksköterskor har hittills fått gå återhämtn
 Nu har sjukhuset tagit beslut att fortsätta med programmet som en ordinarie del i introduktionsutbildningen för alla nyanställda sjuksköterskor.
 
 _Läs mer om forskningen bakom återhämtningsprogrammet i artiklarna:  [Återhämtning – mer än bara vila](https://www.suntarbetsliv.se/forskning/organisatorisk-och-social-arbetsmiljo/aterhamtning-mer-an-bara-vila/), samt [Handbok för återhämtning.](https://www.suntarbetsliv.se/forskning/organisatorisk-och-social-arbetsmiljo/handbok-for-aterhamtning/)_
-

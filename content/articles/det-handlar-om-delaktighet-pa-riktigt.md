@@ -1,7 +1,7 @@
 ---
 content_type: article
 date: 2020-09-14T14:39:39
-title: &#8220;Det handlar om delaktighet på riktigt&#8221;
+title: Det handlar om delaktighet på riktigt
 original_id: 50120
 slug: det-handlar-om-delaktighet-pa-riktigt
 image: "../images/2000x1000-strangnas-skola-foto-Pontus-lundah.jpg"
@@ -80,4 +80,3 @@ Och arbetet har haft effekt. I nya medarbetarenkäter har man bland annat kunnat
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/09/750x400-strangnas-skola-foto-Pontus-lundah.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/09/750x400-strangnas-skola-foto-Pontus-lundah.jpg)
 
 _Daniel Nygren Hårdstedt, Anna Lindgren och Carina Tinker tycker att stämningen i skolan är god och att det är högt i tak kollegorna emellan._
-

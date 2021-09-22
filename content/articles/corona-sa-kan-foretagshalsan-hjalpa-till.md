@@ -1,11 +1,11 @@
 ---
 content_type: article
 date: 2020-04-14T16:24:03
-title: Corona &#8211; så kan företagshälsan hjälpa till
+title: Corona så kan företagshälsan hjälpa till
 original_id: 46163
 slug: corona-sa-kan-foretagshalsan-hjalpa-till
 image: "../images/2000x1000-foretagshalsan-foto-rolf-hojer-tt.jpg"
-image_caption: Bibliotekspersonal är en av många yrkesgrupper som kan ha frågor, känna oro och behöva lära sig mer om hur de kan minska smittspridning. Då kan företagshälsan rycka in med strategiskt stöd.  
+image_caption: Bibliotekspersonal är en av många yrkesgrupper som kan ha frågor, känna oro och behöva lära sig mer om hur de kan minska smittspridning. Då kan företagshälsan rycka in med strategiskt stöd.
 friskfaktorer: []
 activity:
 author: Anna Norrby
@@ -81,4 +81,3 @@ Hon tycker att dialogen är särskilt viktig nu mellan skyddsombud och chefer.
 – Cheferna behöver vara närvarande i verksamheterna nu. Så har man gjort inom skolan och förskolan. Där har de strukit alla möten som inte är akuta, för att rektorerna ska finnas på plats.
 
 _Porträttfoto Anna Yngvesson: Ateljé Lena Photography_
-

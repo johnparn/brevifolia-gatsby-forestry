@@ -1,7 +1,7 @@
 ---
 content_type: article
 date: 2020-11-17T12:14:28
-title: Corona: de fann lösningar i avvikelserna
+title: Corona de fann lösningar i avvikelserna
 original_id: 52222
 slug: corona-de-fann-losningar-i-avvikelserna
 image: "../images/2000x1000-avvikelser-3-foto-Fredrik-Sandberg.jpg"
@@ -64,4 +64,3 @@ Malin Lohela Karlsson säger att nu, när verksamheterna står inför en andra v
 [![](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-avvikelser-3-foto-Fredrik-Sandberg-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/11/750x400-avvikelser-3-foto-Fredrik-Sandberg-tt.jpg)
 
 _Malin Lohela Karlsson, Emelie Condén Mellgren och Arne Amundsen tycker att det nya arbetssättet har blivit ett lyft för avvikelsesystemet._
-

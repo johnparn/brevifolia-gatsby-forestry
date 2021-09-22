@@ -1,11 +1,11 @@
 ---
 content_type: article
 date: 2021-01-26T10:01:55
-title: IVA &#8211; så gör de för att orka genom pandemin
+title: IVA så gör de för att orka genom pandemin
 original_id: 54140
 slug: iva-sa-gor-de-for-att-orka-genom-pandemin
 image: "../images/2000x1000-wiveca-lind-lisa-hassel-foto-johan-nilsson-tt.jpg"
-image_caption: De har valt att stanna. Avdelningschefen Wiveca Lind och skyddsombudet Lisa Hassel på IVA i Helsingborg har samarbetat genom hela pandemin för att skapa en rimlig arbetsmiljö för personalen. 
+image_caption: De har valt att stanna. Avdelningschefen Wiveca Lind och skyddsombudet Lisa Hassel på IVA i Helsingborg har samarbetat genom hela pandemin för att skapa en rimlig arbetsmiljö för personalen.
 friskfaktorer: []
 activity:
 author: Birgita Klepke
@@ -96,4 +96,3 @@ En av hennes ambitioner är att värna personalens återhämtning.
 I somras fick alla som ville ta ut fyra veckors sammanhängande semester. Under hösten beviljade hon ledigheter så fort patienttrycket lättade eller om en inställd utbildning skapade luft i det ansträngda schemat.
 
 För att inte tappa greppet om arbetsmiljön följs arbetet upp varje torsdag genom ett digitalt möte med skyddskommittén på verksamhetsområdet IVA, Operation/anestesi och Dagkirurgi.
-

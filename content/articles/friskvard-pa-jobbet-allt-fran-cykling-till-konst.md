@@ -1,7 +1,7 @@
 ---
 content_type: article
 date: 2020-11-02T13:39:27
-title: Friskvård på jobbet &#8211; allt från cykling till konst
+title: Friskvård på jobbet allt från cykling till konst
 original_id: 51798
 slug: friskvard-pa-jobbet-allt-fran-cykling-till-konst
 image: "../images/1400x700px-cykelbild-foto-andreas-juhl.jpg"
@@ -57,4 +57,3 @@ Dessutom kommer cheferna att börja identifiera medarbetare som inte rapporterar
 – Ja, nu vill vi att cheferna tar på sig ledartröjan och uppmuntrar till fler walk-and-talk-möten så att vi får in mer friskvård naturligt i arbetsdagen. Det säger Karolina Miller, och avslutar:
 
 – Samtalet kring hälsa och friskvård har verkligen kommit igång. Även de som inte alls varit aktiva förut pratar om friskvård nu. Det är verkligen inspirerande.
-
