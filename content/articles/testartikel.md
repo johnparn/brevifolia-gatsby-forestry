@@ -8,6 +8,9 @@ activity: ''
 articles_teasers_2: []
 article-teasers-list: []
 author: John Parnefjord
+date: 
+original_id: 
+slug: testartkile
 
 ---
 Brödtext
