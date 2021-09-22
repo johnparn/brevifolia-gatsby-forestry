@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2021-01-26T10:01:55
-title: IVA så gör de för att orka genom pandemin
+date: 2021-01-26T10:01:55.000+00:00
+title: 'IVA: så gör de för att orka genom pandemin'
 original_id: 54140
 slug: iva-sa-gor-de-for-att-orka-genom-pandemin
 image: "/content/images/2000x1000-wiveca-lind-lisa-hassel-foto-johan-nilsson-tt.jpg"
-image_caption: De har valt att stanna. Avdelningschefen Wiveca Lind och skyddsombudet Lisa Hassel på IVA i Helsingborg har samarbetat genom hela pandemin för att skapa en rimlig arbetsmiljö för personalen.
-friskfaktorer: ""
-activity: ""
+image_caption: De har valt att stanna. Avdelningschefen Wiveca Lind och skyddsombudet
+  Lisa Hassel på IVA i Helsingborg har samarbetat genom hela pandemin för att skapa
+  en rimlig arbetsmiljö för personalen.
+friskfaktorer: ''
+activity: ''
 articles_teasers_2: []
 article-teasers-list: []
 author: Birgita Klepke
----
 
+---
 Arbetet med covid-patienter är tufft. Gemensam reflektion, handledning och återhämtning är några sätt att göra det lättare för IVA Helsingborg att hantera pandemins andra våg.
 
 Under några månader våren 2020 ökade IVA Helsingborg antalet vårdplatser från sex till femton. Nio månader senare har personalen vårdat 62 covid-patienter.
