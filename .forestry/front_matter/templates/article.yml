@@ -115,3 +115,8 @@ fields:
   config:
     required: false
   label: Slug
+- name: related_articles
+  type: include
+  config: {}
+  template: articleselection
+  label: Related articles
