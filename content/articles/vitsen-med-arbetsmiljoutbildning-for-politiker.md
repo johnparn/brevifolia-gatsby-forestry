@@ -1,11 +1,12 @@
 ---
 content_type: article
-date: 2019-08-20T15:47:41
-title: 'Vitsen med arbetsmiljöutbildning för politiker'
+date: 2019-08-20T15:47:41.000+00:00
+title: Vitsen med arbetsmiljöutbildning för politiker
 original_id: 40531
 slug: vitsen-med-arbetsmiljoutbildning-for-politiker
 image: "../images/2000x1000-varberg-politiker-foto-bjorn-larsson-rosvall-tt.jpg"
-image_caption: 'Nämndpolitikerna Simon Söderberg, Andreas Rudeström, Hanna Netterberg och Margit Kastberg drillas om arbetsmiljöansvaret.   '
+image_caption: 'Nämndpolitikerna Simon Söderberg, Andreas Rudeström, Hanna Netterberg
+  och Margit Kastberg drillas om arbetsmiljöansvaret.   '
 author: Anna Norrby
 friskfaktorer: ''
 activity: ''
@@ -13,15 +14,15 @@ articles_teasers_2: []
 article-teasers-list: []
 
 ---
-
-– Arbetsmiljöansvaret ligger på varje nämnd, och då är det viktigt att vi nämndpolitiker också får kunskap.  
-Orden kommer från Morgan Börjesson, som sitter i socialnämnden och är gruppledare för KD i Varbergs kommun.
+– Arbetsmiljöansvaret ligger på varje nämnd, och då är det viktigt att vi nämndpolitiker också får kunskap. Orden kommer från Morgan Börjesson, som sitter i socialnämnden och är gruppledare för KD i Varbergs kommun.
 
 Han är en av de politiker som deltar när Arbetsmiljöverket genomför en utbildningsinsats för förtroendevalda om deras arbetsmiljöansvar. Kommunens inbyggda företagshälsovård, Kommunhälsan, och HR-avdelningen ska också hålla ett pass.
 
 Utbildningen äger rum i Folkets hus i centrala Varberg. En efter en kommer politikerna upp för trappan och bort till salen där solen kikar in. Någon har ryggsäcken slängd över axeln medan en annan håller portföljen prydligt i handen. De är nämndpolitiker, ledamöter i fullmäktige och från kommunstyrelsen. De flesta hälsar vant på varandra, eller nickar och dyker ned i mobilen över en snabb kopp kaffe.
 
-[![Porträttbild på Morgan Börjesson](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-morgan-borjesson-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-morgan-borjesson-foto-bjorn-larsson-rosvall-tt.jpg)Morgan Börjesson är först på plats. Han är ny som politiker i socialnämnden och sitter i flera andra nämnder, men på området arbetsmiljö är han däremot veteran. Han har arbetat som arbetsmiljöingenjör på Vattenfall i trettiofem år, varav många på kärnkraftverket Ringhals.  
+[![Porträttbild på Morgan Börjesson](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-morgan-borjesson-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-morgan-borjesson-foto-bjorn-larsson-rosvall-tt.jpg)
+
+Morgan Börjesson är först på plats. Han är ny som politiker i socialnämnden och sitter i flera andra nämnder, men på området arbetsmiljö är han däremot veteran. Han har arbetat som arbetsmiljöingenjör på Vattenfall i trettiofem år, varav många på kärnkraftverket Ringhals.
 
 – Socialnämnden har en utmaning med hög sjukfrånvaro hos vissa grupper i förvaltningen och vi behöver hitta orsakerna till att de inte mår bra.
 
@@ -29,12 +30,14 @@ Efter den här utbildningen hoppas han att de förtroendevalda börjar tänka me
 
 ### “Det talas väldigt lite om arbetsmiljön”
 
-Andreas Rudeström (S) tillhör den yngre skaran. Till vardags är han undersköterska i Breared, på ett särskilt boende för demenssjuka som drivs privat. Han har varit facklig företrädare för Kommunal i tio år, och då varit både skyddsombud och huvudskyddsombud. 
+Andreas Rudeström (S) tillhör den yngre skaran. Till vardags är han undersköterska i Breared, på ett särskilt boende för demenssjuka som drivs privat. Han har varit facklig företrädare för Kommunal i tio år, och då varit både skyddsombud och huvudskyddsombud.
 
-Han berättar att Kommunal har en policy om att deras förtroendevalda inte får sitta i nämnder för arbetsplatser där Kommunal har medlemmar.  
+Han berättar att Kommunal har en policy om att deras förtroendevalda inte får sitta i nämnder för arbetsplatser där Kommunal har medlemmar.
 
-[![](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-andreas-rudestrom-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-andreas-rudestrom-foto-bjorn-larsson-rosvall-tt.jpg)– Annars skulle det bli svårt. Jag vet att jag som politiker har arbetsgivaransvar. Fast jag är ju van vid att vara på den andra sidan och tjata på dem som har ansvaret för arbetsmiljön, säger Andreas Rudeström.  
-  
+[![](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-andreas-rudestrom-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-andreas-rudestrom-foto-bjorn-larsson-rosvall-tt.jpg "Andreas Rudeström")
+
+– Annars skulle det bli svårt. Jag vet att jag som politiker har arbetsgivaransvar. Fast jag är ju van vid att vara på den andra sidan och tjata på dem som har ansvaret för arbetsmiljön, säger Andreas Rudeström.
+
 Men än så länge är hans erfarenhet som politiker begränsad.
 
 – Jag har märkt att det talas väldigt lite om arbetsmiljön på nämndmötena. Nu efter utbildningen hoppas jag på fler rapporter till nämnden.
@@ -57,7 +60,7 @@ Arbetsmiljöverket har tidigare gjort en tillsynsinsats där de jämförde föru
 
 Han påminner också om att cheferna i verksamheter där flest kvinnor arbetar har betydligt sämre förutsättningar att nå ut till sina medarbetare, bland annat eftersom de har betydligt fler medarbetare att ansvara för i jämförelse med till exempel den tekniska förvaltningen.
 
-[![](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/750x400-varberg-politiker4-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/750x400-varberg-politiker4-foto-bjorn-larsson-rosvall-tt.jpg)
+[![](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/750x400-varberg-politiker4-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/750x400-varberg-politiker4-foto-bjorn-larsson-rosvall-tt.jpg "Presentation med publik i Varberg kommun")
 
 Efter den inledande duvningen går han över till lagar och föreskrifter och berättar om hur systematiskt arbetsmiljöarbete går till, och hur de som politiker ska göra.
 
@@ -79,11 +82,11 @@ Arbetsgivaren ska i en konkret situation förena arbetstagarnas, elevernas, bruk
 
 Den största utmaningen ligger i att hålla det systematiska arbetsmiljöarbetet levande, menar Tommy Fahlander.
 
-– Titta över hur ni vill ha det i Varberg. Skapa en balans mellan krav och resurser och tänk på att arbetsmiljölagen inte godtar att inte vidta åtgärder på grund av dålig ekonomi. 
+– Titta över hur ni vill ha det i Varberg. Skapa en balans mellan krav och resurser och tänk på att arbetsmiljölagen inte godtar att inte vidta åtgärder på grund av dålig ekonomi.
 
 Sedan är det dags för arbetsmiljösamordnaren Pauline Georgy och HR-strategen Marcus Vahlström att ta över.
 
-– Vi på HR och Kommunhälsan är ett stöd för er att lyckas i arbetsgivarrollen och med arbetsmiljöarbetet, säger Marcus Vahlström.  
+– Vi på HR och Kommunhälsan är ett stöd för er att lyckas i arbetsgivarrollen och med arbetsmiljöarbetet, säger Marcus Vahlström.
 
 ### Hålla koll på medarbetarenkäterna
 
@@ -99,13 +102,14 @@ De får också en tankeställare om vikten av att jobba för att skapa en arbets
 
 Arbetsmiljösamordnaren tar upp några viktiga källor som kan ge nämndpolitiker koll på arbetsmiljön inom sina förvaltningar.
 
-[![Porträttbild på Pauline Georgy](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-pauline-georgy-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-pauline-georgy-foto-bjorn-larsson-rosvall-tt.jpg)– Begär att få ta del av resultaten i medarbetarenkäten och av tillbuds- och arbetsskaderapporteringen, säger Pauline Georgy och nämner att chefernas system kan ge en inblick.
+[![Porträttbild på Pauline Georgy](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-pauline-georgy-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2019/08/200x220-pauline-georgy-foto-bjorn-larsson-rosvall-tt.jpg "Pauline Georgy")
+
+– Begär att få ta del av resultaten i medarbetarenkäten och av tillbuds- och arbetsskaderapporteringen, säger Pauline Georgy och nämner att chefernas system kan ge en inblick.
 
 – Systemet för rehabärenden kan ge er i nämnden en uppfattning och riktning utan att några medarbetare lämnas ut.
 
 _Och vad tyckte undersköterskan Andreas Rudeström som sitter i byggnadsnämnden om dagen?_
 
-– Det var nyttigt att få arbetsgivarperspektivet! Kanske var det på en väl övergripande nivå, jag hade velat gå in ännu mer på hur vi ska göra rent konkret. Men nu vet jag att det finns riktlinjer och att vi måste arbeta aktivt och ställa frågor om arbetsmiljön till ansvariga chefer. 
+– Det var nyttigt att få arbetsgivarperspektivet! Kanske var det på en väl övergripande nivå, jag hade velat gå in ännu mer på hur vi ska göra rent konkret. Men nu vet jag att det finns riktlinjer och att vi måste arbeta aktivt och ställa frågor om arbetsmiljön till ansvariga chefer.
 
-**Läs om Arbetsmiljöverkets insats: [Nu ska politiker vässa sitt arbetsmiljöansvar](https://www.suntarbetsliv.se/rapporterat/nu-ska-politiker-vassa-sitt-arbetsmiljoansvar/)**
-
+**Läs om Arbetsmiljöverkets insats:** [**Nu ska politiker vässa sitt arbetsmiljöansvar**](https://www.suntarbetsliv.se/rapporterat/nu-ska-politiker-vassa-sitt-arbetsmiljoansvar/)
