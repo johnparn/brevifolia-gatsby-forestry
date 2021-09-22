@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import useArticleData from "../static_queries/useArticleData"
 import articleListStyles from "../styles/components/articlelist.module.scss"
 import Img from "gatsby-image"
+import { StaticImage } from "gatsby-plugin-image"
 
 export default function ArticleList() {
   const articleData = useArticleData()
@@ -23,11 +24,14 @@ export default function ArticleList() {
                 >
                   {article.node.frontmatter.image && (
                     <div className={articleListStyles.list__hero}>
+                      {/* <StaticImage
+                        src={article.node.frontmatter.image}
+                        alt={article.node.frontmatter.image_caption}
+                      /> */}
                       <Img
                         fluid={
                           article.node.frontmatter.image.childImageSharp.fluid
                         }
-                        alt={article.node.frontmatter.title}
                       />
                     </div>
                   )}

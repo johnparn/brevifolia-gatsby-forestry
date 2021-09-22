@@ -10,15 +10,16 @@ export default function useArticleData() {
         edges {
           node {
             id
+            html
             excerpt(pruneLength: 200)
             frontmatter {
               date(formatString: "YYYY-MM-DD")
               title
-              content
-              activity
-              friskfaktorer
-              #image
-
+              #content
+              #activity
+              #friskfaktorer
+              # image
+              image_caption
               image {
                 id
                 #   base

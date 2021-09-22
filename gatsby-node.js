@@ -18,41 +18,41 @@ module.exports.onCreateNode = ({ node, actions, getNode }) => {
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogTemplate = path.resolve("./src/templates/blog.js")
+  // const blogTemplate = path.resolve("./src/templates/blog.js")
   const articleTemplate = path.resolve("./src/templates/article.js")
 
   // Get posts
-  const posts = graphql(`
-    query {
-      allMarkdownRemark(
-        filter: { frontmatter: { content_type: { eq: "post" } } }
-      ) {
-        edges {
-          node {
-            frontmatter {
-              content_type
-            }
-            fields {
-              slug
-            }
-          }
-        }
-      }
-    }
-  `).then(result => {
-    // Generate each post
-    const allEdges = result.data.allMarkdownRemark.edges
+  // const posts = graphql(`
+  //   query {
+  //     allMarkdownRemark(
+  //       filter: { frontmatter: { content_type: { eq: "post" } } }
+  //     ) {
+  //       edges {
+  //         node {
+  //           frontmatter {
+  //             content_type
+  //           }
+  //           fields {
+  //             slug
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  // `).then(result => {
+  //   // Generate each post
+  //   const allEdges = result.data.allMarkdownRemark.edges
 
-    allEdges.forEach(edge => {
-      createPage({
-        component: blogTemplate,
-        path: `/blog/${edge.node.fields.slug}`,
-        context: {
-          slug: edge.node.fields.slug,
-        },
-      })
-    })
-  })
+  //   allEdges.forEach(edge => {
+  //     createPage({
+  //       component: blogTemplate,
+  //       path: `/blog/${edge.node.fields.slug}`,
+  //       context: {
+  //         slug: edge.node.fields.slug,
+  //       },
+  //     })
+  //   })
+  // })
 
   // Get articles
   const articles = graphql(`
@@ -87,5 +87,5 @@ module.exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  return Promise.all([posts, articles])
+  return Promise.all([articles])
 }

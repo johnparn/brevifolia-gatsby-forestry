@@ -76,13 +76,13 @@ export const getPostData = graphql`
         author
         date(formatString: "MMMM Do, YYYY")
         # hero_image
-        hero_image {
-          childImageSharp {
-            fluid(maxWidth: 1500) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        # hero_image {
+        #   childImageSharp {
+        #     fluid(maxWidth: 1500) {
+        #       ...GatsbyImageSharpFluid
+        #     }
+        #   }
+        # }
       }
       html
     }

@@ -15,13 +15,13 @@ export default function useBlogData() {
               author
               title
               # hero_image
-              hero_image {
-                childImageSharp {
-                  fluid(maxWidth: 800) {
-                    ...GatsbyImageSharpFluid
-                  }
-                }
-              }
+              # hero_image {
+              #   childImageSharp {
+              #     fluid(maxWidth: 800) {
+              #       ...GatsbyImageSharpFluid
+              #     }
+              #   }
+              # }
             }
             excerpt(pruneLength: 200)
             fields {
