@@ -1,19 +1,24 @@
 ---
 content_type: article
-date: 2015-09-29T07:50:00
-title: 'Vi vill göra det lättare att ta itu med nya föreskriften'
+date: 2015-09-29T07:50:00.000+00:00
+title: Vi vill göra det lättare att ta itu med nya föreskriften
 original_id: 15860
 slug: verktygslada-for-nya-afsen
 image: "../images/afsfyranab1.jpg"
-image_caption: 'Ellen Hall, Läkarförbundet, Annica Magnusson, Vårdförbundet,  Eva Thulin Skantze, SKL, och Carola Löfstrand, Vision, samarbetar för att få fram  ett stöd för chefer och skyddsombud, i arbetet med Arbetsmiljöverkets föreskrifter  om OSA - organisatorisk och social arbetsmiljö.'
-author: Mats Utbult
+image_caption: Ellen Hall, Läkarförbundet, Annica Magnusson, Vårdförbundet,  Eva Thulin
+  Skantze, SKL, och Carola Löfstrand, Vision, samarbetar för att få fram  ett stöd
+  för chefer och skyddsombud, i arbetet med Arbetsmiljöverkets föreskrifter  om OSA
+  - organisatorisk och social arbetsmiljö.
+author: ''
 friskfaktorer: ''
 activity: ''
 articles_teasers_2: []
 article-teasers-list: []
+related_articles:
+- template: articlelink
+  article: content/articles/gemensamt-sakerhetsarbete-battre-for-alla.md
 
 ---
-
 På Suntarbetsliv kommer chefer och skyddsombud kunna hitta bra material och redskap, som gör det lättare att tackla föreskrifterna om den organisatoriska och sociala arbetsmiljön (OSA). Det berättar fyra företrädare för arbetsgivare och anställda inom kommun och landsting.
 
 Utgångspunkten för satsningen är den nya föreskrift som Arbetsmiljöverket har beslutat om, och här på Suntarbetsliv finns en första kortfattad beskrivning av OSA-föreskrifterna paragraf för paragraf, [“Nya krav på god social och organisatorisk arbetsmiljö”](https://www.suntarbetsliv.se/artiklar/systematiskt-arbetsmiljoarbete/nya-krav-pa-god-social-och-organisatorisk-arbetsmiljo/).
@@ -85,4 +90,3 @@ Carola Löfstrand ger ett exempel som är mycket konkret:
 – Ett första steg skulle kunna vara en digital arbetsmiljörond för att granska hur IT-strul orsakar stress!
 
 En kort sammanfattning i punktform av föreskriftens “riskområden” som pdf – se under “Läs mer”. Där finns också hela föreskriften att ladda ner.
-
