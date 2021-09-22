@@ -6,8 +6,10 @@ original_id: 51263
 slug: nu-kan-ni-fa-battre-moten
 image: "/content/images/2000x1000-Battre-moten-Suntarbetsliv.png"
 image_caption: Verktyget Bättre möten går ut på att lära sig om - och träna på att använda - fem olika perspektiv i varje möte. I verktyget är perspektiven representerade av fem olika personer.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

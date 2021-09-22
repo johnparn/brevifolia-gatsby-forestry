@@ -6,8 +6,10 @@ original_id: 53071
 slug: julfirande-som-lyser-upp-i-coronavintern
 image: "/content/images/2000x1000-hallstavik-foto-pontus-lundahl-tt.jpg"
 image_caption: – Även den som har en demensdiagnos har sina sinnen och minnen kvar, och alla dessa sinnesintryck betyder mycket. Det gör jobbet lättare för personalen också, eftersom den som är glad faktiskt mår bättre. Det säger vårdbiträdet Carina Ufhäll på August Jansgården. Hon får medhåll av chefen Kejo Aho.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

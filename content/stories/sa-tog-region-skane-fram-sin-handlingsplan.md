@@ -6,8 +6,10 @@ original_id: 48428
 slug: sa-tog-region-skane-fram-sin-handlingsplan
 image: "/content/images/2000x1000-Mariela-Ferre-Hofman-Moa-Elfstrom-Louise-Sylvan-foto-helene-holmqvist-skanes-univsjukhus.jpg"
 image_caption: Snabb och korrekt information - det har varit en av de viktigaste åtgärderna i handlingsplanen, tycker huvudskyddsombudet Mariela Ferré-Hofman och HR-strategerna Moa Elfström och Louise Sylvan på SUS.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Birgita Klepke
 ---
 

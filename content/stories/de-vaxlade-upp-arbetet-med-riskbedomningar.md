@@ -6,8 +6,10 @@ original_id: 52633
 slug: de-vaxlade-upp-arbetet-med-riskbedomningar
 image: "/content/images/2000x1000-nygardsskolan-foto-bjorn-Larsson-Rosvall-tt.jpg"
 image_caption: På skolan agerade man snabbt när coronasmittan ökade igen. Rektor Marie Ahlén och skyddsombudet IdaLouise Wichmann har börjat träffas varje vecka för att gå igenom och följa upp riskbedömningar.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

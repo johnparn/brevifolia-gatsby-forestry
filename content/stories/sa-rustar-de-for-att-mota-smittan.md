@@ -6,8 +6,10 @@ original_id: 46342
 slug: sa-rustar-de-for-att-mota-smittan
 image: "/content/images/2000x1000-carina-jallrud-monika-rivas2-foto-pontus-lundahl.jpg"
 image_caption: På äldreboendet Sandelska huset har ingen boende ännu fått covid-19. Under tiden förbereder de sig. Det har gjort oron hanterbar, menar verksamhetschefen Carina Jällrud, här med medarbetaren Monika Rivas.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Michael Nyhaga
 ---
 

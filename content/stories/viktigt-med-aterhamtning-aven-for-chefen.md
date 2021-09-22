@@ -6,8 +6,10 @@ original_id: 57865
 slug: viktigt-med-aterhamtning-aven-for-chefen
 image: "/content/images/2000x1000-resiliens-foto-depiction-johner.jpg"
 image_caption: Vårdpersonal har haft en tuff tid och behöver återhämtning nu. Det gäller både chefer och medarbetare. Utrymme för reflektion kan vara ett av flera sätt att orka.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

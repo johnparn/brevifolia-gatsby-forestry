@@ -6,8 +6,10 @@ original_id: 53516
 slug: de-screenar-personalen-med-forsvarets-metod
 image: "/content/images/2000x1000-hakan-kalzen-foto-Pontus-Lundahl-tt.jpg"
 image_caption: På intensivvårdsmottagningen är pandemitopparna utmattande för personalen. Därför har de blivit screenade för psykisk ohälsa, berättar enhetschef Håkan Kalzén.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

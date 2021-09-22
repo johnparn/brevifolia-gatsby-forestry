@@ -6,8 +6,10 @@ original_id: 46041
 slug: forskolorna-tog-in-en-arbetsmiljosamordnare
 image: "/content/images/2000x1000-vivalla-forskolor-3.jpg"
 image_caption: I Vivalla gick fyra rektorer ihop och anställde en arbetsmiljösamordnare. Och resultaten har varit tydliga, säger skyddsombudet Pia Rizell, rektorn Anna Lundqvist och arbetsmiljösamordnaren Mikael Axelsson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

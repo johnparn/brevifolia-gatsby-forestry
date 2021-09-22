@@ -6,8 +6,10 @@ original_id: 50867
 slug: sa-far-ni-en-foretagshalsa-som-fyller-behoven
 image: "/content/images/2000x1000-foretagsalsovard-foto-Scandinav-TT.jpg"
 image_caption: Dialog och samverkan redan från start vid upphandling av företagshälsovård. Det är receptet för att få en företagshälsovård som fyller behoven, stöttar och arbetar förebyggande.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

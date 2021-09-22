@@ -6,8 +6,10 @@ original_id: 49471
 slug: digitala-moten-som-fungerar-for-alla
 image: "/content/images/2000x1000-tillgangliga-digitala-moten-foto-ulf-palm-tt.jpg"
 image_caption: Möten för alla. Tillgängliga digitala möten handlar inte bara om fungerande teknik utan också om ordning och reda, med till exempel information i god tid, tydlig agenda och en mötesordning som alla håller sig till.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

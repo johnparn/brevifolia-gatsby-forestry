@@ -6,8 +6,10 @@ original_id: 58634
 slug: sa-kommer-de-igang-med-friskfaktorer
 image: "/content/images/2000x1000-Elin-Broling-foto-Pavel-Koubek.jpg"
 image_caption: Tandsköterskan Elin Broling på Folktandvården i Örebro rengör en lampa i undersökningsrummet. Nu tar hennes arbetsgivare hjälp av Suntarbetslivs resursteam för att sänka sjukfrånvaron i organisationen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

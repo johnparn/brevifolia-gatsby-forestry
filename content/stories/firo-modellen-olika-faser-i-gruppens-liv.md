@@ -6,8 +6,10 @@ original_id: 15752
 slug: firo-modellen-olika-faser-i-gruppens-liv
 image: "/content/images/2000x1000-firo-modellen-foto-johner-1.jpg"
 image_caption: FIRO-modellen används ofta på arbetsplatser för att skapa väl fungerande arbetsgrupper. Den kan synliggöra hur samspelet i gruppen fungerar.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

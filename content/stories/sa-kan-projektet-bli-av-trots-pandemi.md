@@ -6,8 +6,10 @@ original_id: 46384
 slug: sa-kan-projektet-bli-av-trots-pandemi
 image: "/content/images/2000x1000-tranemo-foro-johanna-sander-svenljunga-kommun.jpg"
 image_caption: Promenadmöte. I Thilanderska parken i Svenljunga möts Madde Lind, Karin Rehnström och Ulla Lundberg. De är engagerade i MedKänsla, ett projekt som på kort tid ställt om till digitalt genomförande i första hand.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

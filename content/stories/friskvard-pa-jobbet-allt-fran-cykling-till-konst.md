@@ -6,8 +6,10 @@ original_id: 51798
 slug: friskvard-pa-jobbet-allt-fran-cykling-till-konst
 image: "/content/images/1400x700px-cykelbild-foto-andreas-juhl.jpg"
 image_caption: De tar cykeln till jobbet! Claes Ågren, Karolina Miller och Örjan Molander på Kalmar Läns museum är alla nöjda med friskvårdssatsningen på sin arbetsplats, nära kajen i Kalmar.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

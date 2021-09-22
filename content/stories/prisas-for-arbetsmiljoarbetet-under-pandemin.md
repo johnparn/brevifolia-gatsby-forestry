@@ -6,8 +6,10 @@ original_id: 55802
 slug: prisas-for-arbetsmiljoarbetet-under-pandemin
 image: "/content/images/2000x1000-solrosenpriset-foto-Pavel-Koubek.jpg"
 image_caption: Judith Jacobson och Milena Sundstedt tror att det är klinikens lagkänsla som har gjort att de har vunnit arbetsmiljöpriset Solrosen. "Vi är olika avdelningar, men ett team", säger Judith Jacobson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

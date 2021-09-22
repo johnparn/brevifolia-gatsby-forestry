@@ -6,8 +6,10 @@ original_id: 51838
 slug: viktigt-uppdrag-vid-livets-slut
 image: "/content/images/2000x1000-jennifer-johansson-axen-ingela-karlsson-foto-anna-rehnberg.jpg"
 image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat med nystrukna lakan och ordnat med ljus och blommor.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

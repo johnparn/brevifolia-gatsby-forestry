@@ -6,8 +6,10 @@ original_id: 46479
 slug: snabbvag-in-i-vard-och-omsorgsyrken
 image: "/content/images/2000x1000-snabbutbildning-foto-maskot-tt.jpg"
 image_caption: Omsorg i coronatid. Nu finns en snabbutbildning för ny personal inom vård och omsorg, skapad av Socialstyrelsen och stiftelsen Ersta Sköndal Bräcke högskola tillsammans.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

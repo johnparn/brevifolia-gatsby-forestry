@@ -6,8 +6,10 @@ original_id: 58785
 slug: sa-jobbar-vannas-for-respektfullt-bemotande
 image: "/content/images/krankande-sarbehandling-vannas-foto-sandra-lundberg-lupin-foto_Red_2000x1000.jpg"
 image_caption: I Vännäs arbetar kommunen aktivt mot kränkande särbehandling, bland annat genom att trycka upp informationsblad med tydliga riktlinjer. Det berättar Karin Eriksson och Elena Jakobsson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

@@ -6,8 +6,10 @@ original_id: 59101
 slug: sa-stottar-de-utlanad-covid-personal
 image: "/content/images/avlastning-vardpersonal-foto-kent-eng_Red_2000x1000.jpg"
 image_caption: Skönt att vara tillbaka från arbetet på IVA, men bra att få stöd för att komma in i gruppen igen. Ambulansenhetens chef Karin Salomonsson har stöttat utlånade ambulanssjuksköterskan Pernilla Lundahl.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Marika Sivertsson
 ---
 

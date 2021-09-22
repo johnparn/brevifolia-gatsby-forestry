@@ -6,8 +6,10 @@ original_id: 47967
 slug: reflektionsstod-svetsar-samman-gruppen
 image: "/content/images/2000x1000-reflektionsmall.jpg"
 image_caption: När avdelning 27 gjordes om till pandemiavdelning behövde man ett sätt att svetsa samman gruppen. Då blev reflektionsstödet ett viktigt verktyg, berättar Lina Hansson och Elisabet Carlgren.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

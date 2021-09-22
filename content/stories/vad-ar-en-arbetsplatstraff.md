@@ -6,8 +6,10 @@ original_id: 53443
 slug: vad-ar-en-arbetsplatstraff
 image: "/content/images/2000x1000-vad-ar-arbetsplatstraff-foto-maskot-TT.jpg"
 image_caption: Dialogen har huvudrollen på arbetsplatsträffen. Förbered er genom att se till att rätt personer deltar, rätt frågor tas upp – och att alla hänger med och kommer till tals.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

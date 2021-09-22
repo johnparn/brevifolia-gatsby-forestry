@@ -6,8 +6,10 @@ original_id: 15766
 slug: vad-ar-rehabilitering
 image: "/content/images/2000x1000-vad-ar-rehab-foto-maskot-tt.jpg"
 image_caption: Forskning visar att det finns ett tydligt samband mellan friska arbetsplatser, och ett aktivt arbete med arbetsanpassning och rehabilitering.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

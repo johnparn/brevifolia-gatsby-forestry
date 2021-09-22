@@ -6,8 +6,10 @@ original_id: 54052
 slug: sa-skyddar-de-sina-aldre-mot-corona
 image: "/content/images/2000x1000-nadia-axelsson-maria-lundin2-foto-anna-rehnberg.jpg"
 image_caption: Handsprit och smittspårningslista för besökare - några sätt att begränsa smittan på Tre Stiftelser. Lika viktigt är att utbilda och informera personalen, berättar cheferna Maria Lundin och Nadia Axelsson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

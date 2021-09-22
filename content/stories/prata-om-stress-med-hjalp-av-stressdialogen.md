@@ -6,8 +6,10 @@ original_id: 47588
 slug: prata-om-stress-med-hjalp-av-stressdialogen
 image: "/content/images/2000x1000-Stressdialogen-2.jpg"
 image_caption: Stress på arbetsplatsen ses ofta som ett individproblem. I Stressdialogen får arbetsgruppen istället fokusera på hur de tillsammans kan förebygga stress genom att ändra på hur arbetet organiseras.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

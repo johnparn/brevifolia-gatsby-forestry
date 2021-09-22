@@ -6,8 +6,10 @@ original_id: 56793
 slug: chefoskopet-visar-vagen-till-forandring-i-umea
 image: "/content/images/2000x1000-jenny-haggstrom2-foto-erik-abel.jpg"
 image_caption: Enhetschefen Jenny Häggström är en av äldreomsorgens stöttepelare i Umeå. Nu får hon och de andra enhetscheferna en bättre arbetsmiljö. Förändringen sker med stöd av Chefoskopet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

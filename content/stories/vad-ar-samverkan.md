@@ -6,8 +6,10 @@ original_id: 59204
 slug: vad-ar-samverkan
 image: "/content/images/masma65349_Red_2000x1000.jpg"
 image_caption: Samverkan börjar i dialogen mellan medarbetare och chef. Även arbetsplatsträffarna är en del av samverkan. Målet är att få till en god arbetsmiljö och verksamhet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

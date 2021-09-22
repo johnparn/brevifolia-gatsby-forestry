@@ -6,8 +6,10 @@ original_id: 53100
 slug: hon-hjalper-chefer-stotta-mot-vald-i-hemmet
 image: "/content/images/2000x1000-gerd-eriksson-holmgren-foto-joachim-nywall-tt.jpg"
 image_caption: Eldsjäl. Gerd Eriksson Holmgren är chef för enheten mot våld i nära relationer i Trollhättans stad. Enheten stöttar bland annat kommunens chefer att hjälpa medarbetare som utsätts för våld hemma.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Birgita Klepke
 ---
 

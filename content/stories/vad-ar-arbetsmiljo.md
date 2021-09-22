@@ -6,8 +6,10 @@ original_id: 55869
 slug: vad-ar-arbetsmiljo
 image: "/content/images/2000x1000-vad-ar-arbetsmiljo-foto-johner.jpg"
 image_caption: En bra arbetsmiljö kan vara att ha en rimlig arbetsbelastning, tillräcklig återhämtning mellan arbetspassen, och en god samtalston mellan varandra på arbetsplatsen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

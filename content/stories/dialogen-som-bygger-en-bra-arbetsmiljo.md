@@ -6,8 +6,10 @@ original_id: 59147
 slug: dialogen-som-bygger-en-bra-arbetsmiljo
 image: "/content/images/JNX7451_Red_2000x1000.jpg"
 image_caption: Skyddsombud och chef som samverkar. Jenny Nilbecker och Staffan Olsson arbetar på Ölycke korttidsboende i Eslöv, och strävar efter att samverka varje vecka. Samverkansavtalet ger hjälp på traven.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

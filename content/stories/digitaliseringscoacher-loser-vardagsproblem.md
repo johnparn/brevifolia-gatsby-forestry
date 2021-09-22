@@ -6,8 +6,10 @@ original_id: 48845
 slug: digitaliseringscoacher-loser-vardagsproblem
 image: "/content/images/2000x1000-pernilla-boraie-foto-tt.jpg"
 image_caption: Pernilla Boraie är, förutom undersköterska, också digitaliseringscoach. Hon har drivit en mini-pilot, med digitala lås på dörrarna till tvättstugan i ett äldreboende. Låsen öppnas nyckelfritt med mobiltelefonen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

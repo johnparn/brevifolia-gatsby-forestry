@@ -6,8 +6,10 @@ original_id: 46581
 slug: en-kansla-av-sammanhang-i-stromsund
 image: "/content/images/2000x1000-jennie-andersson-monica-asen-thomas-sandberg-perry-ekholm-foto-anneli-asen-carlsson.jpg"
 image_caption: Arbetsplatsträff i skolan. Meningsfulla arbetsplatsträffar är ett av målen med projektet Kasam 2.0 i Strömsund. På bild lärarna Jennie Andersson, Monica Åsén, Thomas Sandberg och Perry Ekholm.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Margareta Edling
 ---
 

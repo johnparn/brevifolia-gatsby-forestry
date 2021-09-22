@@ -6,8 +6,10 @@ original_id: 54909
 slug: har-ger-friskfaktorer-battre-arbetsmiljo
 image: "/content/images/2000x1000-ingela-lundstrom-foto-erik-abel.jpg"
 image_caption: Sjuksköterskorna Tobias Ångqvist och Dennis Kallin är på väg till sina patienter inom äldreomsorgen i Umeå. Deras chef Ingela Lundström har med hjälp av Suntarbetslivs resursteam fått mer kunskaper om hur hon kan vara närvarande som chef.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

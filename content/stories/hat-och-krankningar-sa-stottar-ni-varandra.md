@@ -6,8 +6,10 @@ original_id: 56417
 slug: hat-och-krankningar-sa-stottar-ni-varandra
 image: "/content/images/2000x1000-hat-och-krankningar-prata-foto-johner.jpg"
 image_caption: Blir ni utsatta för hat och kränkningar på jobbet? Ta det på allvar – prata med varandra, men kom ihåg att alla är olika och människor kan reagera på olika sätt vid konfliktfyllda situationer.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

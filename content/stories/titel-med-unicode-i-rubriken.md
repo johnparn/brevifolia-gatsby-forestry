@@ -1,7 +1,9 @@
 ---
 
-friskfaktorer:
-activity: Rättvis
+friskfaktorer: ''
+activity: ''
+articles_teasers_2: []
+article-teasers-list: [] Rättvis
 content_type: article
 title: "Titel med unicode i rubriken \U0001F600"
 image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"

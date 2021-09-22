@@ -6,8 +6,10 @@ original_id: 46004
 slug: rad-till-skyddsombud-pa-distans
 image: "/content/images/2000x1000-skyddsombud-pa-distans-foto-pontus-lundahl-tt.jpg"
 image_caption: Håll kontakten. Risken för smittspridning gör att många skyddsombud, chefer och arbetskamrater arbetar på olika platser utan att träffas. Arbetsmiljöarbetet kan rulla på ändå, och arbetsplatsträffarna köras digitalt.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

@@ -6,8 +6,10 @@ original_id: 55508
 slug: roboten-matilda-jarndotter-fixar-bokforingen
 image: "/content/images/2000x1000-madeleine-nilsson-christel-rehmark.jpg"
 image_caption: Arbetsplatsträffar, studiebesök hos andra och många samtal med Halmstads kommuns IT-avdelning — så tog de fram roboten Matilda Järndotter, berättar Madeleine Nilsson och hennes chef Christel Rehmark.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Teres Hallman
 ---
 

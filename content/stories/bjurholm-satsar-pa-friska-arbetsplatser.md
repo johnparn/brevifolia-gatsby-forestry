@@ -6,8 +6,10 @@ original_id: 57713
 slug: bjurholm-satsar-pa-friska-arbetsplatser
 image: "/content/images/2000x1000-bjurholm-gunilla-falk-helena-eriksson-foto-evelina-ronnback.jpg"
 image_caption: Sätter fart på friskfaktorer. Rektorn Gunilla Falk och skyddsombudet Helena Eriksson på Castorskolan i Bjurholm har i samverkan börjat införa friskfaktorer för att främja hälsa och förebygga ohälsa.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

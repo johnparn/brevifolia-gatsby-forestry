@@ -6,8 +6,10 @@ original_id: 49676
 slug: fa-en-battre-arbetsplats-med-forskning-pa-5
 image: "/content/images/2000x1000-forskning-pa-5.jpg"
 image_caption: Med hjälp av Forskning på 5 kan man på arbetsplatser snabbt och lätt ta del av det viktigaste från forskningen om arbetsmiljö - bland annat om teamets betydelse.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

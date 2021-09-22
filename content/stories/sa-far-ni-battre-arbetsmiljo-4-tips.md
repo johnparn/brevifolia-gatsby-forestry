@@ -6,8 +6,10 @@ original_id: 56845
 slug: sa-far-ni-battre-arbetsmiljo-4-tips
 image: "/content/images/2000x1000-fyra-tips-for-bra-arbetsmiljo-foto-johner.jpg"
 image_caption: Alla på jobbet har en viktig roll för att skapa en bra arbetsmiljö, men chefer och skyddsombud har ett särskilt ansvar. Arbetsmiljöutbildningen ger dem en gemensam bas för ett bra arbetsmiljöarbete.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

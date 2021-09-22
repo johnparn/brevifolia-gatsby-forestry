@@ -6,8 +6,10 @@ original_id: 45888
 slug: distansundervisning-sa-gjorde-celsiusskolan
 image: "/content/images/2000x1000-isabelle-mattlar2-foto-pontus-lundahl-tt.jpg"
 image_caption: Distansundervisning är inget nytt för läraren Isabelle Mattlar och hennes kollegor på idrottsgymnasiet Celsiusskolan. Så när Coronaviruset slog till och skolan stängdes fanns en beredskap för att arbeta digitalt.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Michael Nyhaga
 ---
 

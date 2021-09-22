@@ -6,8 +6,10 @@ original_id: 56909
 slug: tryggare-pa-jobbet-med-kollegial-handledning
 image: "/content/images/2000x1000-helsingborg-foto-johan-nilsson-tt-1.jpg"
 image_caption: Ewa Albertsson, Ulf Envall och David Schutsander är nöjda med den kollegiala handledningen i Helsingborg. De har blivit öppnare och har delat värdefulla erfarenheter med varandra, berättar de.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

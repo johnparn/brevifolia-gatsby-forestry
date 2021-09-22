@@ -7,8 +7,10 @@ slug: nu-tackar-jag-inte-nej-till-att-traffa-vanner
 image: "/content/images/2000x1000-marika-holmefalk-foto-bjorn-larsson-roswall-tt.jpg"
 image_caption: Jag fick nya kunskaper om återhämtning och hur viktigt det faktiskt är, säger Marika Holmefalk , ny i yrket som sjuksköterska, om kursen hon gått som bygger på ny forskning.
 
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Teres Hallman
 ---
 

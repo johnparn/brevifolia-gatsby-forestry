@@ -6,8 +6,10 @@ original_id: 55163
 slug: forskolan-blomstrar-med-hjalp-av-friskfaktorer
 image: "/content/images/2000x1000-svedala-foto-johan-nilsson-tt.jpg"
 image_caption: Hälsoinspiratören Lotta Nilsson och rektor Annika Aveling på Klöverstugans förskola i Svedala samarbetar mycket kring friskfaktorer. De är överens om att delaktighet är viktigt för att få medarbetarna att trivas.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 
@@ -45,8 +47,10 @@ Arbetet med hälsoinspiratörer är en del av ett stort och systematiskt arbetsm
 
 De började med två enkätundersökningar. En ”vanlig” medarbetarundersökning, och en som utgick ifrån friskfaktorerna. De använde också friskfaktorerna för att analysera resultatet.
 
-– På en arbetsplatsträff tog vi upp de områden som vi var bäst på. Vi kom fram till att det har att göra med två friskfaktorer:
-activity: delaktighet och en transparent organisation.
+– På en arbetsplatsträff tog vi upp de områden som vi var bäst på. Vi kom fram till att det har att göra med två friskfaktorer: ''
+activity: ''
+articles_teasers_2: []
+article-teasers-list: [] delaktighet och en transparent organisation.
 
 ### Delaktighet och transparens
 

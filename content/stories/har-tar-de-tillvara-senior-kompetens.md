@@ -6,8 +6,10 @@ original_id: 57813
 slug: har-tar-de-tillvara-senior-kompetens
 image: "/content/images/2000x1000-mikaela-siver-eva-axelsson-foto-kent-eng.jpg"
 image_caption: Skönt med stöd från en erfaren kollega. Mikaela Siver, sittande, provar synen på en patient på ögonmottagningen vid Uddevalla sjukhus. Mentorn Eva Axelsson stöttar.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Teres Hallman
 ---
 

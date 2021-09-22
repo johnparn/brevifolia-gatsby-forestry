@@ -6,8 +6,10 @@ original_id: 48979
 slug: sa-vassade-hassleholm-sin-samverkan
 image: "/content/images/2000x1000-kristina-rauer-marie-soderqvist2-foto-rickard-nilsson-tt.jpg"
 image_caption: Utvecklar samverkan tillsammans. Kristina Rauer, Lärarförbundet och personalchefen Marie Söderqvist har varit med och tagit fram nya stöd för samverkansgrupperna i Hässleholm.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Margareta Edling
 ---
 

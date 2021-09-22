@@ -6,8 +6,10 @@ original_id: 46638
 slug: ny-vardutbildning-togs-fram-pa-tre-veckor
 image: "/content/images/2000x1000-snabbutbildning-magnus-foto-kalle-tt.jpg"
 image_caption: Snabbutbildning. Magnus Björk, enhetschef på Socialförvaltningen, pratar med de första eleverna på region Gotlands nya snabbutbildning för personal till vård och omsorg.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

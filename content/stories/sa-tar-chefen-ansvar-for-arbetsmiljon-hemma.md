@@ -6,8 +6,10 @@ original_id: 52762
 slug: sa-tar-chefen-ansvar-for-arbetsmiljon-hemma
 image: "/content/images/2000x1000-chefens-arbetsmiljoansvar-foto-Maskot-TT.jpg"
 image_caption: Med samarbete och dialog lägger chefen grunden till bra arbetsmiljö vid hemarbete. Men det ska också vara lätt för chefen att hitta riktlinjer och stöd i uppdraget. Där kan till exempel HR hjälpa till.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

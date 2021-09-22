@@ -6,8 +6,10 @@ original_id: 59040
 slug: mer-dialog-pa-arbetsplatstraffen
 image: "/content/images/apt-med-dialog-foto-johner_Red_2000x1000.jpg"
 image_caption: Arbetplatsträffar där alla medarbetare kommer till tals och där dialogen hålls levande; det är målet för de flesta arbetsplatser som har APT. Tyvärr ser inte verkligheten ut så överallt – men det går att förändra!
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

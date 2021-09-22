@@ -6,8 +6,10 @@ original_id: 52724
 slug: mira-fick-orken-tillbaka-pa-grona-rehab
 image: "/content/images/2000x1000-Mira-Vanhatapio1-foto-anna-rehnberg.jpg"
 image_caption: Rehabilitering i eget tempo. Mira Vanhatapio har fått hjälp att läka i sin egen takt, med stöd av den rofyllda miljön i Gröna Rehabs trädgård och skogen intill. Snart tar hon sina första steg tillbaka till arbetslivet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

@@ -6,8 +6,10 @@ original_id: 53380
 slug: filmer-ska-starka-samverkan-i-lycksele
 image: "/content/images/2000x1000-lycksele-samverkan-foto-andreas-jakobsson-3fabriken.jpg"
 image_caption: Lyckseles manusförfattare. Från vänster Maria Öberg, HR-specialist, Charlie Persson, Vision, Helena Lindblom, HR-administratör, Camilla Persson, HR-specialist, Shara Sjögren, HR-chef, Erika Hasselvik, Kommunal och Lena Axelsson Westergren, Lärarförbundet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

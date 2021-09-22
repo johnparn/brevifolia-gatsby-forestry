@@ -6,8 +6,10 @@ original_id: 48393
 slug: samverkan-gav-svalare-somrar-pa-boenden
 image: "/content/images/1400x700_varme-och-aldreboenden.jpg"
 image_caption: När äldreboenden i Vänersborg skulle byggas om önskade personalen inneslutna gårdar, så att boende kan gå in och ut som de vill. Pernilla Leckström och Jarmo Lahtinen är väldigt nöjda med processen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

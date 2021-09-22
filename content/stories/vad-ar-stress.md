@@ -6,8 +6,10 @@ original_id: 15751
 slug: vad-ar-stress
 image: "/content/images/2000x1000-vad-ar-stress-foto-maskot.jpg"
 image_caption: Måna om din återhämtning! Att ha tid för återhämtning, och ha en balans mellan krav och kontroll på jobbet  - det är faktorer som minskar stressen, visar forskning.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

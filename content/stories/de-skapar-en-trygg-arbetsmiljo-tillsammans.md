@@ -6,8 +6,10 @@ original_id: 56477
 slug: de-skapar-en-trygg-arbetsmiljo-tillsammans
 image: "/content/images/2000x1000-eskilstuna-2-foto-Fredrik-Sandberg-TT.jpg"
 image_caption: Eskilstuna kommun är mitt i ett stort projekt för att förebygga hot och våld. Caroline Andersson och Jessica Andersson på ekonomiskt bistånd berättar att alla arbetar tillsammans för att förebygga problemet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

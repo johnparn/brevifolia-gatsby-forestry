@@ -6,8 +6,10 @@ original_id: 51024
 slug: sa-forebygger-forskolan-smitta-och-konflikter
 image: "/content/images/2000x1000-hallongardens-forskola-foto-Pavel-Koubek-TT.jpg"
 image_caption: På förskolan Hallongården har man kunnat behålla goda relationer med föräldrar, även när man behövt skicka hem snuviga barn. Att kunna föräldrarnas språk hjälper mycket, säger förskolläraren Idil Maxamed.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

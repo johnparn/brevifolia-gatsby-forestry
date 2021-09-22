@@ -6,8 +6,10 @@ original_id: 58065
 slug: tips-for-trygg-atergang-efter-pandemin
 image: "/content/images/2000x1000-eskilstuna-biblioteksbuss-foto-jonas-bilberg.jpg"
 image_caption: Tryggt i bokbussen. Skyddsombudet Anna Palm Kåberg och bibliotekschefen Birgitta Edvardsson har gjort täta riskbedömningar under corona. Nu har de nya checklistor och frågor att använda i samverkan.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

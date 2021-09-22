@@ -6,8 +6,10 @@ original_id: 47300
 slug: bildspel-och-talarstod-pa-arbetsplatstraffarna
 image: "/content/images/2000x1000-josefine-lindell-foto-bjorn-larsson-rosvall-tt.jpg"
 image_caption: APT-kit ger kunskap om arbetsmiljö och samverkan, och lägger grunden till engagemang hos medarbetarna. Det tycker Josefine Lindell, förskolechef för tre förskolor i Nässjö, som använder kiten ofta.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

@@ -6,8 +6,10 @@ original_id: 55351
 slug: digital-arbetsmiljoutbildning-har-ar-receptet
 image: "/content/images/2000x1000-daniel-carlsson-regionhalsan-foto-mats-andersson.jpg"
 image_caption: Enklare än man kan tro. I Region Västernorrland har Daniel Carlsson på Regionhälsan och en kollega gjort små digitala anpassningar av Suntarbetslivs arbetsmiljöutbildning.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

@@ -6,8 +6,10 @@ original_id: 50120
 slug: det-handlar-om-delaktighet-pa-riktigt
 image: "/content/images/2000x1000-strangnas-skola-foto-Pontus-lundah.jpg"
 image_caption: Förändringar måste komma från medarbetarna själva, och inte från ledningen. Det säger Carina Tinker, Anna Lindgren och Daniel Nygren Hårdstedt på Finningeskolan.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

@@ -6,8 +6,10 @@ original_id: 46163
 slug: corona-sa-kan-foretagshalsan-hjalpa-till
 image: "/content/images/2000x1000-foretagshalsan-foto-rolf-hojer-tt.jpg"
 image_caption: Bibliotekspersonal är en av många yrkesgrupper som kan ha frågor, känna oro och behöva lära sig mer om hur de kan minska smittspridning. Då kan företagshälsan rycka in med strategiskt stöd.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

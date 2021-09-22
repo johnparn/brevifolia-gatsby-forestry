@@ -6,8 +6,10 @@ original_id: 57335
 slug: nya-foreskrifter-om-arbetsanpassning
 image: "/content/images/2000x1000-nya-foreskrifter-arbetsanpassning-foto-johner.jpg"
 image_caption: Arbetsanpassning kan bestå av många olika saker. Korta pauser, ett anpassat schema, tekniska hjälpmedel är några av dem. Ta hjälp av Suntarbetslivs verktyg Prehabguiden för att få tips och stöd för anpassning!
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

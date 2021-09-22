@@ -6,8 +6,10 @@ original_id: 45684
 slug: sma-team-i-hemtjansten-kan-minska-smitta
 image: "/content/images/2000x1000-krister-wessman-jessica-karlsson-foto-stefan-jerrevang.jpg"
 image_caption: Hjälps åt att förhindra smittspridning i Västervik. Huvudskyddsombudet Krister Wessman och undersköterskan Jessica Karlsson fyller hemtjänstteamets bil med handsprit, tossor och handskar.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

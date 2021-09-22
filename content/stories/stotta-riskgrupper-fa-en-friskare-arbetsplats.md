@@ -6,8 +6,10 @@ original_id: 56331
 slug: stotta-riskgrupper-fa-en-friskare-arbetsplats
 image: "/content/images/2000x1000-jobba-med-sjukfranvaro-foto-johner.jpg"
 image_caption: Ett sätt att motverka sjukskrivningar är att stötta arbetsplatser med många korttidssjukskrivna. HR kan gå in och kartlägga arbetsmiljön - genom till exempel intervjuer - för att hitta riskfaktorer att arbeta vidare med.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

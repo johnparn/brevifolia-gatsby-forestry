@@ -6,8 +6,10 @@ original_id: 53814
 slug: sa-matte-de-sin-oro-och-gjorde-nagot-at-den
 image: "/content/images/2000x1000-hanna-back-mohamed-sadik-foto-jessica-gow-tt.jpg"
 image_caption: De mätte oron för coronasmitta och dess konsekvenser på sin arbetsplats. Nu samarbetar enhetschefen Hanna Bäck och skyddsombudet Mohamed-Bile Sadik, för att hitta lösningarna.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

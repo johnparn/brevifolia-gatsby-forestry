@@ -6,8 +6,10 @@ original_id: 15741
 slug: vad-ar-systematiskt-arbetsmiljoarbete
 image: "/content/images/2000x1000-vad-ar-sam-foto-kristofer-samuelsson.jpg"
 image_caption: Systematiskt arbetsmiljöarbete, SAM, handlar om att tillsammans undersöka arbetsmiljön och bedöma riskerna. När riskerna är åtgärdade börjar arbetet om igen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

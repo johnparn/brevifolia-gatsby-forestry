@@ -6,8 +6,10 @@ original_id: 50354
 slug: samsyn-gor-det-lattare-att-vara-rektor
 image: "/content/images/2000x1000-thomas-stenseke-larsson-linda-davidsson-foto-bjorn-larsson-rosvall.jpg"
 image_caption: Rektorsteam. Thomas Stenseke Larsson och Linda Davidsson är rektorer på Gullhögskolan i Vårgårda. Med stöd av Chefoskopet har de fått bättre organisatoriska förutsättningar att leda sin skola.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

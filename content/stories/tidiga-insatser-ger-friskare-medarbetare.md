@@ -6,8 +6,10 @@ original_id: 56262
 slug: tidiga-insatser-ger-friskare-medarbetare
 image: "/content/images/2000x1000-forskola-botkyrka-2-foto-janerik-henriksson-tt.jpg"
 image_caption: Therese Ekman, rektor på Örtagårdens förskola i Botkyrka, har fått hjälp av kommunens chefsstöd för att kartlägga förskolans arbetsmiljö och förebygga sjukfrånvaro. "Jättelyxigt", tycker hon om stödet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

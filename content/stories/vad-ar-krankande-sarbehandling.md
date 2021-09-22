@@ -6,8 +6,10 @@ original_id: 57968
 slug: vad-ar-krankande-sarbehandling
 image: "/content/images/2000x1000-vad-ar-krankande-sarbehandling-foto-johner.jpg"
 image_caption: Kränkande särbehandling på arbetsplatsen kan skapa ohälsa hos individer och påverka hela arbetsplatsen. Förebygg genom at ha en bra arbetsmiljö med till exempel tydliga roller och inte för hög arbetsbelastning.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Jeanette Neij
 ---
 

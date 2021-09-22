@@ -6,8 +6,10 @@ original_id: 58682
 slug: har-leder-underskoterskorna-arbetet
 image: "/content/images/2000x1000-marie-louise-jonsson-lotta-martensson-ann-christin-eriksson-foto2-anna-rehnberg.jpg"
 image_caption: Inflytande skapar trygghet, menar skyddsombudet Marie-Louise Jonsson på äldreboendet Strandgården. Lotta Mårtensson, i mitten, är samordnare på sin avdelning.  Systemet avlastar också chefen Ann-Christin Eriksson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

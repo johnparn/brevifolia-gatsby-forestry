@@ -6,8 +6,10 @@ original_id: 54140
 slug: iva-sa-gor-de-for-att-orka-genom-pandemin
 image: "/content/images/2000x1000-wiveca-lind-lisa-hassel-foto-johan-nilsson-tt.jpg"
 image_caption: De har valt att stanna. Avdelningschefen Wiveca Lind och skyddsombudet Lisa Hassel på IVA i Helsingborg har samarbetat genom hela pandemin för att skapa en rimlig arbetsmiljö för personalen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Birgita Klepke
 ---
 

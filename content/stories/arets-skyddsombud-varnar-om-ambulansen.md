@@ -6,8 +6,10 @@ original_id: 53425
 slug: arets-skyddsombud-varnar-om-ambulansen
 image: "/content/images/2000x1000-marie-johansson-ambulansen-foto-johan-nilsson-tt-1.jpg"
 image_caption: Gå en gemensam arbetsmiljöutbildning, jobba strukturerat med stöd av årshjul och gör täta risk- och konsekvensanalyser, tipsar Marie Johansson. Hon är årets skyddsombud i Vårdförbundet Skåne.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

@@ -6,8 +6,10 @@ original_id: 52213
 slug: anpassa-arbetet-med-prehabguiden
 image: "/content/images/2000x1000-prehab-lansering-foto-kristofer-samuelsson.jpg"
 image_caption: Suntarbetslivs verktyg Prehabguiden innehåller vägledning för arbetsanpassning och rehabilitering på arbetsplatsen. Här finns bland annat stöd för en dialog i arbetsgruppen, om synen på hälsa och ohälsa.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

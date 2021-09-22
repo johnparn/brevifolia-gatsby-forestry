@@ -6,8 +6,10 @@ original_id: 57688
 slug: coronasakra-jobbet-for-gravida
 image: "/content/images/2000x1000-gravid-stod-foto-maria-annas-tt.jpg"
 image_caption: Har ni en medarbetare som är gravid och som riskerar att smittas av corona i jobbet? Då kan det vara läge att omplacera till andra arbetsuppgifter. På Suntarbetsliv finns det ett nytt dialogstöd som kan hjälpa till!
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

@@ -6,8 +6,10 @@ original_id: 49754
 slug: digitalt-gilla-jobbet-har-fokus-pa-corona
 image: "/content/images/2000x1000-gilla-jobbet-blir-digitalt-foto-maskot-tt.jpg"
 image_caption: Coronapandemin hösten 2020 sätter stopp för större samlingar av människor. Därför har arrangörerna gjort om Gilla Jobbet till ett digitalt webbinarium. Missa inte direktsändningen den 3 november!
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Åsa Hammar
 ---
 

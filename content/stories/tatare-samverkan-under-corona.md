@@ -6,8 +6,10 @@ original_id: 47392
 slug: tatare-samverkan-under-corona
 image: "/content/images/2000x1000-pernilla-widholm-jolgard-foto-bjorn-larsson-rosvall.jpg"
 image_caption: Har koll på skyddsutrustning. Distriktssköterskan Pernilla Widholm Jolgård, Vårdförbundet, arbetar i hemsjukvården när hon inte har facklig tid och samverkar. Här är deras förråd med skyddsutrustning.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

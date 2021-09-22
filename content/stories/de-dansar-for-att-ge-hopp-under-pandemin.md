@@ -6,8 +6,10 @@ original_id: 54160
 slug: de-dansar-for-att-ge-hopp-under-pandemin
 image: "/content/images/2000x1000-vardcentral-va-jerusalema-2.jpg"
 image_caption: Glädjespridare. Vårdcentralen i Vä är en av många arbetsplatser som hakat på trenden att göra en egen dansvideo till en sydafrikansk låt. Dans och musik ger återhämtning, säger vårdcentralens hälsoinspiratör.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

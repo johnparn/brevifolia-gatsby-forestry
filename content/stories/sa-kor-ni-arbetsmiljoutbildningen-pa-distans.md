@@ -6,8 +6,10 @@ original_id: 50685
 slug: sa-kor-ni-arbetsmiljoutbildningen-pa-distans
 image: "/content/images/2000x1000-arbetsmiljoutbildning-foto-TT-maskot.jpg"
 image_caption: Suntarbetslivs arbetsmiljöutbildning går bra att genomföra på distans. Det är också ett sätt att stödja och hålla igång det systematiska arbetsmiljöarbetet under coronapandemin.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

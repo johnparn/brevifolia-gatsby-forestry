@@ -6,8 +6,10 @@ original_id: 51094
 slug: sa-ska-sjuktalen-ned-i-tre-kommuner
 image: "/content/images/2000x1000-vindeln-therese-berg-foto-maria-hoglund-vindeln.jpg"
 image_caption: Vindelns kommundirektör Therese Berg och kommunstyrelsens ordförande Mathias Haglund står helhjärtat bakom satsningen på att införa friskfaktorer. Här är de på promenad med företagslotsen Angelica Johansson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

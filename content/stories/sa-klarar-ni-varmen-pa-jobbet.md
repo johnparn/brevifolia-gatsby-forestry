@@ -6,8 +6,10 @@ original_id: 58194
 slug: sa-klarar-ni-varmen-pa-jobbet
 image: "/content/images/2000x1000-varme-pa-jobbet-foto-Depiction-AB-johner.jpg"
 image_caption: När sommaren är här gäller det att se upp för värmen på jobbet - speciellt för dem som arbetar i varma lokaler eller i skyddsutrustning. Försök att ta pauser innan du har blivit alltför varm, är ett tips från forskare.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

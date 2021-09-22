@@ -6,8 +6,10 @@ original_id: 51328
 slug: luleas-forskolor-satsar-pa-sina-aldre-anstallda
 image: "/content/images/2000x1000-asa-koren-ann-margreth-brandell-foto-susanne-lindholm-tt.jpg"
 image_caption: På förskolan Gnistan satsar de på IT-kompetens för både barn och vuxna. I Ipad-baren får de allra yngsta välja musik med hjälp av QR-koder. Ann-Margreth Brandell, IT-ansvarig (till höger), visar rektor Åsa Korén.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Teres Hallman
 ---
 

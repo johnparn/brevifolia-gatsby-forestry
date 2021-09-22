@@ -6,8 +6,10 @@ original_id: 45973
 slug: tid-for-samtal-i-stromsund
 image: "/content/images/2000x1000-Maria-Roos-Lotta-Wilhelmsson-Laila-Sandqvist-Camilla-Odelberg-Anneli-Palsson-apt1-foto.jpg"
 image_caption: Tid för samtal. Grevåkerskolan i Hammerdal utvecklar sina arbetsplatsträffar som en del av projektet Kasam 2.0. Från vänster lärarna Maria Roos, Lotta Wilhelmsson, Laila Sandqvist, Camilla Odelberg, Anneli Pålsson.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Margareta Edling
 ---
 

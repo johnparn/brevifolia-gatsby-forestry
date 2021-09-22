@@ -6,8 +6,10 @@ original_id: 56079
 slug: vad-ar-ett-skyddsombud
 image: "/content/images/2000x1000-vad-ar-ett-skyddsombud-foto-maskot-johner-bildbyra.jpg"
 image_caption: Skyddsombudet är medarbetarnas representant i frågor om arbetsmiljö. Arbetsplatsträffen och personalmötet är bra tillfällen att prata om arbetsmiljön, det är en fråga som genomsyrar det mesta.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

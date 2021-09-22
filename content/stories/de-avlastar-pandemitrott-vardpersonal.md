@@ -6,8 +6,10 @@ original_id: 59064
 slug: de-avlastar-pandemitrott-vardpersonal
 image: "/content/images/2000x1000-paulina-valdes-evelina-andersson-foto-anna-rehnberg.jpg"
 image_caption: Avlastning. Paulina Valdes Montecino ser till att det är rent och snyggt i personalköket på IVA. Undersköterskan Evelina Andersson hittar vad hon söker i kylskåpet, eftersom Paulina fyllt på med  varor.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

@@ -6,8 +6,10 @@ original_id: 58927
 slug: sa-kan-ni-motverka-rasism-pa-arbetsplatsen
 image: "/content/images/rasism-i-arbetslivet-foto-johner_Red_2000x1000.jpg"
 image_caption: För att motverka rasism på arbetsplatsen krävs bland annat kunskap. Därför har Länsstyrelsen skapat en utbildning och en serie webbinarier. Deltagarna får också chansen att diskutera och reflektera tillsammans.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

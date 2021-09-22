@@ -6,8 +6,10 @@ original_id: 58906
 slug: ledningsteamet-som-stottar-rektorn
 image: "/content/images/2000x1000-ameli-nygren-malin-videkorp-pernilla-kristoffersson-foto-johan-nilsson-tt.jpg"
 image_caption: Ett team som kompletterar varandra. På bilden Amelie Nygren, kvalitetsutvecklare, Malin Videkorp, rektor, och Pernilla Kristoffersson, biträdande rektor. Intendent Marielle Ekdahl är den fjärde i ledningsteamet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Marika Sivertsson
 ---
 

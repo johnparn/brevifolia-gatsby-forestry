@@ -6,8 +6,10 @@ original_id: 46949
 slug: ny-sida-om-corona-och-arbetsmiljo
 image: "/content/images/2000x1000_Corona_roller_ansvar.jpg"
 image_caption: Coronapandemin ställer höga krav på alla, och samverkan är viktigare än någonsin. På den nya sidan hittar du – bland mycket annat – information om roller och ansvar i arbetsmiljöarbetet.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

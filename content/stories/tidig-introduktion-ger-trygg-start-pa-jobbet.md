@@ -7,8 +7,10 @@ slug: tidig-introduktion-ger-trygg-start-pa-jobbet
 image: "/content/images/2000x1000-oresundskraft-filip-wiqvist-anton-larsson-foto-johan-nilsson-TT.jpg"
 image_caption: Trygg start. På Öresundskraft kan anställningsintervjun ske i promenadform. Så gjorde chefen Filip Wiqvist och medarbetaren Anton Larsson. Dessutom drar introduktionen igång redan före första dagen på jobbet.
 
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

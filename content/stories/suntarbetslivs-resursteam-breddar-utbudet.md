@@ -6,8 +6,10 @@ original_id: 51642
 slug: suntarbetslivs-resursteam-breddar-utbudet
 image: "/content/images/2000x1000-petra-bollvik-foto-malin-berggren.jpg"
 image_caption: Stöd i digital form. Suntarbetslivs resursteam har breddat sitt utbud och bjuder in till digitala workshops om friskfaktorer i arbetslivet – som här med verksamhetsutvecklare Petra Bollvik.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

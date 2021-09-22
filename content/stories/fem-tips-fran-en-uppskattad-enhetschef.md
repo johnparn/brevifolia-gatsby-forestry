@@ -6,8 +6,10 @@ original_id: 56249
 slug: fem-tips-fran-en-uppskattad-enhetschef
 image: "/content/images/2000x1000-fargelanda-anna-maria-bonskog-foto-kent-eng-1.jpg"
 image_caption: Uppskattad enhetschef i Färgelanda. Skyddsombudet Anna Johansson har nominerat Anna-Maria Bonskog till Årets chef i fokus. Här med David Berg, sjuksköterska och Katarina Gustafsson, arbetsterapeut.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

@@ -6,8 +6,10 @@ original_id: 46151
 slug: krisstod-under-coronapandemin
 image: "/content/images/2000x1000-krisstod-foto-Mikael-Fritzon-TT.jpg"
 image_caption: Försök att alltid jobba två och två. Sociala relationer och stöd är viktigt i tider av extrem stress. Det är två av huvudbudskapen ifrån häftet om krisstöd under coronapandemin.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

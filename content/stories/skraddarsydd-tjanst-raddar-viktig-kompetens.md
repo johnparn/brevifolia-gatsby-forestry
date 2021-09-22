@@ -6,8 +6,10 @@ original_id: 58338
 slug: skraddarsydd-tjanst-raddar-viktig-kompetens
 image: "/content/images/2000x1000-ingela-andersson-foto-mattias-andersson-maddoc-photography.jpg"
 image_caption: Ingela Andersson har arbetat som sjuksköterska i många år i Region Kalmar län. Efter en hjärntumör som gav bestående hörselnedsättning har hon nu en personlig tjänst i regionens träningscenter.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

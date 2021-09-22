@@ -6,8 +6,10 @@ original_id: 49388
 slug: karlstad-tar-taten-for-mer-digital-hemtjanst
 image: "/content/images/2000x1000-modellkommun-foto-Scandinav-TT.jpg"
 image_caption: Rätt välfärdsteknik kan minska individens behov av hemtjänst. Nu är tio kommuner utsedda till modellkommuner för äldreomsorgens digitalisering.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

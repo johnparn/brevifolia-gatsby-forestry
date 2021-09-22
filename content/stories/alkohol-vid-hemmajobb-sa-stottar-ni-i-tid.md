@@ -6,8 +6,10 @@ original_id: 53702
 slug: alkohol-vid-hemmajobb-sa-stottar-ni-i-tid
 image: "/content/images/2000x1000-alkohol-hemarbete-foto-lisa-wikstrand-johner.jpg"
 image_caption: Håll kontakten! Det är ett av råden från Alna till chefer, för att stötta personer med missbruksrisk när de jobbar hemifrån. En engagerad chef kan göra stor skillnad.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Birgita Klepke
 ---
 

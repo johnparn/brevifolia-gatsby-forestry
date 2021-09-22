@@ -6,8 +6,10 @@ original_id: 52482
 slug: minska-smittan-se-over-luften-i-era-lokaler
 image: "/content/images/2000x1000-ventilation-foto-Alamy-Stock-Photo-tt.jpg"
 image_caption: Det är viktigt att se till att det finns frisk luft på arbetsplatsen, för att minska risken för smittspridning. Se över ventilationen och vädra ofta, är två av Arbetsmiljöverkets råd.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 

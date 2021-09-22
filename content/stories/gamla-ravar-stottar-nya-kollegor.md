@@ -6,8 +6,10 @@ original_id: 49580
 slug: gamla-ravar-stottar-nya-kollegor
 image: "/content/images/2000x1000-hab-lidkoping2-foto-anna-rehnberg.jpg"
 image_caption: Ett team som har kul ihop! På Barn- och ungdomshabiliteringen i Lidköping tar man hand om varandra, och alldeles särskilt om de nyanställda. En bra introduktion är viktig för att kunna jobba bra ihop, menar de.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Rehnberg
 ---
 

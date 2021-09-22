@@ -6,8 +6,10 @@ original_id: 54626
 slug: sa-fick-lycksele-7-nya-huvudskyddsombud
 image: "/content/images/2000x1000-HSO-anna-karin-herrstrom-foto-andreas-jakobsson.jpg"
 image_caption: Huvudskyddsombudet Anna-Karin Herrström stöttar och samordnar skyddsombuden på äldreboenden i Lycksele. Själv arbetar hon som vårdbiträde på omsorgsboendet Ventilen.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Norrby
 ---
 

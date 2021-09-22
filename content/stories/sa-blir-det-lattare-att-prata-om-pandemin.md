@@ -6,8 +6,10 @@ original_id: 54388
 slug: sa-blir-det-lattare-att-prata-om-pandemin
 image: "/content/images/2000x1000-sabbatsbergs-sjukhus-foto-Anders-Wiklund-TT.jpg"
 image_caption: Claudia Chaves Martins, Ylva Kruse, Emilia Goodwill Keller och Gunilla Kvist tycker alla att reflektionskorten har hjälpt dem att ta upp och hantera allt det som coronapandemin har inneburit för deras arbetsmiljö.
-friskfaktorer:
-activity:
+friskfaktorer: ""
+activity: ""
+articles_teasers_2: []
+article-teasers-list: []
 author: Anna Wettergård
 ---
 
