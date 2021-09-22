@@ -1,20 +1,22 @@
 ---
+
 content_type: article
 date: 2018-01-22T14:31:54.000+00:00
 title: Arbetsmiljölyftet – nu sprids de goda exemplen
 original_id: 29747
 slug: arbetsmiljolyftet-nu-sprids-de-goda-exemplen
-image: "../images/2000x1000-arbetsmiljolyftet-scannerprojekt-foto-lisa-thorsen.jpg"
-image_caption: 'Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats.
-  Enhetschef Rosalba degl''Innocenti på Danderyds sjukhus och anestesisjuksköterska
-  Daniel Ljungmark använder elektronisk blodscanner. '
+image: "/content/images/2000x1000-arbetsmiljolyftet-scannerprojekt-foto-lisa-thorsen.jpg"
+image_caption:
+"Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats.
+Enhetschef Rosalba degl'Innocenti på Danderyds sjukhus och anestesisjuksköterska
+Daniel Ljungmark använder elektronisk blodscanner. "
 author: Birgita Klepke
-friskfaktorer: ''
-activity: ''
+friskfaktorer: ""
+activity: ""
 articles_teasers_2: []
 article-teasers-list: []
-
 ---
+
 Vid årsskiftet avslutades de sista projekten inom Arbetsmiljölyftet hittills. Nu ska Stockholms läns landsting sprida alla goda erfarenheter och exempel.
 
 Under tre år har Stockholms läns landsting satsat 150 miljoner kronor för att förstärka arbetsmiljöarbetet på sjukhus, vårdcentraler och andra verksamheter inom landstinget. Chefer och anställda i verksamheterna har själva kunnat ansöka om pengar och har genomfört hela utvecklingsarbetet. Nu ska effekterna analyseras och goda resultat spridas under två år framöver.
