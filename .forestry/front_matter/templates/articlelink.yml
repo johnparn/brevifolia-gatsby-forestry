@@ -1,4 +1,16 @@
 ---
 label: ArticleLink
 hide_body: true
-fields: []
+fields:
+- name: article
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: articles
+      file: 
+      path: 
+  label: Article
