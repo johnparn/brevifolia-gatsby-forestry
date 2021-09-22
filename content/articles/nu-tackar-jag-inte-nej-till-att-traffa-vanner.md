@@ -1,7 +1,7 @@
 ---
 content_type: article
 date: 2020-06-02T09:58:16
-title: Nu tackar jag inte nej till att träffa vänner
+title: Nu tackar jag inte nej till att träffa vänner 😎
 original_id: 47950
 slug: nu-tackar-jag-inte-nej-till-att-traffa-vanner
 image: "/content/images/2000x1000-marika-holmefalk-foto-bjorn-larsson-roswall-tt.jpg"
