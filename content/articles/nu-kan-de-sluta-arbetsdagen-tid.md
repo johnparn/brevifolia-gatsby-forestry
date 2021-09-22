@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2017-03-28T11:11:22
-title: "Nu kan de sluta arbetsdagen i tid"
+date: 2017-03-28T11:11:22.000+00:00
+title: Nu kan de sluta arbetsdagen i tid
 original_id: 24513
 slug: nu-kan-de-sluta-arbetsdagen-tid
 image: "../images/2000x1000-viveka-palmqvist-rosalba-deglInnocenti-foto-jessica-gow-tt-2.jpg"
-image_caption: "Nu fungerar samarbetet! Viveka Palmqvist, kvalitetsutvecklare, och Rosalba degl Innocenti, chef för anestesiavdelningen, är mycket nöjda med samarbetsprojektet på anestesi- och operationsteamet."
+image_caption: Nu fungerar samarbetet! Viveka Palmqvist, kvalitetsutvecklare, och
+  Rosalba degl'Innocenti, chef för anestesiavdelningen, är mycket nöjda med samarbetsprojektet
+  på anestesi- och operationsteamet.
 author: Birgita Klepke
-friskfaktorer: ""
-activity: ""
+friskfaktorer: Systematiskt arbetsmiljöarbete (SAM)
+activity: Undersök
 articles_teasers_2: []
 article-teasers-list: []
----
 
+---
 En starkare laganda och bättre ordning på arbetstiderna. Det blev vinsterna när anestesi- och operationsteamet på ortopeden vid Danderyds sjukhus fick pengar från Arbetsmiljölyftet, för att se över sina arbetsrutiner.
 
 Att samarbetet inte fungerade optimalt var ingen nyhet när pilotprojektet Sluta arbetsdagen i tid genom stärkt teamarbete inleddes hösten 2015. Trots ny personal, nya chefer och ny ledningsstruktur lyckades teamen inte komma igång i tid på morgnarna – vilket ledde till ”onödig” övertid i slutet av arbetsdagen.
