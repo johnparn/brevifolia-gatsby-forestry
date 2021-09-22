@@ -1,5 +1,4 @@
 ---
-
 content_type: article
 date: 2020-08-04T09:39:46
 title: 4 Ess sänkte sjukskrivningstalen i Småland
@@ -7,12 +6,14 @@ original_id: 48699
 slug: 4-ess-sankte-sjukskrivningstalen-i-smaland
 image: "/content/images/2000x1000-torsas-tre.jpg"
 image_caption: Mathilda Rainford, HR-specialist i Torsås, och Git Nilsson, rehabkoordinator vid hälsocentralen, var aktiva i projektet 4 Ess. De är överens om att projektet har bidragit stort till de minskade sjukskrivningstalen.
-friskfaktorer: ''
-activity: ''
+friskfaktorer: ""
+activity: ""
 articles_teasers_2: []
 article-teasers-list: []
 author: Anna Wettergård
----Samverkansmöten tidigt i sjukskrivningsprocessen och arbetsmiljöutbildningar för chefer. Det är två viktiga delar i metoden 4 Ess, som har lett till drastiskt sänkta sjukskrivningstal i tre småländska kommuner.
+---
+
+Samverkansmöten tidigt i sjukskrivningsprocessen och arbetsmiljöutbildningar för chefer. Det är två viktiga delar i metoden 4 Ess, som har lett till drastiskt sänkta sjukskrivningstal i tre småländska kommuner.
 
 4 Ess står för Smart Samverkan i Småland Sydost. Det är ett samarbetsprojekt som pågick i Småland mellan 2017 och början av 2020, med syftet att minska sjukskrivningstalen bland kommunanställda.
 
