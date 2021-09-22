@@ -1,19 +1,20 @@
 ---
 content_type: article
-date: 2018-10-01T15:37:46
-title: 'Vinn tid med nytt sätt att skriva'
+date: 2018-10-01T15:37:46.000+00:00
+title: Vinn tid med nytt sätt att skriva
 original_id: 34229
 slug: vinn-tid-med-nytt-satt-att-skriva
 image: "../images/2000x1000-battre-dokumentation-foto-pexels.jpg"
-image_caption: 'Socialsekreterare inom barn- och ungdomsvården dokumenterar mycket. Genom att öva sig i bättre dokumentation har deltagare i ett projekt kunnat snabba upp och korta ner sitt skrivande.  '
-author: Jeanette Neij
+image_caption: 'Socialsekreterare inom barn- och ungdomsvården dokumenterar mycket.
+  Genom att öva sig i bättre dokumentation har deltagare i ett projekt kunnat snabba
+  upp och korta ner sitt skrivande.  '
+author: ''
 friskfaktorer: ''
 activity: ''
 articles_teasers_2: []
 article-teasers-list: []
 
 ---
-
 Snabbare, kortare och mer lättläst dokumentation. Socialsekreterare i 29 kommuner har vässat sitt skrivande i ett nationellt utvecklings­projekt för bättre dokumentation.  
 – Jag kan nu lägga min tid på de utredningar och beslutsunderlag som kräver mer arbete, säger socialsekreterare Sabina Preschel.
 
@@ -35,10 +36,10 @@ Men de uppgifter som ska dokumenteras i besluts­underlagen inbjuder till alltf�
 
 Socialsekreterarna har övat på att
 
-*   skriva journal med stöd av ingress
-*   skriva i punktform när det fungerar
-*   skriva kortfattade och sakliga beslutsunderlag
-*   undvika dubbeldokumentation
+* skriva journal med stöd av ingress
+* skriva i punktform när det fungerar
+* skriva kortfattade och sakliga beslutsunderlag
+* undvika dubbeldokumentation
 
 Och vinsterna är flera. Framför allt sparar socialsekreterarna tid på att dokumentera mer koncist och kortfattat. En vinst är också större glädje när dokumentationen känns lättare, går snabbare och ger tydligare resultat. ”Vi har återfått skrivglädjen”, beskriver någon i projektets slutrapport.
 
@@ -46,8 +47,11 @@ Och vinsterna är flera. Framför allt sparar socialsekreterarna tid på att dok
 
 – Jag har alltid tyckt att man dokumenterar väldigt mycket och får lägga otroligt mycket tid på det i stället för på det sociala arbetet, vilket skapar stress. Nu är det fokus på det viktiga. Det här har verkligen effektiviserat min dokumentation, speciellt beslutsunderlag, säger socialsekreterare Sabina Preschel på familjesektionen i Vetlanda kommun.
 
-**Vad har förbättrats?  
-**[![Porträtt Sabina Preschel, bättre dokumentation socialsekreterare.](https://www.suntarbetsliv.se/wp-content/uploads/2018/10/200x220-sabina-preschel.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2018/10/200x220-sabina-preschel.jpg)– Jag kan nu lägga min tid på de utredningar och beslutsunderlag som kräver mer arbete. De som inte behöver arbetas med lika mycket kan avslutas snabbare. Vi använder inte alla rubriker längre och det sparar tid att skriva journal i punktform. En del kanske tycker att det är svårt men det funkar för mig.
+**Vad har förbättrats?**  
+  
+[![Porträtt Sabina Preschel, bättre dokumentation socialsekreterare.](https://www.suntarbetsliv.se/wp-content/uploads/2018/10/200x220-sabina-preschel.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2018/10/200x220-sabina-preschel.jpg)
+
+– Jag kan nu lägga min tid på de utredningar och beslutsunderlag som kräver mer arbete. De som inte behöver arbetas med lika mycket kan avslutas snabbare. Vi använder inte alla rubriker längre och det sparar tid att skriva journal i punktform. En del kanske tycker att det är svårt men det funkar för mig.
 
 > Det här har verkligen effektiviserat min dokumentation.
 
@@ -66,4 +70,3 @@ Hennes tips till andra kommuner är därför att börja utveckla bättre dokumen
 – Det handlar om att man ska våga förändra skrivsättet. Sedan kan det spilla över på svårare ärenden. Vi hoppas kunna använda SKL:s utbildningsstöd till alla våra andra kommuner, som inte var med i projektet.
 
 SKL erbjuder en [kostnadsbelagd webbutbildning](https://skl.se/integrationsocialomsorg/socialomsorg/barnochunga/regionalautvecklingsledare/dokumentationbarnochunga.12918.html) som bygger på projektets resultat, med webbföreläsningar och praktiska övningar. Andra kommuner kan därmed utveckla sin dokumentation på samma sätt som inom projektet.
-

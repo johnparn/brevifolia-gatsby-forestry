@@ -30,7 +30,6 @@ sections:
 - type: document
   path: readme-forestry.md
   label: Help
-  match: "**/*"
   read_only: true
 - type: heading
   label: General Config
