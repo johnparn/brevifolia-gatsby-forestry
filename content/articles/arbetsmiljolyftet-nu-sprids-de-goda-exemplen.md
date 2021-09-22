@@ -1,17 +1,16 @@
 ---
 content_type: article
 date: 2018-01-22T14:31:54
-title: 'Arbetsmiljölyftet – nu sprids de goda exemplen'
+title: "Arbetsmiljölyftet – nu sprids de goda exemplen"
 original_id: 29747
 slug: arbetsmiljolyftet-nu-sprids-de-goda-exemplen
 image: "../images/2000x1000-arbetsmiljolyftet-scannerprojekt-foto-lisa-thorsen.jpg"
-image_caption: 'Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats. Enhetschef Rosalba degl'Innocenti på Danderyds sjukhus och anestesisjuksköterska Daniel Ljungmark använder elektronisk blodscanner. '
+image_caption: "Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats. Enhetschef Rosalba degl Innocenti på Danderyds sjukhus och anestesisjuksköterska Daniel Ljungmark använder elektronisk blodscanner. "
 author: Birgita Klepke
-friskfaktorer: ''
-activity: ''
+friskfaktorer: ""
+activity: ""
 articles_teasers_2: []
 article-teasers-list: []
-
 ---
 
 Vid årsskiftet avslutades de sista projekten inom Arbetsmiljölyftet hittills. Nu ska Stockholms läns landsting sprida alla goda erfarenheter och exempel.
@@ -69,4 +68,3 @@ Det är ett ansvar som, enligt Maria Englund, ligger på verksamheterna.
 – Vi varken kan eller vill ta över kunskapsspridningen, men ska naturligtvis stötta projektledare och chefer i deras arbete med att implementera goda resultat, säger hon.
 
 _Se en film om Arbetsmiljölyftet:_
-

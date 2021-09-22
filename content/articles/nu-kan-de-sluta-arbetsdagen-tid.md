@@ -1,17 +1,16 @@
 ---
 content_type: article
 date: 2017-03-28T11:11:22
-title: 'Nu kan de sluta arbetsdagen i tid'
+title: "Nu kan de sluta arbetsdagen i tid"
 original_id: 24513
 slug: nu-kan-de-sluta-arbetsdagen-tid
 image: "../images/2000x1000-viveka-palmqvist-rosalba-deglInnocenti-foto-jessica-gow-tt-2.jpg"
-image_caption: 'Nu fungerar samarbetet! Viveka Palmqvist, kvalitetsutvecklare, och Rosalba degl'Innocenti, chef för anestesiavdelningen, är mycket nöjda med samarbetsprojektet på anestesi- och operationsteamet.'
+image_caption: "Nu fungerar samarbetet! Viveka Palmqvist, kvalitetsutvecklare, och Rosalba degl Innocenti, chef för anestesiavdelningen, är mycket nöjda med samarbetsprojektet på anestesi- och operationsteamet."
 author: Birgita Klepke
-friskfaktorer: ''
-activity: ''
+friskfaktorer: ""
+activity: ""
 articles_teasers_2: []
 article-teasers-list: []
-
 ---
 
 En starkare laganda och bättre ordning på arbetstiderna. Det blev vinsterna när anestesi- och operationsteamet på ortopeden vid Danderyds sjukhus fick pengar från Arbetsmiljölyftet, för att se över sina arbetsrutiner.
@@ -79,4 +78,3 @@ Liksom kvalitetsutvecklare Viveka Palmqvist håller han också med om att det ä
 – Än så länge är den vilande, men trycket ökar och folk rycker i mig för att vi ska gå vidare. Och intresset är stort även från andra klinker och sjukhus.
 
 Här hittar du en kort film om projektet på [Danderyds sjukhus anestesi- och ortopedavdelning](http://ringla.nu/goda-exempel/sluta-arbetsdagen-i-tid)!
-
