@@ -43,7 +43,9 @@ Vid besöket fick förskolan veta att de gör mycket bra, men de fick också kri
 
 > Så få tillbud kan ni bara inte ha
 
-[![Porträtt på Stefan NIlsson.](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-stefan-nilsson-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-stefan-nilsson-foto-bjorn-larsson-rosvall-tt.jpg)— Så få tillbud kan ni bara inte ha, utbrast inspektören, minns Stefan Nilsson.
+[![Porträtt på Stefan NIlsson.](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-stefan-nilsson-foto-bjorn-larsson-rosvall-tt.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-stefan-nilsson-foto-bjorn-larsson-rosvall-tt.jpg)
+
+— Så få tillbud kan ni bara inte ha, utbrast inspektören, minns Stefan Nilsson.
 
 Plan för utbildning i första hjälpen för personalen saknade de också.
 
@@ -75,7 +77,9 @@ Huvudskyddsombudet Stefan Nilsson håller med.
 
 Agneta Pettersson Bell, Stenungsundspartiet, är förste vice ordförande för kommunstyrelsen och ordförande i Välfärdsutskottet. Det här var första gången hon var med på en inspektion. Hon berättar att utskottet inte har arbetsmiljö som en återkommande punkt på sina möten.
 
-[![Porträtt på Agneta Pettersson Bell](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-agneta-pettersson-bell.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-agneta-pettersson-bell.jpg)— Nu behöver jag fundera på hur det kan utvecklas ytterligare. Det är tänkbart att det blir en fråga på våra möten framöver. Arbetsmiljön är en oerhört viktig fråga för politiken för den är viktig för våra medarbetare, och den påverkar därmed också kvaliteten i verksamheten som vi tillhandahåller för medborgarna, säger Agneta Pettersson Bell.
+[![Porträtt på Agneta Pettersson Bell](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-agneta-pettersson-bell.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2020/01/200x220-agneta-pettersson-bell.jpg)
+
+— Nu behöver jag fundera på hur det kan utvecklas ytterligare. Det är tänkbart att det blir en fråga på våra möten framöver. Arbetsmiljön är en oerhört viktig fråga för politiken för den är viktig för våra medarbetare, och den påverkar därmed också kvaliteten i verksamheten som vi tillhandahåller för medborgarna, säger Agneta Pettersson Bell.
 
 Hon tycker att inspektionen har ökat hennes eget medvetande om arbetsmiljön, speciellt den organisatoriska och sociala arbetsmiljön som hon anser har en framträdande roll inom kommunal verksamhet.
 
