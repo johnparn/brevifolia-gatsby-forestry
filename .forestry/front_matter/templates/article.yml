@@ -54,14 +54,6 @@ fields:
       file: 
       path: 
   label: Friskfaktorer
-- name: articles_teasers_2
-  type: blocks
-  label: Articles Teasers 2
-  template_types:
-  - article-teaser
-  config:
-    min: 
-    max: 
 - name: content_type
   type: text
   config:
@@ -69,14 +61,6 @@ fields:
   hidden: true
   default: article
   label: Content Type
-- name: article-teasers-list
-  type: blocks
-  label: Article Teasers List
-  template_types:
-  - article-teaser
-  config:
-    min: 
-    max: 
 - name: author
   type: select
   default: []
@@ -120,3 +104,21 @@ fields:
   config: {}
   template: articleselection
   label: Related articles
+- name: articles_teasers_2
+  type: blocks
+  label: Articles Teasers 2
+  template_types:
+  - article-teaser
+  config:
+    min: 
+    max: 
+  hidden: true
+- name: article-teasers-list
+  type: blocks
+  label: Article Teasers List
+  template_types:
+  - article-teaser
+  config:
+    min: 
+    max: 
+  hidden: true
