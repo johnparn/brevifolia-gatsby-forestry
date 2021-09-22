@@ -10,7 +10,7 @@ article-teasers-list: []
 author: John Parnefjord
 date: 
 original_id: 
-slug: testartkile
+slug: testartikel
 
 ---
 Brödtext
