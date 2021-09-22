@@ -17,6 +17,8 @@ article-teasers-list: []
 related_articles:
 - template: articlelink
   article: content/articles/gemensamt-sakerhetsarbete-battre-for-alla.md
+- template: articlelink
+  article: content/articles/har-blir-de-piggare-med-ljus-som-foljer-dygnet.md
 
 ---
 På Suntarbetsliv kommer chefer och skyddsombud kunna hitta bra material och redskap, som gör det lättare att tackla föreskrifterna om den organisatoriska och sociala arbetsmiljön (OSA). Det berättar fyra företrädare för arbetsgivare och anställda inom kommun och landsting.
