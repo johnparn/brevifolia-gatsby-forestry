@@ -83,10 +83,10 @@ fields:
     required: false
     options: []
     source:
-      type: pages
+      type: documents
       section: author-list
-      file: 
-      path: 
+      file: content/data/authors.yaml
+      path: authors
   label: Author
 pages:
 - content/articles/testartikel.md
