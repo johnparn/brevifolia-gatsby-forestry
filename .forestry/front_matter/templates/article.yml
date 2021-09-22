@@ -76,5 +76,17 @@ fields:
   config:
     min: 
     max: 
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: author-list
+      file: 
+      path: 
+  label: Author
 pages:
 - content/articles/testartikel.md
