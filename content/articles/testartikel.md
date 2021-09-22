@@ -8,7 +8,7 @@ activity: Kom igång
 articles_teasers_2: []
 article-teasers-list: []
 author: John Parnefjord
-date: 
+date: 2021-09-21T22:00:00Z
 original_id: 
 slug: testartikel
 
