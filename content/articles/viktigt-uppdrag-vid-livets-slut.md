@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2020-11-02T17:12:23
+date: 2020-11-02T17:12:23.000+00:00
 title: Viktigt uppdrag vid livets slut
 original_id: 51838
 slug: viktigt-uppdrag-vid-livets-slut
 image: "/content/images/2000x1000-jennifer-johansson-axen-ingela-karlsson-foto-anna-rehnberg.jpg"
-image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat med nystrukna lakan och ordnat med ljus och blommor.
-friskfaktorer: ""
-activity: ""
+image_caption: Vakteamet ansvarar för att det blir värdigt och fint även efter att
+  en boende gått bort. Här har Jennifer Johansson Axén och Ingela Karlsson bäddat
+  med nystrukna lakan och ordnat med ljus och blommor.
+friskfaktorer: Rehabilitering
+activity: Undersök
 articles_teasers_2: []
 article-teasers-list: []
-author: Anna Rehnberg
----
+author: ''
 
+---
 På Oskarströms äldreboende i Halmstad har man skapat ett välfungerande system för vak vid livets slut. Det ger ökad trygghet för de boende, de anhöriga och personalen.
 
 Den kyliga höstvinden rycker med sig ett och annat gyllene löv som sakta singlar till marken.
