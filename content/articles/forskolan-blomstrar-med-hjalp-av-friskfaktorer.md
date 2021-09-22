@@ -45,7 +45,8 @@ Arbetet med hälsoinspiratörer är en del av ett stort och systematiskt arbetsm
 
 De började med två enkätundersökningar. En ”vanlig” medarbetarundersökning, och en som utgick ifrån friskfaktorerna. De använde också friskfaktorerna för att analysera resultatet.
 
-– På en arbetsplatsträff tog vi upp de områden som vi var bäst på. Vi kom fram till att det har att göra med två friskfaktorer: delaktighet och en transparent organisation.
+– På en arbetsplatsträff tog vi upp de områden som vi var bäst på. Vi kom fram till att det har att göra med två friskfaktorer:
+activity: delaktighet och en transparent organisation.
 
 ### Delaktighet och transparens
 

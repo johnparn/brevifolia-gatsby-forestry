@@ -1,11 +1,11 @@
 ---
 
-friskfaktorer: Rättvis
+friskfaktorer:
+activity: Rättvis
 content_type: article
 title: "Titel med unicode i rubriken \U0001F600"
 image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
 image_caption: "Unicode i rubriken \U0001F600"
-activity: Undersök
 articles_teasers_2:
 article-teasers-list:
 

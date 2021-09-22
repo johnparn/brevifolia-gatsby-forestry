@@ -5,7 +5,7 @@ title: Så håller sig bussförarna friska i Luleå
 original_id: 47639
 slug: sa-haller-sig-bussforarna-friska-i-lulea
 image: "/content/images/2000x1000-friska-busschaufforer-foto-Susanne-Lindholm.jpg"
-image_caption: Dick Sandberg, skyddsombud på Luleå Lokaltrafik, säger att samverkan har fungerat bra under coronapandemin: "Jag har fått medhåll från arbetsledningen i det jag har föreslagit. Det gör jobbet roligt".
+image_caption: Dick Sandberg, skyddsombud på Luleå Lokaltrafik, säger att samverkan har fungerat bra under coronapandemin "Jag har fått medhåll från arbetsledningen i det jag har föreslagit. Det gör jobbet roligt".
 friskfaktorer:
 activity:
 author: Anna Wettergård
