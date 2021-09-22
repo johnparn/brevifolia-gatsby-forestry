@@ -1,18 +1,20 @@
 ---
 content_type: article
-date: 2020-10-20T17:52:29
+date: 2020-10-20T17:52:29.000+00:00
 title: Nu kan ni få Bättre möten
 original_id: 51263
 slug: nu-kan-ni-fa-battre-moten
 image: "/content/images/2000x1000-Battre-moten-Suntarbetsliv.png"
-image_caption: Verktyget Bättre möten går ut på att lära sig om - och träna på att använda - fem olika perspektiv i varje möte. I verktyget är perspektiven representerade av fem olika personer.
-friskfaktorer: ""
-activity: ""
+image_caption: Verktyget Bättre möten går ut på att lära sig om - och träna på att
+  använda - fem olika perspektiv i varje möte. I verktyget är perspektiven representerade
+  av fem olika personer.
+friskfaktorer: ''
+activity: ''
 articles_teasers_2: []
 article-teasers-list: []
 author: Anna Wettergård
----
 
+---
 Ingen vill sitta på möten där bara en pratar, eller där deltagarna inte törs säga vad de tycker. Nej, det man vill ha är möten som är effektiva och meningsfulla, med engagerade deltagare som får stöd av varandra. Vägen dit går via Suntarbetslivs verktyg Bättre möten.
 
 Möten är en stor del av mångas arbetsvardag. Många av dem sker just nu via en datorskärm, medan andra möten sker på samma stolar och med samma jobbkaffe som de alltid har gjort.
@@ -31,7 +33,9 @@ Det säger Birgitta Södergren, som är en av forskarna bakom Suntarbetslivs ver
 
 Suntarbetslivs verktyg Bättre möten har funnits ett tag, men har nu fått en uppfräschning och ett nytt utseende.
 
-[![porträtt på kvinna som ler, blå tröja och blå örhänge, uppsatt mörkt hår.](https://www.suntarbetsliv.se/wp-content/uploads/2018/01/200x240-mia-busk-foto-Kristofer-Samuelsson.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2018/01/200x240-mia-busk-foto-Kristofer-Samuelsson.jpg)– Det är samma forskning som ligger bakom. Men nu är informationen mer lättillgänglig och verktyget har blivit lättare att använda.
+[![porträtt på kvinna som ler, blå tröja och blå örhänge, uppsatt mörkt hår.](https://www.suntarbetsliv.se/wp-content/uploads/2018/01/200x240-mia-busk-foto-Kristofer-Samuelsson.jpg)](https://www.suntarbetsliv.se/wp-content/uploads/2018/01/200x240-mia-busk-foto-Kristofer-Samuelsson.jpg)
+
+– Det är samma forskning som ligger bakom. Men nu är informationen mer lättillgänglig och verktyget har blivit lättare att använda.
 
 Det säger Mia Busk, projektledare för Bättre Möten. Hon berättar att det är lätt att komma igång och använda verktyget, till exempel på nästa arbetsplatsträff.
 
@@ -39,11 +43,11 @@ Det säger Mia Busk, projektledare för Bättre Möten. Hon berättar att det ä
 
 Verktyget går ut på att man ska lära sig om, och träna på att använda, fem olika perspektiv – som alla behöver samspela för att ett möte ska bli så bra som möjligt. Perspektiven är:
 
-- Det positiva perspektivet – ger ett positivt samtalsklimat som gynnar samarbetet
-- Det utforskande perspektivet – ger utrymme för utforskande frågor
-- Det berättande perspektivet – gör att all kunskap kommer fram
-- Inifrånperspektivet – stärker gruppen genom fokus på egna resurser och tillgångar
-- Utifrånperspektivet – för in hur omvärlden påverkar och påverkas
+* Det positiva perspektivet – ger ett positivt samtalsklimat som gynnar samarbetet
+* Det utforskande perspektivet – ger utrymme för utforskande frågor
+* Det berättande perspektivet – gör att all kunskap kommer fram
+* Inifrånperspektivet – stärker gruppen genom fokus på egna resurser och tillgångar
+* Utifrånperspektivet – för in hur omvärlden påverkar och påverkas
 
 ### Även digitala möten
 
