@@ -1,0 +1,12 @@
+---
+label: EmployeesList
+hide_body: true
+fields:
+- name: employees_list
+  type: blocks
+  label: Employees List
+  template_types:
+  - employee
+  config:
+    min: 
+    max: 

@@ -34,3 +34,6 @@ fields:
   config:
     required: false
   label: Email
+pages:
+- content/contact/anna-norrby.md
+- content/contact/jessica-aronsson.md

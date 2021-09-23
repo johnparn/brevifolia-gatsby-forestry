@@ -31,6 +31,13 @@ sections:
   path: readme-forestry.md
   label: Help
   read_only: true
+- type: directory
+  path: content/contact
+  label: Contact
+  create: documents
+  match: "**/*"
+  templates:
+  - employee
 - type: heading
   label: General Config
 - type: document
