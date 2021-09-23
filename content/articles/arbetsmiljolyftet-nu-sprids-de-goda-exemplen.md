@@ -6,9 +6,8 @@ title: Arbetsmiljölyftet – nu sprids de goda exemplen
 original_id: 29747
 slug: arbetsmiljolyftet-nu-sprids-de-goda-exemplen
 image: "/content/images/2000x1000-arbetsmiljolyftet-scannerprojekt-foto-lisa-thorsen.jpg"
-image_caption:
-"Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats.
-Enhetschef Rosalba degl'Innocenti på Danderyds sjukhus och anestesisjuksköterska
+image_caption: "Genom Arbetsmiljölyftet har arbetsprocessen vid blodtransfusion förbättrats.
+Enhetschef Rosalba degl''Innocenti på Danderyds sjukhus och anestesisjuksköterska
 Daniel Ljungmark använder elektronisk blodscanner. "
 author: Birgita Klepke
 friskfaktorer: ""
