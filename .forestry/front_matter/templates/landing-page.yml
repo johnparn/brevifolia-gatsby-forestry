@@ -5,6 +5,7 @@ fields:
 - name: content
   type: blocks
   template_types:
+  - hero
   - articles-spotlight
   config:
     min: 
