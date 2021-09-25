@@ -2,6 +2,11 @@
 label: LandingPage
 hide_body: true
 fields:
+- name: hero
+  type: include
+  config: {}
+  template: hero
+  label: Hero
 - name: articles_spotlight
   type: include
   config: {}
