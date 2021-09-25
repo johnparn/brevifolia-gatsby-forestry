@@ -1,4 +1,12 @@
 ---
 label: Articles Spotlight
 hide_body: true
-fields: []
+fields:
+- name: article_block
+  type: blocks
+  label: Article Block
+  template_types:
+  - article
+  config:
+    min: 3
+    max: 3
