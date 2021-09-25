@@ -2,11 +2,23 @@
 label: Articles Spotlight
 hide_body: true
 fields:
-- name: article_block
-  type: blocks
-  label: Article Block
-  template_types:
-  - article
+- name: articles_selection
+  type: field_group_list
+  fields:
+  - name: article
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: articles
+        file: 
+        path: 
+    label: Article
   config:
-    min: 3
-    max: 3
+    min: 
+    max: 
+    labelField: 
+  label: Articles Selection
