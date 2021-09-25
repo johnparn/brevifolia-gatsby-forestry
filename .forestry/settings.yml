@@ -6,11 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: document
-  path: content/landing_page
-  label: Landing Page
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content/articles
   label: Articles
@@ -25,6 +20,10 @@ sections:
   path: readme-forestry.md
   label: Help
   read_only: true
+- type: document
+  path: content/landing_page.md
+  label: Landing Page
+  match: "**/*"
 - type: directory
   path: content/contact
   label: Contact
