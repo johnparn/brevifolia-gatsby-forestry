@@ -1,4 +1,9 @@
 ---
 label: LandingPage
 hide_body: true
-fields: []
+fields:
+- name: articles_spotlight
+  type: include
+  config: {}
+  template: articles-spotlight
+  label: Articles Spotlight
