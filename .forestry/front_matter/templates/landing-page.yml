@@ -2,10 +2,13 @@
 label: Landing Page
 hide_body: false
 fields:
-- name: articles_spotlight
-  type: include
-  config: {}
-  template: articles-spotlight
-  label: Articles Spotlight
+- name: content
+  type: blocks
+  template_types:
+  - articles-spotlight
+  config:
+    min: 
+    max: 
+  label: Content
 pages:
 - content/pages/Landing Page.md
