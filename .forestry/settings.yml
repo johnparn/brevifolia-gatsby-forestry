@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: document
+  path: content/landing_page
+  label: Landing Page
+  match: "**/*"
 - type: directory
   path: content/articles
   label: Articles
