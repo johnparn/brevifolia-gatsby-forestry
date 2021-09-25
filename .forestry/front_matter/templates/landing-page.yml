@@ -7,3 +7,5 @@ fields:
   config: {}
   template: articles-spotlight
   label: Articles Spotlight
+pages:
+- content/pages/Landing Page.md
