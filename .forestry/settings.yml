@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+  templates:
+  - landing-page
 - type: heading
   label: Content
 - type: directory
@@ -20,10 +27,6 @@ sections:
   path: readme-forestry.md
   label: Help
   read_only: true
-- type: document
-  path: content/landing_page.md
-  label: Landing Page
-  match: "**/*"
 - type: directory
   path: content/contact
   label: Contact
