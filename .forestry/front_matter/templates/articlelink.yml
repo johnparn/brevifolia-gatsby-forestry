@@ -1,6 +1,7 @@
 ---
 label: ArticleLink
 hide_body: true
+display_field: article
 fields:
 - name: article
   type: select
@@ -14,3 +15,4 @@ fields:
       file: 
       path: 
   label: Article
+  description: Select article
