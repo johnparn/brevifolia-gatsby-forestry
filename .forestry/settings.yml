@@ -10,6 +10,7 @@ sections:
   path: content/landing_page
   label: Landing Page
   match: "**/*"
+  read_only: false
 - type: directory
   path: content/articles
   label: Articles
