@@ -5,9 +5,9 @@ display_field: article
 fields:
 - name: article
   type: select
-  default: []
+  default: content/articles/de-ovar-i-datorn-for-att-klara-akuta-situationer.md
   config:
-    required: false
+    required: true
     options: []
     source:
       type: pages
