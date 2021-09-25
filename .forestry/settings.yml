@@ -27,6 +27,10 @@ sections:
   match: "**/*"
   templates:
   - employee
+- type: document
+  path: content/landing_page
+  label: Landing Page
+  match: "**/*"
 - type: heading
   label: General Config
 - type: document
