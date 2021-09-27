@@ -8,10 +8,17 @@ content:
   hero_image: ''
   call_to_action: ''
   content: ''
-- template: articles-spotlight
-  articles_selection:
-  - article: []
-  - article: []
-  - article: content/articles/filmer-ska-starka-samverkan-i-lycksele.md
+related_articles:
+- template: articlelink
+  article: content/articles/gruppkommunikation-mer-an-bara-ord.md
+- template: articlelink
+  article: content/articles/de-skapar-checklistor-digital-arbetsmiljo.md
+- template: articlelink
+  article: content/articles/har-blir-de-piggare-med-ljus-som-foljer-dygnet.md
+landing_page_content:
+- template: hero
+  hero_image: "/content/images/skellefteahb1.jpg"
+  call_to_action: Häng med vad som händer i omvärlden
+  content: ''
 
 ---

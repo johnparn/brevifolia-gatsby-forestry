@@ -17,6 +17,11 @@ fields:
         file: 
         path: 
     label: Article
+  - name: link_article
+    type: include
+    config: {}
+    template: articlelink
+    label: Link Article
   config:
     min: 
     max: 
